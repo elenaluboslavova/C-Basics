@@ -1,0 +1,10 @@
+D:\SoftUni\PB-Exams\09-10March2019\01.TennisEquipment\01.TennisEquipment\bin\Debug\netcoreapp3.1\01.TennisEquipment.exe
+D:\SoftUni\PB-Exams\09-10March2019\01.TennisEquipment\01.TennisEquipment\bin\Debug\netcoreapp3.1\01.TennisEquipment.deps.json
+D:\SoftUni\PB-Exams\09-10March2019\01.TennisEquipment\01.TennisEquipment\bin\Debug\netcoreapp3.1\01.TennisEquipment.runtimeconfig.json
+D:\SoftUni\PB-Exams\09-10March2019\01.TennisEquipment\01.TennisEquipment\bin\Debug\netcoreapp3.1\01.TennisEquipment.runtimeconfig.dev.json
+D:\SoftUni\PB-Exams\09-10March2019\01.TennisEquipment\01.TennisEquipment\bin\Debug\netcoreapp3.1\01.TennisEquipment.dll
+D:\SoftUni\PB-Exams\09-10March2019\01.TennisEquipment\01.TennisEquipment\bin\Debug\netcoreapp3.1\01.TennisEquipment.pdb
+D:\SoftUni\PB-Exams\09-10March2019\01.TennisEquipment\01.TennisEquipment\obj\Debug\netcoreapp3.1\01.TennisEquipment.AssemblyInfoInputs.cache
+D:\SoftUni\PB-Exams\09-10March2019\01.TennisEquipment\01.TennisEquipment\obj\Debug\netcoreapp3.1\01.TennisEquipment.AssemblyInfo.cs
+D:\SoftUni\PB-Exams\09-10March2019\01.TennisEquipment\01.TennisEquipment\obj\Debug\netcoreapp3.1\01.TennisEquipment.dll
+D:\SoftUni\PB-Exams\09-10March2019\01.TennisEquipment\01.TennisEquipment\obj\Debug\netcoreapp3.1\01.TennisEquipment.pdb
