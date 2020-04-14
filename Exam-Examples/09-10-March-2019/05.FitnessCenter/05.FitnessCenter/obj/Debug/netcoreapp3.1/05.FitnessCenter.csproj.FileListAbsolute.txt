@@ -1,0 +1,10 @@
+D:\SoftUni\PB - Exams\09-10-March-2019\05.FitnessCenter\05.FitnessCenter\bin\Debug\netcoreapp3.1\05.FitnessCenter.exe
+D:\SoftUni\PB - Exams\09-10-March-2019\05.FitnessCenter\05.FitnessCenter\bin\Debug\netcoreapp3.1\05.FitnessCenter.deps.json
+D:\SoftUni\PB - Exams\09-10-March-2019\05.FitnessCenter\05.FitnessCenter\bin\Debug\netcoreapp3.1\05.FitnessCenter.runtimeconfig.json
+D:\SoftUni\PB - Exams\09-10-March-2019\05.FitnessCenter\05.FitnessCenter\bin\Debug\netcoreapp3.1\05.FitnessCenter.runtimeconfig.dev.json
+D:\SoftUni\PB - Exams\09-10-March-2019\05.FitnessCenter\05.FitnessCenter\bin\Debug\netcoreapp3.1\05.FitnessCenter.dll
+D:\SoftUni\PB - Exams\09-10-March-2019\05.FitnessCenter\05.FitnessCenter\bin\Debug\netcoreapp3.1\05.FitnessCenter.pdb
+D:\SoftUni\PB - Exams\09-10-March-2019\05.FitnessCenter\05.FitnessCenter\obj\Debug\netcoreapp3.1\05.FitnessCenter.AssemblyInfoInputs.cache
+D:\SoftUni\PB - Exams\09-10-March-2019\05.FitnessCenter\05.FitnessCenter\obj\Debug\netcoreapp3.1\05.FitnessCenter.AssemblyInfo.cs
+D:\SoftUni\PB - Exams\09-10-March-2019\05.FitnessCenter\05.FitnessCenter\obj\Debug\netcoreapp3.1\05.FitnessCenter.dll
+D:\SoftUni\PB - Exams\09-10-March-2019\05.FitnessCenter\05.FitnessCenter\obj\Debug\netcoreapp3.1\05.FitnessCenter.pdb
