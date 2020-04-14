@@ -1,0 +1,12 @@
+D:\SoftUni\Exams\06-07-April-2019\04.CinemaVoucher\04.CinemaVoucher\bin\Debug\netcoreapp3.1\04.CinemaVoucher.exe
+D:\SoftUni\Exams\06-07-April-2019\04.CinemaVoucher\04.CinemaVoucher\bin\Debug\netcoreapp3.1\04.CinemaVoucher.deps.json
+D:\SoftUni\Exams\06-07-April-2019\04.CinemaVoucher\04.CinemaVoucher\bin\Debug\netcoreapp3.1\04.CinemaVoucher.runtimeconfig.json
+D:\SoftUni\Exams\06-07-April-2019\04.CinemaVoucher\04.CinemaVoucher\bin\Debug\netcoreapp3.1\04.CinemaVoucher.runtimeconfig.dev.json
+D:\SoftUni\Exams\06-07-April-2019\04.CinemaVoucher\04.CinemaVoucher\bin\Debug\netcoreapp3.1\04.CinemaVoucher.dll
+D:\SoftUni\Exams\06-07-April-2019\04.CinemaVoucher\04.CinemaVoucher\bin\Debug\netcoreapp3.1\04.CinemaVoucher.pdb
+D:\SoftUni\Exams\06-07-April-2019\04.CinemaVoucher\04.CinemaVoucher\obj\Debug\netcoreapp3.1\04.CinemaVoucher.csproj.CoreCompileInputs.cache
+D:\SoftUni\Exams\06-07-April-2019\04.CinemaVoucher\04.CinemaVoucher\obj\Debug\netcoreapp3.1\04.CinemaVoucher.AssemblyInfoInputs.cache
+D:\SoftUni\Exams\06-07-April-2019\04.CinemaVoucher\04.CinemaVoucher\obj\Debug\netcoreapp3.1\04.CinemaVoucher.AssemblyInfo.cs
+D:\SoftUni\Exams\06-07-April-2019\04.CinemaVoucher\04.CinemaVoucher\obj\Debug\netcoreapp3.1\04.CinemaVoucher.dll
+D:\SoftUni\Exams\06-07-April-2019\04.CinemaVoucher\04.CinemaVoucher\obj\Debug\netcoreapp3.1\04.CinemaVoucher.pdb
+D:\SoftUni\Exams\06-07-April-2019\04.CinemaVoucher\04.CinemaVoucher\obj\Debug\netcoreapp3.1\04.CinemaVoucher.genruntimeconfig.cache
