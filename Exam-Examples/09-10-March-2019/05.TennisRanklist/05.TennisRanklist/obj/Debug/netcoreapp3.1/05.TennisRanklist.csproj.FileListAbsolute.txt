@@ -1,0 +1,11 @@
+D:\SoftUni\PB - Exams\09-10-March-2019\05.TennisRanklist\05.TennisRanklist\bin\Debug\netcoreapp3.1\05.TennisRanklist.exe
+D:\SoftUni\PB - Exams\09-10-March-2019\05.TennisRanklist\05.TennisRanklist\bin\Debug\netcoreapp3.1\05.TennisRanklist.deps.json
+D:\SoftUni\PB - Exams\09-10-March-2019\05.TennisRanklist\05.TennisRanklist\bin\Debug\netcoreapp3.1\05.TennisRanklist.runtimeconfig.json
+D:\SoftUni\PB - Exams\09-10-March-2019\05.TennisRanklist\05.TennisRanklist\bin\Debug\netcoreapp3.1\05.TennisRanklist.runtimeconfig.dev.json
+D:\SoftUni\PB - Exams\09-10-March-2019\05.TennisRanklist\05.TennisRanklist\bin\Debug\netcoreapp3.1\05.TennisRanklist.dll
+D:\SoftUni\PB - Exams\09-10-March-2019\05.TennisRanklist\05.TennisRanklist\bin\Debug\netcoreapp3.1\05.TennisRanklist.pdb
+D:\SoftUni\PB - Exams\09-10-March-2019\05.TennisRanklist\05.TennisRanklist\obj\Debug\netcoreapp3.1\05.TennisRanklist.csprojAssemblyReference.cache
+D:\SoftUni\PB - Exams\09-10-March-2019\05.TennisRanklist\05.TennisRanklist\obj\Debug\netcoreapp3.1\05.TennisRanklist.AssemblyInfoInputs.cache
+D:\SoftUni\PB - Exams\09-10-March-2019\05.TennisRanklist\05.TennisRanklist\obj\Debug\netcoreapp3.1\05.TennisRanklist.AssemblyInfo.cs
+D:\SoftUni\PB - Exams\09-10-March-2019\05.TennisRanklist\05.TennisRanklist\obj\Debug\netcoreapp3.1\05.TennisRanklist.dll
+D:\SoftUni\PB - Exams\09-10-March-2019\05.TennisRanklist\05.TennisRanklist\obj\Debug\netcoreapp3.1\05.TennisRanklist.pdb
