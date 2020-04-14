@@ -1,0 +1,10 @@
+D:\SoftUni\PB-Exams\06-07April2019\01.OscarsCeremony\01.OscarsCeremony\bin\Debug\netcoreapp3.1\01.OscarsCeremony.exe
+D:\SoftUni\PB-Exams\06-07April2019\01.OscarsCeremony\01.OscarsCeremony\bin\Debug\netcoreapp3.1\01.OscarsCeremony.deps.json
+D:\SoftUni\PB-Exams\06-07April2019\01.OscarsCeremony\01.OscarsCeremony\bin\Debug\netcoreapp3.1\01.OscarsCeremony.runtimeconfig.json
+D:\SoftUni\PB-Exams\06-07April2019\01.OscarsCeremony\01.OscarsCeremony\bin\Debug\netcoreapp3.1\01.OscarsCeremony.runtimeconfig.dev.json
+D:\SoftUni\PB-Exams\06-07April2019\01.OscarsCeremony\01.OscarsCeremony\bin\Debug\netcoreapp3.1\01.OscarsCeremony.dll
+D:\SoftUni\PB-Exams\06-07April2019\01.OscarsCeremony\01.OscarsCeremony\bin\Debug\netcoreapp3.1\01.OscarsCeremony.pdb
+D:\SoftUni\PB-Exams\06-07April2019\01.OscarsCeremony\01.OscarsCeremony\obj\Debug\netcoreapp3.1\01.OscarsCeremony.AssemblyInfoInputs.cache
+D:\SoftUni\PB-Exams\06-07April2019\01.OscarsCeremony\01.OscarsCeremony\obj\Debug\netcoreapp3.1\01.OscarsCeremony.AssemblyInfo.cs
+D:\SoftUni\PB-Exams\06-07April2019\01.OscarsCeremony\01.OscarsCeremony\obj\Debug\netcoreapp3.1\01.OscarsCeremony.dll
+D:\SoftUni\PB-Exams\06-07April2019\01.OscarsCeremony\01.OscarsCeremony\obj\Debug\netcoreapp3.1\01.OscarsCeremony.pdb
