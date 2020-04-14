@@ -1,0 +1,11 @@
+D:\SoftUni\PB-Exams\06-07July2019\01.Repainting\01.Repainting\bin\Debug\netcoreapp3.1\01.Repainting.exe
+D:\SoftUni\PB-Exams\06-07July2019\01.Repainting\01.Repainting\bin\Debug\netcoreapp3.1\01.Repainting.deps.json
+D:\SoftUni\PB-Exams\06-07July2019\01.Repainting\01.Repainting\bin\Debug\netcoreapp3.1\01.Repainting.runtimeconfig.json
+D:\SoftUni\PB-Exams\06-07July2019\01.Repainting\01.Repainting\bin\Debug\netcoreapp3.1\01.Repainting.runtimeconfig.dev.json
+D:\SoftUni\PB-Exams\06-07July2019\01.Repainting\01.Repainting\bin\Debug\netcoreapp3.1\01.Repainting.dll
+D:\SoftUni\PB-Exams\06-07July2019\01.Repainting\01.Repainting\bin\Debug\netcoreapp3.1\01.Repainting.pdb
+D:\SoftUni\PB-Exams\06-07July2019\01.Repainting\01.Repainting\obj\Debug\netcoreapp3.1\01.Repainting.csprojAssemblyReference.cache
+D:\SoftUni\PB-Exams\06-07July2019\01.Repainting\01.Repainting\obj\Debug\netcoreapp3.1\01.Repainting.AssemblyInfoInputs.cache
+D:\SoftUni\PB-Exams\06-07July2019\01.Repainting\01.Repainting\obj\Debug\netcoreapp3.1\01.Repainting.AssemblyInfo.cs
+D:\SoftUni\PB-Exams\06-07July2019\01.Repainting\01.Repainting\obj\Debug\netcoreapp3.1\01.Repainting.dll
+D:\SoftUni\PB-Exams\06-07July2019\01.Repainting\01.Repainting\obj\Debug\netcoreapp3.1\01.Repainting.pdb
