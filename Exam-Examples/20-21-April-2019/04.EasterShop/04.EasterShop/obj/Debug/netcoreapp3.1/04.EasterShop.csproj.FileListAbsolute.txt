@@ -1,0 +1,11 @@
+D:\SoftUni\PB - Exams\20-21April2019\04.EasterShop\04.EasterShop\bin\Debug\netcoreapp3.1\04.EasterShop.exe
+D:\SoftUni\PB - Exams\20-21April2019\04.EasterShop\04.EasterShop\bin\Debug\netcoreapp3.1\04.EasterShop.deps.json
+D:\SoftUni\PB - Exams\20-21April2019\04.EasterShop\04.EasterShop\bin\Debug\netcoreapp3.1\04.EasterShop.runtimeconfig.json
+D:\SoftUni\PB - Exams\20-21April2019\04.EasterShop\04.EasterShop\bin\Debug\netcoreapp3.1\04.EasterShop.runtimeconfig.dev.json
+D:\SoftUni\PB - Exams\20-21April2019\04.EasterShop\04.EasterShop\bin\Debug\netcoreapp3.1\04.EasterShop.dll
+D:\SoftUni\PB - Exams\20-21April2019\04.EasterShop\04.EasterShop\bin\Debug\netcoreapp3.1\04.EasterShop.pdb
+D:\SoftUni\PB - Exams\20-21April2019\04.EasterShop\04.EasterShop\obj\Debug\netcoreapp3.1\04.EasterShop.csprojAssemblyReference.cache
+D:\SoftUni\PB - Exams\20-21April2019\04.EasterShop\04.EasterShop\obj\Debug\netcoreapp3.1\04.EasterShop.AssemblyInfoInputs.cache
+D:\SoftUni\PB - Exams\20-21April2019\04.EasterShop\04.EasterShop\obj\Debug\netcoreapp3.1\04.EasterShop.AssemblyInfo.cs
+D:\SoftUni\PB - Exams\20-21April2019\04.EasterShop\04.EasterShop\obj\Debug\netcoreapp3.1\04.EasterShop.dll
+D:\SoftUni\PB - Exams\20-21April2019\04.EasterShop\04.EasterShop\obj\Debug\netcoreapp3.1\04.EasterShop.pdb
