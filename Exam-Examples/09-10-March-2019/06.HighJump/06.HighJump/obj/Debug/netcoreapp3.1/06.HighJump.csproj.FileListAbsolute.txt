@@ -1,0 +1,11 @@
+D:\SoftUni\PB - Exams\09-10-March-2019\06.HighJump\06.HighJump\bin\Debug\netcoreapp3.1\06.HighJump.exe
+D:\SoftUni\PB - Exams\09-10-March-2019\06.HighJump\06.HighJump\bin\Debug\netcoreapp3.1\06.HighJump.deps.json
+D:\SoftUni\PB - Exams\09-10-March-2019\06.HighJump\06.HighJump\bin\Debug\netcoreapp3.1\06.HighJump.runtimeconfig.json
+D:\SoftUni\PB - Exams\09-10-March-2019\06.HighJump\06.HighJump\bin\Debug\netcoreapp3.1\06.HighJump.runtimeconfig.dev.json
+D:\SoftUni\PB - Exams\09-10-March-2019\06.HighJump\06.HighJump\bin\Debug\netcoreapp3.1\06.HighJump.dll
+D:\SoftUni\PB - Exams\09-10-March-2019\06.HighJump\06.HighJump\bin\Debug\netcoreapp3.1\06.HighJump.pdb
+D:\SoftUni\PB - Exams\09-10-March-2019\06.HighJump\06.HighJump\obj\Debug\netcoreapp3.1\06.HighJump.csprojAssemblyReference.cache
+D:\SoftUni\PB - Exams\09-10-March-2019\06.HighJump\06.HighJump\obj\Debug\netcoreapp3.1\06.HighJump.AssemblyInfoInputs.cache
+D:\SoftUni\PB - Exams\09-10-March-2019\06.HighJump\06.HighJump\obj\Debug\netcoreapp3.1\06.HighJump.AssemblyInfo.cs
+D:\SoftUni\PB - Exams\09-10-March-2019\06.HighJump\06.HighJump\obj\Debug\netcoreapp3.1\06.HighJump.dll
+D:\SoftUni\PB - Exams\09-10-March-2019\06.HighJump\06.HighJump\obj\Debug\netcoreapp3.1\06.HighJump.pdb
