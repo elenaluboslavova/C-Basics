@@ -1,0 +1,10 @@
+D:\SoftUni\PB - Exams\20-21April2019\02.EasterParty\02.EasterParty\bin\Debug\netcoreapp3.1\02.EasterParty.exe
+D:\SoftUni\PB - Exams\20-21April2019\02.EasterParty\02.EasterParty\bin\Debug\netcoreapp3.1\02.EasterParty.deps.json
+D:\SoftUni\PB - Exams\20-21April2019\02.EasterParty\02.EasterParty\bin\Debug\netcoreapp3.1\02.EasterParty.runtimeconfig.json
+D:\SoftUni\PB - Exams\20-21April2019\02.EasterParty\02.EasterParty\bin\Debug\netcoreapp3.1\02.EasterParty.runtimeconfig.dev.json
+D:\SoftUni\PB - Exams\20-21April2019\02.EasterParty\02.EasterParty\bin\Debug\netcoreapp3.1\02.EasterParty.dll
+D:\SoftUni\PB - Exams\20-21April2019\02.EasterParty\02.EasterParty\bin\Debug\netcoreapp3.1\02.EasterParty.pdb
+D:\SoftUni\PB - Exams\20-21April2019\02.EasterParty\02.EasterParty\obj\Debug\netcoreapp3.1\02.EasterParty.AssemblyInfoInputs.cache
+D:\SoftUni\PB - Exams\20-21April2019\02.EasterParty\02.EasterParty\obj\Debug\netcoreapp3.1\02.EasterParty.AssemblyInfo.cs
+D:\SoftUni\PB - Exams\20-21April2019\02.EasterParty\02.EasterParty\obj\Debug\netcoreapp3.1\02.EasterParty.dll
+D:\SoftUni\PB - Exams\20-21April2019\02.EasterParty\02.EasterParty\obj\Debug\netcoreapp3.1\02.EasterParty.pdb
