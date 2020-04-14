@@ -1,0 +1,11 @@
+D:\SoftUni\PB - Exams\15-16June2019\02.MovieDay\02.MovieDay\bin\Debug\netcoreapp3.1\02.MovieDay.exe
+D:\SoftUni\PB - Exams\15-16June2019\02.MovieDay\02.MovieDay\bin\Debug\netcoreapp3.1\02.MovieDay.deps.json
+D:\SoftUni\PB - Exams\15-16June2019\02.MovieDay\02.MovieDay\bin\Debug\netcoreapp3.1\02.MovieDay.runtimeconfig.json
+D:\SoftUni\PB - Exams\15-16June2019\02.MovieDay\02.MovieDay\bin\Debug\netcoreapp3.1\02.MovieDay.runtimeconfig.dev.json
+D:\SoftUni\PB - Exams\15-16June2019\02.MovieDay\02.MovieDay\bin\Debug\netcoreapp3.1\02.MovieDay.dll
+D:\SoftUni\PB - Exams\15-16June2019\02.MovieDay\02.MovieDay\bin\Debug\netcoreapp3.1\02.MovieDay.pdb
+D:\SoftUni\PB - Exams\15-16June2019\02.MovieDay\02.MovieDay\obj\Debug\netcoreapp3.1\02.MovieDay.csprojAssemblyReference.cache
+D:\SoftUni\PB - Exams\15-16June2019\02.MovieDay\02.MovieDay\obj\Debug\netcoreapp3.1\02.MovieDay.AssemblyInfoInputs.cache
+D:\SoftUni\PB - Exams\15-16June2019\02.MovieDay\02.MovieDay\obj\Debug\netcoreapp3.1\02.MovieDay.AssemblyInfo.cs
+D:\SoftUni\PB - Exams\15-16June2019\02.MovieDay\02.MovieDay\obj\Debug\netcoreapp3.1\02.MovieDay.dll
+D:\SoftUni\PB - Exams\15-16June2019\02.MovieDay\02.MovieDay\obj\Debug\netcoreapp3.1\02.MovieDay.pdb
