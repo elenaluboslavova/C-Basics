@@ -1,0 +1,12 @@
+D:\SoftUni\Exams\06-07-July-2019\03.CoffeeMachine\03.CoffeeMachine\bin\Debug\netcoreapp3.1\03.CoffeeMachine.exe
+D:\SoftUni\Exams\06-07-July-2019\03.CoffeeMachine\03.CoffeeMachine\bin\Debug\netcoreapp3.1\03.CoffeeMachine.deps.json
+D:\SoftUni\Exams\06-07-July-2019\03.CoffeeMachine\03.CoffeeMachine\bin\Debug\netcoreapp3.1\03.CoffeeMachine.runtimeconfig.json
+D:\SoftUni\Exams\06-07-July-2019\03.CoffeeMachine\03.CoffeeMachine\bin\Debug\netcoreapp3.1\03.CoffeeMachine.runtimeconfig.dev.json
+D:\SoftUni\Exams\06-07-July-2019\03.CoffeeMachine\03.CoffeeMachine\bin\Debug\netcoreapp3.1\03.CoffeeMachine.dll
+D:\SoftUni\Exams\06-07-July-2019\03.CoffeeMachine\03.CoffeeMachine\bin\Debug\netcoreapp3.1\03.CoffeeMachine.pdb
+D:\SoftUni\Exams\06-07-July-2019\03.CoffeeMachine\03.CoffeeMachine\obj\Debug\netcoreapp3.1\03.CoffeeMachine.csproj.CoreCompileInputs.cache
+D:\SoftUni\Exams\06-07-July-2019\03.CoffeeMachine\03.CoffeeMachine\obj\Debug\netcoreapp3.1\03.CoffeeMachine.AssemblyInfoInputs.cache
+D:\SoftUni\Exams\06-07-July-2019\03.CoffeeMachine\03.CoffeeMachine\obj\Debug\netcoreapp3.1\03.CoffeeMachine.AssemblyInfo.cs
+D:\SoftUni\Exams\06-07-July-2019\03.CoffeeMachine\03.CoffeeMachine\obj\Debug\netcoreapp3.1\03.CoffeeMachine.dll
+D:\SoftUni\Exams\06-07-July-2019\03.CoffeeMachine\03.CoffeeMachine\obj\Debug\netcoreapp3.1\03.CoffeeMachine.pdb
+D:\SoftUni\Exams\06-07-July-2019\03.CoffeeMachine\03.CoffeeMachine\obj\Debug\netcoreapp3.1\03.CoffeeMachine.genruntimeconfig.cache
