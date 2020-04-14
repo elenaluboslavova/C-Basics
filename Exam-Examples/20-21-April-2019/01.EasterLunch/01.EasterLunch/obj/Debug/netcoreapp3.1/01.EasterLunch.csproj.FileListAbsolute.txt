@@ -1,0 +1,11 @@
+D:\SoftUni\PB-Exams\20-21April2019\01.EasterLunch\01.EasterLunch\bin\Debug\netcoreapp3.1\01.EasterLunch.exe
+D:\SoftUni\PB-Exams\20-21April2019\01.EasterLunch\01.EasterLunch\bin\Debug\netcoreapp3.1\01.EasterLunch.deps.json
+D:\SoftUni\PB-Exams\20-21April2019\01.EasterLunch\01.EasterLunch\bin\Debug\netcoreapp3.1\01.EasterLunch.runtimeconfig.json
+D:\SoftUni\PB-Exams\20-21April2019\01.EasterLunch\01.EasterLunch\bin\Debug\netcoreapp3.1\01.EasterLunch.runtimeconfig.dev.json
+D:\SoftUni\PB-Exams\20-21April2019\01.EasterLunch\01.EasterLunch\bin\Debug\netcoreapp3.1\01.EasterLunch.dll
+D:\SoftUni\PB-Exams\20-21April2019\01.EasterLunch\01.EasterLunch\bin\Debug\netcoreapp3.1\01.EasterLunch.pdb
+D:\SoftUni\PB-Exams\20-21April2019\01.EasterLunch\01.EasterLunch\obj\Debug\netcoreapp3.1\01.EasterLunch.csprojAssemblyReference.cache
+D:\SoftUni\PB-Exams\20-21April2019\01.EasterLunch\01.EasterLunch\obj\Debug\netcoreapp3.1\01.EasterLunch.AssemblyInfoInputs.cache
+D:\SoftUni\PB-Exams\20-21April2019\01.EasterLunch\01.EasterLunch\obj\Debug\netcoreapp3.1\01.EasterLunch.AssemblyInfo.cs
+D:\SoftUni\PB-Exams\20-21April2019\01.EasterLunch\01.EasterLunch\obj\Debug\netcoreapp3.1\01.EasterLunch.dll
+D:\SoftUni\PB-Exams\20-21April2019\01.EasterLunch\01.EasterLunch\obj\Debug\netcoreapp3.1\01.EasterLunch.pdb
