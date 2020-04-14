@@ -1,0 +1,11 @@
+D:\SoftUni\Exam Preparation\06.BakingCompetition\06.BakingCompetition\bin\Debug\netcoreapp3.1\06.BakingCompetition.exe
+D:\SoftUni\Exam Preparation\06.BakingCompetition\06.BakingCompetition\bin\Debug\netcoreapp3.1\06.BakingCompetition.deps.json
+D:\SoftUni\Exam Preparation\06.BakingCompetition\06.BakingCompetition\bin\Debug\netcoreapp3.1\06.BakingCompetition.runtimeconfig.json
+D:\SoftUni\Exam Preparation\06.BakingCompetition\06.BakingCompetition\bin\Debug\netcoreapp3.1\06.BakingCompetition.runtimeconfig.dev.json
+D:\SoftUni\Exam Preparation\06.BakingCompetition\06.BakingCompetition\bin\Debug\netcoreapp3.1\06.BakingCompetition.dll
+D:\SoftUni\Exam Preparation\06.BakingCompetition\06.BakingCompetition\bin\Debug\netcoreapp3.1\06.BakingCompetition.pdb
+D:\SoftUni\Exam Preparation\06.BakingCompetition\06.BakingCompetition\obj\Debug\netcoreapp3.1\06.BakingCompetition.csprojAssemblyReference.cache
+D:\SoftUni\Exam Preparation\06.BakingCompetition\06.BakingCompetition\obj\Debug\netcoreapp3.1\06.BakingCompetition.AssemblyInfoInputs.cache
+D:\SoftUni\Exam Preparation\06.BakingCompetition\06.BakingCompetition\obj\Debug\netcoreapp3.1\06.BakingCompetition.AssemblyInfo.cs
+D:\SoftUni\Exam Preparation\06.BakingCompetition\06.BakingCompetition\obj\Debug\netcoreapp3.1\06.BakingCompetition.dll
+D:\SoftUni\Exam Preparation\06.BakingCompetition\06.BakingCompetition\obj\Debug\netcoreapp3.1\06.BakingCompetition.pdb
