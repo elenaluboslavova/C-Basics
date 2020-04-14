@@ -1,0 +1,10 @@
+D:\SoftUni\PB - Exams\15-16-June-2019\06.MovieTickets\06.MovieTickets\bin\Debug\netcoreapp3.1\06.MovieTickets.exe
+D:\SoftUni\PB - Exams\15-16-June-2019\06.MovieTickets\06.MovieTickets\bin\Debug\netcoreapp3.1\06.MovieTickets.deps.json
+D:\SoftUni\PB - Exams\15-16-June-2019\06.MovieTickets\06.MovieTickets\bin\Debug\netcoreapp3.1\06.MovieTickets.runtimeconfig.json
+D:\SoftUni\PB - Exams\15-16-June-2019\06.MovieTickets\06.MovieTickets\bin\Debug\netcoreapp3.1\06.MovieTickets.runtimeconfig.dev.json
+D:\SoftUni\PB - Exams\15-16-June-2019\06.MovieTickets\06.MovieTickets\bin\Debug\netcoreapp3.1\06.MovieTickets.dll
+D:\SoftUni\PB - Exams\15-16-June-2019\06.MovieTickets\06.MovieTickets\bin\Debug\netcoreapp3.1\06.MovieTickets.pdb
+D:\SoftUni\PB - Exams\15-16-June-2019\06.MovieTickets\06.MovieTickets\obj\Debug\netcoreapp3.1\06.MovieTickets.AssemblyInfoInputs.cache
+D:\SoftUni\PB - Exams\15-16-June-2019\06.MovieTickets\06.MovieTickets\obj\Debug\netcoreapp3.1\06.MovieTickets.AssemblyInfo.cs
+D:\SoftUni\PB - Exams\15-16-June-2019\06.MovieTickets\06.MovieTickets\obj\Debug\netcoreapp3.1\06.MovieTickets.dll
+D:\SoftUni\PB - Exams\15-16-June-2019\06.MovieTickets\06.MovieTickets\obj\Debug\netcoreapp3.1\06.MovieTickets.pdb
