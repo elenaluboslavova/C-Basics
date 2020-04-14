@@ -1,0 +1,10 @@
+D:\SoftUni\Exam Preparation\04.CruiseGames\04.CruiseGames\bin\Debug\netcoreapp3.1\04.CruiseGames.exe
+D:\SoftUni\Exam Preparation\04.CruiseGames\04.CruiseGames\bin\Debug\netcoreapp3.1\04.CruiseGames.deps.json
+D:\SoftUni\Exam Preparation\04.CruiseGames\04.CruiseGames\bin\Debug\netcoreapp3.1\04.CruiseGames.runtimeconfig.json
+D:\SoftUni\Exam Preparation\04.CruiseGames\04.CruiseGames\bin\Debug\netcoreapp3.1\04.CruiseGames.runtimeconfig.dev.json
+D:\SoftUni\Exam Preparation\04.CruiseGames\04.CruiseGames\bin\Debug\netcoreapp3.1\04.CruiseGames.dll
+D:\SoftUni\Exam Preparation\04.CruiseGames\04.CruiseGames\bin\Debug\netcoreapp3.1\04.CruiseGames.pdb
+D:\SoftUni\Exam Preparation\04.CruiseGames\04.CruiseGames\obj\Debug\netcoreapp3.1\04.CruiseGames.AssemblyInfoInputs.cache
+D:\SoftUni\Exam Preparation\04.CruiseGames\04.CruiseGames\obj\Debug\netcoreapp3.1\04.CruiseGames.AssemblyInfo.cs
+D:\SoftUni\Exam Preparation\04.CruiseGames\04.CruiseGames\obj\Debug\netcoreapp3.1\04.CruiseGames.dll
+D:\SoftUni\Exam Preparation\04.CruiseGames\04.CruiseGames\obj\Debug\netcoreapp3.1\04.CruiseGames.pdb
