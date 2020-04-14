@@ -1,0 +1,13 @@
+D:\SoftUni\Exams\06-07-July-2019\05.PCGameShop\05.PCGameShop\bin\Debug\netcoreapp3.1\05.PCGameShop.exe
+D:\SoftUni\Exams\06-07-July-2019\05.PCGameShop\05.PCGameShop\bin\Debug\netcoreapp3.1\05.PCGameShop.deps.json
+D:\SoftUni\Exams\06-07-July-2019\05.PCGameShop\05.PCGameShop\bin\Debug\netcoreapp3.1\05.PCGameShop.runtimeconfig.json
+D:\SoftUni\Exams\06-07-July-2019\05.PCGameShop\05.PCGameShop\bin\Debug\netcoreapp3.1\05.PCGameShop.runtimeconfig.dev.json
+D:\SoftUni\Exams\06-07-July-2019\05.PCGameShop\05.PCGameShop\bin\Debug\netcoreapp3.1\05.PCGameShop.dll
+D:\SoftUni\Exams\06-07-July-2019\05.PCGameShop\05.PCGameShop\bin\Debug\netcoreapp3.1\05.PCGameShop.pdb
+D:\SoftUni\Exams\06-07-July-2019\05.PCGameShop\05.PCGameShop\obj\Debug\netcoreapp3.1\05.PCGameShop.csprojAssemblyReference.cache
+D:\SoftUni\Exams\06-07-July-2019\05.PCGameShop\05.PCGameShop\obj\Debug\netcoreapp3.1\05.PCGameShop.csproj.CoreCompileInputs.cache
+D:\SoftUni\Exams\06-07-July-2019\05.PCGameShop\05.PCGameShop\obj\Debug\netcoreapp3.1\05.PCGameShop.AssemblyInfoInputs.cache
+D:\SoftUni\Exams\06-07-July-2019\05.PCGameShop\05.PCGameShop\obj\Debug\netcoreapp3.1\05.PCGameShop.AssemblyInfo.cs
+D:\SoftUni\Exams\06-07-July-2019\05.PCGameShop\05.PCGameShop\obj\Debug\netcoreapp3.1\05.PCGameShop.dll
+D:\SoftUni\Exams\06-07-July-2019\05.PCGameShop\05.PCGameShop\obj\Debug\netcoreapp3.1\05.PCGameShop.pdb
+D:\SoftUni\Exams\06-07-July-2019\05.PCGameShop\05.PCGameShop\obj\Debug\netcoreapp3.1\05.PCGameShop.genruntimeconfig.cache
