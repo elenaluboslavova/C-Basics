@@ -1,0 +1,10 @@
+D:\SoftUni\Exam Preparation\03.CruiseShip\03.CruiseShip\bin\Debug\netcoreapp3.1\03.CruiseShip.exe
+D:\SoftUni\Exam Preparation\03.CruiseShip\03.CruiseShip\bin\Debug\netcoreapp3.1\03.CruiseShip.deps.json
+D:\SoftUni\Exam Preparation\03.CruiseShip\03.CruiseShip\bin\Debug\netcoreapp3.1\03.CruiseShip.runtimeconfig.json
+D:\SoftUni\Exam Preparation\03.CruiseShip\03.CruiseShip\bin\Debug\netcoreapp3.1\03.CruiseShip.runtimeconfig.dev.json
+D:\SoftUni\Exam Preparation\03.CruiseShip\03.CruiseShip\bin\Debug\netcoreapp3.1\03.CruiseShip.dll
+D:\SoftUni\Exam Preparation\03.CruiseShip\03.CruiseShip\bin\Debug\netcoreapp3.1\03.CruiseShip.pdb
+D:\SoftUni\Exam Preparation\03.CruiseShip\03.CruiseShip\obj\Debug\netcoreapp3.1\03.CruiseShip.AssemblyInfoInputs.cache
+D:\SoftUni\Exam Preparation\03.CruiseShip\03.CruiseShip\obj\Debug\netcoreapp3.1\03.CruiseShip.AssemblyInfo.cs
+D:\SoftUni\Exam Preparation\03.CruiseShip\03.CruiseShip\obj\Debug\netcoreapp3.1\03.CruiseShip.dll
+D:\SoftUni\Exam Preparation\03.CruiseShip\03.CruiseShip\obj\Debug\netcoreapp3.1\03.CruiseShip.pdb
