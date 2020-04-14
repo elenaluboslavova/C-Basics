@@ -1,0 +1,13 @@
+D:\SoftUni\Exams\06-07-April-2019\05.MovieRatings\05.MovieRatings\bin\Debug\netcoreapp3.1\05.MovieRatings.exe
+D:\SoftUni\Exams\06-07-April-2019\05.MovieRatings\05.MovieRatings\bin\Debug\netcoreapp3.1\05.MovieRatings.deps.json
+D:\SoftUni\Exams\06-07-April-2019\05.MovieRatings\05.MovieRatings\bin\Debug\netcoreapp3.1\05.MovieRatings.runtimeconfig.json
+D:\SoftUni\Exams\06-07-April-2019\05.MovieRatings\05.MovieRatings\bin\Debug\netcoreapp3.1\05.MovieRatings.runtimeconfig.dev.json
+D:\SoftUni\Exams\06-07-April-2019\05.MovieRatings\05.MovieRatings\bin\Debug\netcoreapp3.1\05.MovieRatings.dll
+D:\SoftUni\Exams\06-07-April-2019\05.MovieRatings\05.MovieRatings\bin\Debug\netcoreapp3.1\05.MovieRatings.pdb
+D:\SoftUni\Exams\06-07-April-2019\05.MovieRatings\05.MovieRatings\obj\Debug\netcoreapp3.1\05.MovieRatings.csprojAssemblyReference.cache
+D:\SoftUni\Exams\06-07-April-2019\05.MovieRatings\05.MovieRatings\obj\Debug\netcoreapp3.1\05.MovieRatings.csproj.CoreCompileInputs.cache
+D:\SoftUni\Exams\06-07-April-2019\05.MovieRatings\05.MovieRatings\obj\Debug\netcoreapp3.1\05.MovieRatings.AssemblyInfoInputs.cache
+D:\SoftUni\Exams\06-07-April-2019\05.MovieRatings\05.MovieRatings\obj\Debug\netcoreapp3.1\05.MovieRatings.AssemblyInfo.cs
+D:\SoftUni\Exams\06-07-April-2019\05.MovieRatings\05.MovieRatings\obj\Debug\netcoreapp3.1\05.MovieRatings.dll
+D:\SoftUni\Exams\06-07-April-2019\05.MovieRatings\05.MovieRatings\obj\Debug\netcoreapp3.1\05.MovieRatings.pdb
+D:\SoftUni\Exams\06-07-April-2019\05.MovieRatings\05.MovieRatings\obj\Debug\netcoreapp3.1\05.MovieRatings.genruntimeconfig.cache
