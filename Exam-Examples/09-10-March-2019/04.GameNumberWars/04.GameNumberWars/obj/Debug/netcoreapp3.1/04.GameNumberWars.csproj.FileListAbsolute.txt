@@ -1,0 +1,11 @@
+D:\SoftUni\PB - Exams\09-10-March-2019\04.GameNumberWars\04.GameNumberWars\bin\Debug\netcoreapp3.1\04.GameNumberWars.exe
+D:\SoftUni\PB - Exams\09-10-March-2019\04.GameNumberWars\04.GameNumberWars\bin\Debug\netcoreapp3.1\04.GameNumberWars.deps.json
+D:\SoftUni\PB - Exams\09-10-March-2019\04.GameNumberWars\04.GameNumberWars\bin\Debug\netcoreapp3.1\04.GameNumberWars.runtimeconfig.json
+D:\SoftUni\PB - Exams\09-10-March-2019\04.GameNumberWars\04.GameNumberWars\bin\Debug\netcoreapp3.1\04.GameNumberWars.runtimeconfig.dev.json
+D:\SoftUni\PB - Exams\09-10-March-2019\04.GameNumberWars\04.GameNumberWars\bin\Debug\netcoreapp3.1\04.GameNumberWars.dll
+D:\SoftUni\PB - Exams\09-10-March-2019\04.GameNumberWars\04.GameNumberWars\bin\Debug\netcoreapp3.1\04.GameNumberWars.pdb
+D:\SoftUni\PB - Exams\09-10-March-2019\04.GameNumberWars\04.GameNumberWars\obj\Debug\netcoreapp3.1\04.GameNumberWars.csprojAssemblyReference.cache
+D:\SoftUni\PB - Exams\09-10-March-2019\04.GameNumberWars\04.GameNumberWars\obj\Debug\netcoreapp3.1\04.GameNumberWars.AssemblyInfoInputs.cache
+D:\SoftUni\PB - Exams\09-10-March-2019\04.GameNumberWars\04.GameNumberWars\obj\Debug\netcoreapp3.1\04.GameNumberWars.AssemblyInfo.cs
+D:\SoftUni\PB - Exams\09-10-March-2019\04.GameNumberWars\04.GameNumberWars\obj\Debug\netcoreapp3.1\04.GameNumberWars.dll
+D:\SoftUni\PB - Exams\09-10-March-2019\04.GameNumberWars\04.GameNumberWars\obj\Debug\netcoreapp3.1\04.GameNumberWars.pdb
