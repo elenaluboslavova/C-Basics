@@ -1,0 +1,11 @@
+D:\SoftUni\PB - Exams\02-03-May-2019\04.TouristShop\04.TouristShop\bin\Debug\netcoreapp3.1\04.TouristShop.exe
+D:\SoftUni\PB - Exams\02-03-May-2019\04.TouristShop\04.TouristShop\bin\Debug\netcoreapp3.1\04.TouristShop.deps.json
+D:\SoftUni\PB - Exams\02-03-May-2019\04.TouristShop\04.TouristShop\bin\Debug\netcoreapp3.1\04.TouristShop.runtimeconfig.json
+D:\SoftUni\PB - Exams\02-03-May-2019\04.TouristShop\04.TouristShop\bin\Debug\netcoreapp3.1\04.TouristShop.runtimeconfig.dev.json
+D:\SoftUni\PB - Exams\02-03-May-2019\04.TouristShop\04.TouristShop\bin\Debug\netcoreapp3.1\04.TouristShop.dll
+D:\SoftUni\PB - Exams\02-03-May-2019\04.TouristShop\04.TouristShop\bin\Debug\netcoreapp3.1\04.TouristShop.pdb
+D:\SoftUni\PB - Exams\02-03-May-2019\04.TouristShop\04.TouristShop\obj\Debug\netcoreapp3.1\04.TouristShop.csprojAssemblyReference.cache
+D:\SoftUni\PB - Exams\02-03-May-2019\04.TouristShop\04.TouristShop\obj\Debug\netcoreapp3.1\04.TouristShop.AssemblyInfoInputs.cache
+D:\SoftUni\PB - Exams\02-03-May-2019\04.TouristShop\04.TouristShop\obj\Debug\netcoreapp3.1\04.TouristShop.AssemblyInfo.cs
+D:\SoftUni\PB - Exams\02-03-May-2019\04.TouristShop\04.TouristShop\obj\Debug\netcoreapp3.1\04.TouristShop.dll
+D:\SoftUni\PB - Exams\02-03-May-2019\04.TouristShop\04.TouristShop\obj\Debug\netcoreapp3.1\04.TouristShop.pdb
