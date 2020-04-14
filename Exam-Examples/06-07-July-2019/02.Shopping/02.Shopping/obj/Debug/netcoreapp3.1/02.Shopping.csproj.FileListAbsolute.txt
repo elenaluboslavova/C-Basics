@@ -1,0 +1,10 @@
+D:\SoftUni\PB - Exams\06-07July2019\02.Shopping\02.Shopping\bin\Debug\netcoreapp3.1\02.Shopping.exe
+D:\SoftUni\PB - Exams\06-07July2019\02.Shopping\02.Shopping\bin\Debug\netcoreapp3.1\02.Shopping.deps.json
+D:\SoftUni\PB - Exams\06-07July2019\02.Shopping\02.Shopping\bin\Debug\netcoreapp3.1\02.Shopping.runtimeconfig.json
+D:\SoftUni\PB - Exams\06-07July2019\02.Shopping\02.Shopping\bin\Debug\netcoreapp3.1\02.Shopping.runtimeconfig.dev.json
+D:\SoftUni\PB - Exams\06-07July2019\02.Shopping\02.Shopping\bin\Debug\netcoreapp3.1\02.Shopping.dll
+D:\SoftUni\PB - Exams\06-07July2019\02.Shopping\02.Shopping\bin\Debug\netcoreapp3.1\02.Shopping.pdb
+D:\SoftUni\PB - Exams\06-07July2019\02.Shopping\02.Shopping\obj\Debug\netcoreapp3.1\02.Shopping.AssemblyInfoInputs.cache
+D:\SoftUni\PB - Exams\06-07July2019\02.Shopping\02.Shopping\obj\Debug\netcoreapp3.1\02.Shopping.AssemblyInfo.cs
+D:\SoftUni\PB - Exams\06-07July2019\02.Shopping\02.Shopping\obj\Debug\netcoreapp3.1\02.Shopping.dll
+D:\SoftUni\PB - Exams\06-07July2019\02.Shopping\02.Shopping\obj\Debug\netcoreapp3.1\02.Shopping.pdb
