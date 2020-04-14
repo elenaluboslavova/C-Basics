@@ -1,0 +1,11 @@
+D:\SoftUni\PB-Exams\02-03May2019\01.FoodDelivery\01.FoodDelivery\bin\Debug\netcoreapp3.1\01.FoodDelivery.exe
+D:\SoftUni\PB-Exams\02-03May2019\01.FoodDelivery\01.FoodDelivery\bin\Debug\netcoreapp3.1\01.FoodDelivery.deps.json
+D:\SoftUni\PB-Exams\02-03May2019\01.FoodDelivery\01.FoodDelivery\bin\Debug\netcoreapp3.1\01.FoodDelivery.runtimeconfig.json
+D:\SoftUni\PB-Exams\02-03May2019\01.FoodDelivery\01.FoodDelivery\bin\Debug\netcoreapp3.1\01.FoodDelivery.runtimeconfig.dev.json
+D:\SoftUni\PB-Exams\02-03May2019\01.FoodDelivery\01.FoodDelivery\bin\Debug\netcoreapp3.1\01.FoodDelivery.dll
+D:\SoftUni\PB-Exams\02-03May2019\01.FoodDelivery\01.FoodDelivery\bin\Debug\netcoreapp3.1\01.FoodDelivery.pdb
+D:\SoftUni\PB-Exams\02-03May2019\01.FoodDelivery\01.FoodDelivery\obj\Debug\netcoreapp3.1\01.FoodDelivery.csprojAssemblyReference.cache
+D:\SoftUni\PB-Exams\02-03May2019\01.FoodDelivery\01.FoodDelivery\obj\Debug\netcoreapp3.1\01.FoodDelivery.AssemblyInfoInputs.cache
+D:\SoftUni\PB-Exams\02-03May2019\01.FoodDelivery\01.FoodDelivery\obj\Debug\netcoreapp3.1\01.FoodDelivery.AssemblyInfo.cs
+D:\SoftUni\PB-Exams\02-03May2019\01.FoodDelivery\01.FoodDelivery\obj\Debug\netcoreapp3.1\01.FoodDelivery.dll
+D:\SoftUni\PB-Exams\02-03May2019\01.FoodDelivery\01.FoodDelivery\obj\Debug\netcoreapp3.1\01.FoodDelivery.pdb
