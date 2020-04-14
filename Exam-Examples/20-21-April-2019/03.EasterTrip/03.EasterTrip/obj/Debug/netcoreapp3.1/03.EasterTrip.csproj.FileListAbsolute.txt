@@ -1,0 +1,11 @@
+D:\SoftUni\PB - Exams\20-21April2019\03.EasterTrip\03.EasterTrip\bin\Debug\netcoreapp3.1\03.EasterTrip.exe
+D:\SoftUni\PB - Exams\20-21April2019\03.EasterTrip\03.EasterTrip\bin\Debug\netcoreapp3.1\03.EasterTrip.deps.json
+D:\SoftUni\PB - Exams\20-21April2019\03.EasterTrip\03.EasterTrip\bin\Debug\netcoreapp3.1\03.EasterTrip.runtimeconfig.json
+D:\SoftUni\PB - Exams\20-21April2019\03.EasterTrip\03.EasterTrip\bin\Debug\netcoreapp3.1\03.EasterTrip.runtimeconfig.dev.json
+D:\SoftUni\PB - Exams\20-21April2019\03.EasterTrip\03.EasterTrip\bin\Debug\netcoreapp3.1\03.EasterTrip.dll
+D:\SoftUni\PB - Exams\20-21April2019\03.EasterTrip\03.EasterTrip\bin\Debug\netcoreapp3.1\03.EasterTrip.pdb
+D:\SoftUni\PB - Exams\20-21April2019\03.EasterTrip\03.EasterTrip\obj\Debug\netcoreapp3.1\03.EasterTrip.csprojAssemblyReference.cache
+D:\SoftUni\PB - Exams\20-21April2019\03.EasterTrip\03.EasterTrip\obj\Debug\netcoreapp3.1\03.EasterTrip.AssemblyInfoInputs.cache
+D:\SoftUni\PB - Exams\20-21April2019\03.EasterTrip\03.EasterTrip\obj\Debug\netcoreapp3.1\03.EasterTrip.AssemblyInfo.cs
+D:\SoftUni\PB - Exams\20-21April2019\03.EasterTrip\03.EasterTrip\obj\Debug\netcoreapp3.1\03.EasterTrip.dll
+D:\SoftUni\PB - Exams\20-21April2019\03.EasterTrip\03.EasterTrip\obj\Debug\netcoreapp3.1\03.EasterTrip.pdb
