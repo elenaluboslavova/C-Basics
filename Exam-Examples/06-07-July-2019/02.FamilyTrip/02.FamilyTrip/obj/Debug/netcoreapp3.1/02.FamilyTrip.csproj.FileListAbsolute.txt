@@ -1,0 +1,11 @@
+D:\SoftUni\PB - Exams\06-07July2019\02.FamilyTrip\02.FamilyTrip\bin\Debug\netcoreapp3.1\02.FamilyTrip.exe
+D:\SoftUni\PB - Exams\06-07July2019\02.FamilyTrip\02.FamilyTrip\bin\Debug\netcoreapp3.1\02.FamilyTrip.deps.json
+D:\SoftUni\PB - Exams\06-07July2019\02.FamilyTrip\02.FamilyTrip\bin\Debug\netcoreapp3.1\02.FamilyTrip.runtimeconfig.json
+D:\SoftUni\PB - Exams\06-07July2019\02.FamilyTrip\02.FamilyTrip\bin\Debug\netcoreapp3.1\02.FamilyTrip.runtimeconfig.dev.json
+D:\SoftUni\PB - Exams\06-07July2019\02.FamilyTrip\02.FamilyTrip\bin\Debug\netcoreapp3.1\02.FamilyTrip.dll
+D:\SoftUni\PB - Exams\06-07July2019\02.FamilyTrip\02.FamilyTrip\bin\Debug\netcoreapp3.1\02.FamilyTrip.pdb
+D:\SoftUni\PB - Exams\06-07July2019\02.FamilyTrip\02.FamilyTrip\obj\Debug\netcoreapp3.1\02.FamilyTrip.csprojAssemblyReference.cache
+D:\SoftUni\PB - Exams\06-07July2019\02.FamilyTrip\02.FamilyTrip\obj\Debug\netcoreapp3.1\02.FamilyTrip.AssemblyInfoInputs.cache
+D:\SoftUni\PB - Exams\06-07July2019\02.FamilyTrip\02.FamilyTrip\obj\Debug\netcoreapp3.1\02.FamilyTrip.AssemblyInfo.cs
+D:\SoftUni\PB - Exams\06-07July2019\02.FamilyTrip\02.FamilyTrip\obj\Debug\netcoreapp3.1\02.FamilyTrip.dll
+D:\SoftUni\PB - Exams\06-07July2019\02.FamilyTrip\02.FamilyTrip\obj\Debug\netcoreapp3.1\02.FamilyTrip.pdb
