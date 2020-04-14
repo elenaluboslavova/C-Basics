@@ -1,0 +1,11 @@
+D:\SoftUni\PB-Exams\27-28July2019\01.Savings\01.Savings\bin\Debug\netcoreapp3.1\01.Savings.exe
+D:\SoftUni\PB-Exams\27-28July2019\01.Savings\01.Savings\bin\Debug\netcoreapp3.1\01.Savings.deps.json
+D:\SoftUni\PB-Exams\27-28July2019\01.Savings\01.Savings\bin\Debug\netcoreapp3.1\01.Savings.runtimeconfig.json
+D:\SoftUni\PB-Exams\27-28July2019\01.Savings\01.Savings\bin\Debug\netcoreapp3.1\01.Savings.runtimeconfig.dev.json
+D:\SoftUni\PB-Exams\27-28July2019\01.Savings\01.Savings\bin\Debug\netcoreapp3.1\01.Savings.dll
+D:\SoftUni\PB-Exams\27-28July2019\01.Savings\01.Savings\bin\Debug\netcoreapp3.1\01.Savings.pdb
+D:\SoftUni\PB-Exams\27-28July2019\01.Savings\01.Savings\obj\Debug\netcoreapp3.1\01.Savings.csprojAssemblyReference.cache
+D:\SoftUni\PB-Exams\27-28July2019\01.Savings\01.Savings\obj\Debug\netcoreapp3.1\01.Savings.AssemblyInfoInputs.cache
+D:\SoftUni\PB-Exams\27-28July2019\01.Savings\01.Savings\obj\Debug\netcoreapp3.1\01.Savings.AssemblyInfo.cs
+D:\SoftUni\PB-Exams\27-28July2019\01.Savings\01.Savings\obj\Debug\netcoreapp3.1\01.Savings.dll
+D:\SoftUni\PB-Exams\27-28July2019\01.Savings\01.Savings\obj\Debug\netcoreapp3.1\01.Savings.pdb
