@@ -1,0 +1,10 @@
+D:\SoftUni\PB - Exams\20-21April2019\03.PaintingEggs\03.PaintingEggs\bin\Debug\netcoreapp3.1\03.PaintingEggs.exe
+D:\SoftUni\PB - Exams\20-21April2019\03.PaintingEggs\03.PaintingEggs\bin\Debug\netcoreapp3.1\03.PaintingEggs.deps.json
+D:\SoftUni\PB - Exams\20-21April2019\03.PaintingEggs\03.PaintingEggs\bin\Debug\netcoreapp3.1\03.PaintingEggs.runtimeconfig.json
+D:\SoftUni\PB - Exams\20-21April2019\03.PaintingEggs\03.PaintingEggs\bin\Debug\netcoreapp3.1\03.PaintingEggs.runtimeconfig.dev.json
+D:\SoftUni\PB - Exams\20-21April2019\03.PaintingEggs\03.PaintingEggs\bin\Debug\netcoreapp3.1\03.PaintingEggs.dll
+D:\SoftUni\PB - Exams\20-21April2019\03.PaintingEggs\03.PaintingEggs\bin\Debug\netcoreapp3.1\03.PaintingEggs.pdb
+D:\SoftUni\PB - Exams\20-21April2019\03.PaintingEggs\03.PaintingEggs\obj\Debug\netcoreapp3.1\03.PaintingEggs.AssemblyInfoInputs.cache
+D:\SoftUni\PB - Exams\20-21April2019\03.PaintingEggs\03.PaintingEggs\obj\Debug\netcoreapp3.1\03.PaintingEggs.AssemblyInfo.cs
+D:\SoftUni\PB - Exams\20-21April2019\03.PaintingEggs\03.PaintingEggs\obj\Debug\netcoreapp3.1\03.PaintingEggs.dll
+D:\SoftUni\PB - Exams\20-21April2019\03.PaintingEggs\03.PaintingEggs\obj\Debug\netcoreapp3.1\03.PaintingEggs.pdb
