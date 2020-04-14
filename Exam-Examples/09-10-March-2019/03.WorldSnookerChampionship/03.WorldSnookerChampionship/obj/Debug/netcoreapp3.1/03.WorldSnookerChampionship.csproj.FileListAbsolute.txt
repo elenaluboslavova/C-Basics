@@ -1,0 +1,10 @@
+D:\SoftUni\PB - Exams\09-10-March-2019\03.WorldSnookerChampionship\03.WorldSnookerChampionship\bin\Debug\netcoreapp3.1\03.WorldSnookerChampionship.exe
+D:\SoftUni\PB - Exams\09-10-March-2019\03.WorldSnookerChampionship\03.WorldSnookerChampionship\bin\Debug\netcoreapp3.1\03.WorldSnookerChampionship.deps.json
+D:\SoftUni\PB - Exams\09-10-March-2019\03.WorldSnookerChampionship\03.WorldSnookerChampionship\bin\Debug\netcoreapp3.1\03.WorldSnookerChampionship.runtimeconfig.json
+D:\SoftUni\PB - Exams\09-10-March-2019\03.WorldSnookerChampionship\03.WorldSnookerChampionship\bin\Debug\netcoreapp3.1\03.WorldSnookerChampionship.runtimeconfig.dev.json
+D:\SoftUni\PB - Exams\09-10-March-2019\03.WorldSnookerChampionship\03.WorldSnookerChampionship\bin\Debug\netcoreapp3.1\03.WorldSnookerChampionship.dll
+D:\SoftUni\PB - Exams\09-10-March-2019\03.WorldSnookerChampionship\03.WorldSnookerChampionship\bin\Debug\netcoreapp3.1\03.WorldSnookerChampionship.pdb
+D:\SoftUni\PB - Exams\09-10-March-2019\03.WorldSnookerChampionship\03.WorldSnookerChampionship\obj\Debug\netcoreapp3.1\03.WorldSnookerChampionship.AssemblyInfoInputs.cache
+D:\SoftUni\PB - Exams\09-10-March-2019\03.WorldSnookerChampionship\03.WorldSnookerChampionship\obj\Debug\netcoreapp3.1\03.WorldSnookerChampionship.AssemblyInfo.cs
+D:\SoftUni\PB - Exams\09-10-March-2019\03.WorldSnookerChampionship\03.WorldSnookerChampionship\obj\Debug\netcoreapp3.1\03.WorldSnookerChampionship.dll
+D:\SoftUni\PB - Exams\09-10-March-2019\03.WorldSnookerChampionship\03.WorldSnookerChampionship\obj\Debug\netcoreapp3.1\03.WorldSnookerChampionship.pdb
