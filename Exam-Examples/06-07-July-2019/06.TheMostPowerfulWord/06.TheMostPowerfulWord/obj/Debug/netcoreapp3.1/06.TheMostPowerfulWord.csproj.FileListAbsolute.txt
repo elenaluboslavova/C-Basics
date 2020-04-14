@@ -1,0 +1,13 @@
+D:\SoftUni\Exams\06-07-July-2019\06.TheMostPowerfulWord\06.TheMostPowerfulWord\bin\Debug\netcoreapp3.1\06.TheMostPowerfulWord.exe
+D:\SoftUni\Exams\06-07-July-2019\06.TheMostPowerfulWord\06.TheMostPowerfulWord\bin\Debug\netcoreapp3.1\06.TheMostPowerfulWord.deps.json
+D:\SoftUni\Exams\06-07-July-2019\06.TheMostPowerfulWord\06.TheMostPowerfulWord\bin\Debug\netcoreapp3.1\06.TheMostPowerfulWord.runtimeconfig.json
+D:\SoftUni\Exams\06-07-July-2019\06.TheMostPowerfulWord\06.TheMostPowerfulWord\bin\Debug\netcoreapp3.1\06.TheMostPowerfulWord.runtimeconfig.dev.json
+D:\SoftUni\Exams\06-07-July-2019\06.TheMostPowerfulWord\06.TheMostPowerfulWord\bin\Debug\netcoreapp3.1\06.TheMostPowerfulWord.dll
+D:\SoftUni\Exams\06-07-July-2019\06.TheMostPowerfulWord\06.TheMostPowerfulWord\bin\Debug\netcoreapp3.1\06.TheMostPowerfulWord.pdb
+D:\SoftUni\Exams\06-07-July-2019\06.TheMostPowerfulWord\06.TheMostPowerfulWord\obj\Debug\netcoreapp3.1\06.TheMostPowerfulWord.csprojAssemblyReference.cache
+D:\SoftUni\Exams\06-07-July-2019\06.TheMostPowerfulWord\06.TheMostPowerfulWord\obj\Debug\netcoreapp3.1\06.TheMostPowerfulWord.csproj.CoreCompileInputs.cache
+D:\SoftUni\Exams\06-07-July-2019\06.TheMostPowerfulWord\06.TheMostPowerfulWord\obj\Debug\netcoreapp3.1\06.TheMostPowerfulWord.AssemblyInfoInputs.cache
+D:\SoftUni\Exams\06-07-July-2019\06.TheMostPowerfulWord\06.TheMostPowerfulWord\obj\Debug\netcoreapp3.1\06.TheMostPowerfulWord.AssemblyInfo.cs
+D:\SoftUni\Exams\06-07-July-2019\06.TheMostPowerfulWord\06.TheMostPowerfulWord\obj\Debug\netcoreapp3.1\06.TheMostPowerfulWord.dll
+D:\SoftUni\Exams\06-07-July-2019\06.TheMostPowerfulWord\06.TheMostPowerfulWord\obj\Debug\netcoreapp3.1\06.TheMostPowerfulWord.pdb
+D:\SoftUni\Exams\06-07-July-2019\06.TheMostPowerfulWord\06.TheMostPowerfulWord\obj\Debug\netcoreapp3.1\06.TheMostPowerfulWord.genruntimeconfig.cache
