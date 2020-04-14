@@ -1,0 +1,10 @@
+D:\SoftUni\PB - Exams\09-10-March-2019\03.Gymnastics\03.Gymnastics\bin\Debug\netcoreapp3.1\03.Gymnastics.exe
+D:\SoftUni\PB - Exams\09-10-March-2019\03.Gymnastics\03.Gymnastics\bin\Debug\netcoreapp3.1\03.Gymnastics.deps.json
+D:\SoftUni\PB - Exams\09-10-March-2019\03.Gymnastics\03.Gymnastics\bin\Debug\netcoreapp3.1\03.Gymnastics.runtimeconfig.json
+D:\SoftUni\PB - Exams\09-10-March-2019\03.Gymnastics\03.Gymnastics\bin\Debug\netcoreapp3.1\03.Gymnastics.runtimeconfig.dev.json
+D:\SoftUni\PB - Exams\09-10-March-2019\03.Gymnastics\03.Gymnastics\bin\Debug\netcoreapp3.1\03.Gymnastics.dll
+D:\SoftUni\PB - Exams\09-10-March-2019\03.Gymnastics\03.Gymnastics\bin\Debug\netcoreapp3.1\03.Gymnastics.pdb
+D:\SoftUni\PB - Exams\09-10-March-2019\03.Gymnastics\03.Gymnastics\obj\Debug\netcoreapp3.1\03.Gymnastics.AssemblyInfoInputs.cache
+D:\SoftUni\PB - Exams\09-10-March-2019\03.Gymnastics\03.Gymnastics\obj\Debug\netcoreapp3.1\03.Gymnastics.AssemblyInfo.cs
+D:\SoftUni\PB - Exams\09-10-March-2019\03.Gymnastics\03.Gymnastics\obj\Debug\netcoreapp3.1\03.Gymnastics.dll
+D:\SoftUni\PB - Exams\09-10-March-2019\03.Gymnastics\03.Gymnastics\obj\Debug\netcoreapp3.1\03.Gymnastics.pdb
