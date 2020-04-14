@@ -1,0 +1,11 @@
+D:\SoftUni\PB - Exams\15-16-June-2019\04.MovieStars\04.MovieStars\bin\Debug\netcoreapp3.1\04.MovieStars.exe
+D:\SoftUni\PB - Exams\15-16-June-2019\04.MovieStars\04.MovieStars\bin\Debug\netcoreapp3.1\04.MovieStars.deps.json
+D:\SoftUni\PB - Exams\15-16-June-2019\04.MovieStars\04.MovieStars\bin\Debug\netcoreapp3.1\04.MovieStars.runtimeconfig.json
+D:\SoftUni\PB - Exams\15-16-June-2019\04.MovieStars\04.MovieStars\bin\Debug\netcoreapp3.1\04.MovieStars.runtimeconfig.dev.json
+D:\SoftUni\PB - Exams\15-16-June-2019\04.MovieStars\04.MovieStars\bin\Debug\netcoreapp3.1\04.MovieStars.dll
+D:\SoftUni\PB - Exams\15-16-June-2019\04.MovieStars\04.MovieStars\bin\Debug\netcoreapp3.1\04.MovieStars.pdb
+D:\SoftUni\PB - Exams\15-16-June-2019\04.MovieStars\04.MovieStars\obj\Debug\netcoreapp3.1\04.MovieStars.AssemblyInfoInputs.cache
+D:\SoftUni\PB - Exams\15-16-June-2019\04.MovieStars\04.MovieStars\obj\Debug\netcoreapp3.1\04.MovieStars.AssemblyInfo.cs
+D:\SoftUni\PB - Exams\15-16-June-2019\04.MovieStars\04.MovieStars\obj\Debug\netcoreapp3.1\04.MovieStars.dll
+D:\SoftUni\PB - Exams\15-16-June-2019\04.MovieStars\04.MovieStars\obj\Debug\netcoreapp3.1\04.MovieStars.pdb
+D:\SoftUni\PB - Exams\15-16-June-2019\04.MovieStars\04.MovieStars\obj\Debug\netcoreapp3.1\04.MovieStars.csprojAssemblyReference.cache
