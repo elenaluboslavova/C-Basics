@@ -1,0 +1,13 @@
+D:\SoftUni\Exams\27-28-July-2019\04.BestPlaneTickets\04.BestPlaneTickets\bin\Debug\netcoreapp3.1\04.BestPlaneTickets.exe
+D:\SoftUni\Exams\27-28-July-2019\04.BestPlaneTickets\04.BestPlaneTickets\bin\Debug\netcoreapp3.1\04.BestPlaneTickets.deps.json
+D:\SoftUni\Exams\27-28-July-2019\04.BestPlaneTickets\04.BestPlaneTickets\bin\Debug\netcoreapp3.1\04.BestPlaneTickets.runtimeconfig.json
+D:\SoftUni\Exams\27-28-July-2019\04.BestPlaneTickets\04.BestPlaneTickets\bin\Debug\netcoreapp3.1\04.BestPlaneTickets.runtimeconfig.dev.json
+D:\SoftUni\Exams\27-28-July-2019\04.BestPlaneTickets\04.BestPlaneTickets\bin\Debug\netcoreapp3.1\04.BestPlaneTickets.dll
+D:\SoftUni\Exams\27-28-July-2019\04.BestPlaneTickets\04.BestPlaneTickets\bin\Debug\netcoreapp3.1\04.BestPlaneTickets.pdb
+D:\SoftUni\Exams\27-28-July-2019\04.BestPlaneTickets\04.BestPlaneTickets\obj\Debug\netcoreapp3.1\04.BestPlaneTickets.csprojAssemblyReference.cache
+D:\SoftUni\Exams\27-28-July-2019\04.BestPlaneTickets\04.BestPlaneTickets\obj\Debug\netcoreapp3.1\04.BestPlaneTickets.csproj.CoreCompileInputs.cache
+D:\SoftUni\Exams\27-28-July-2019\04.BestPlaneTickets\04.BestPlaneTickets\obj\Debug\netcoreapp3.1\04.BestPlaneTickets.AssemblyInfoInputs.cache
+D:\SoftUni\Exams\27-28-July-2019\04.BestPlaneTickets\04.BestPlaneTickets\obj\Debug\netcoreapp3.1\04.BestPlaneTickets.AssemblyInfo.cs
+D:\SoftUni\Exams\27-28-July-2019\04.BestPlaneTickets\04.BestPlaneTickets\obj\Debug\netcoreapp3.1\04.BestPlaneTickets.dll
+D:\SoftUni\Exams\27-28-July-2019\04.BestPlaneTickets\04.BestPlaneTickets\obj\Debug\netcoreapp3.1\04.BestPlaneTickets.pdb
+D:\SoftUni\Exams\27-28-July-2019\04.BestPlaneTickets\04.BestPlaneTickets\obj\Debug\netcoreapp3.1\04.BestPlaneTickets.genruntimeconfig.cache
