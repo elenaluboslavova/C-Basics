@@ -1,0 +1,10 @@
+D:\SoftUni\PB-Exams\27-28July2019\01.LemonadeStand\01.LemonadeStand\bin\Debug\netcoreapp3.1\01.LemonadeStand.exe
+D:\SoftUni\PB-Exams\27-28July2019\01.LemonadeStand\01.LemonadeStand\bin\Debug\netcoreapp3.1\01.LemonadeStand.deps.json
+D:\SoftUni\PB-Exams\27-28July2019\01.LemonadeStand\01.LemonadeStand\bin\Debug\netcoreapp3.1\01.LemonadeStand.runtimeconfig.json
+D:\SoftUni\PB-Exams\27-28July2019\01.LemonadeStand\01.LemonadeStand\bin\Debug\netcoreapp3.1\01.LemonadeStand.runtimeconfig.dev.json
+D:\SoftUni\PB-Exams\27-28July2019\01.LemonadeStand\01.LemonadeStand\bin\Debug\netcoreapp3.1\01.LemonadeStand.dll
+D:\SoftUni\PB-Exams\27-28July2019\01.LemonadeStand\01.LemonadeStand\bin\Debug\netcoreapp3.1\01.LemonadeStand.pdb
+D:\SoftUni\PB-Exams\27-28July2019\01.LemonadeStand\01.LemonadeStand\obj\Debug\netcoreapp3.1\01.LemonadeStand.AssemblyInfoInputs.cache
+D:\SoftUni\PB-Exams\27-28July2019\01.LemonadeStand\01.LemonadeStand\obj\Debug\netcoreapp3.1\01.LemonadeStand.AssemblyInfo.cs
+D:\SoftUni\PB-Exams\27-28July2019\01.LemonadeStand\01.LemonadeStand\obj\Debug\netcoreapp3.1\01.LemonadeStand.dll
+D:\SoftUni\PB-Exams\27-28July2019\01.LemonadeStand\01.LemonadeStand\obj\Debug\netcoreapp3.1\01.LemonadeStand.pdb
