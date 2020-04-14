@@ -1,0 +1,12 @@
+D:\SoftUni\Exams\06-07-July-2019\06.NameGame\06.NameGame\bin\Debug\netcoreapp3.1\06.NameGame.exe
+D:\SoftUni\Exams\06-07-July-2019\06.NameGame\06.NameGame\bin\Debug\netcoreapp3.1\06.NameGame.deps.json
+D:\SoftUni\Exams\06-07-July-2019\06.NameGame\06.NameGame\bin\Debug\netcoreapp3.1\06.NameGame.runtimeconfig.json
+D:\SoftUni\Exams\06-07-July-2019\06.NameGame\06.NameGame\bin\Debug\netcoreapp3.1\06.NameGame.runtimeconfig.dev.json
+D:\SoftUni\Exams\06-07-July-2019\06.NameGame\06.NameGame\bin\Debug\netcoreapp3.1\06.NameGame.dll
+D:\SoftUni\Exams\06-07-July-2019\06.NameGame\06.NameGame\bin\Debug\netcoreapp3.1\06.NameGame.pdb
+D:\SoftUni\Exams\06-07-July-2019\06.NameGame\06.NameGame\obj\Debug\netcoreapp3.1\06.NameGame.csproj.CoreCompileInputs.cache
+D:\SoftUni\Exams\06-07-July-2019\06.NameGame\06.NameGame\obj\Debug\netcoreapp3.1\06.NameGame.AssemblyInfoInputs.cache
+D:\SoftUni\Exams\06-07-July-2019\06.NameGame\06.NameGame\obj\Debug\netcoreapp3.1\06.NameGame.AssemblyInfo.cs
+D:\SoftUni\Exams\06-07-July-2019\06.NameGame\06.NameGame\obj\Debug\netcoreapp3.1\06.NameGame.dll
+D:\SoftUni\Exams\06-07-July-2019\06.NameGame\06.NameGame\obj\Debug\netcoreapp3.1\06.NameGame.pdb
+D:\SoftUni\Exams\06-07-July-2019\06.NameGame\06.NameGame\obj\Debug\netcoreapp3.1\06.NameGame.genruntimeconfig.cache
