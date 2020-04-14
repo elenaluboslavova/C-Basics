@@ -1,0 +1,13 @@
+D:\SoftUni\Exams\27-28-July-2019\03.LuggageTax\03.LuggageTax\bin\Debug\netcoreapp3.1\03.LuggageTax.exe
+D:\SoftUni\Exams\27-28-July-2019\03.LuggageTax\03.LuggageTax\bin\Debug\netcoreapp3.1\03.LuggageTax.deps.json
+D:\SoftUni\Exams\27-28-July-2019\03.LuggageTax\03.LuggageTax\bin\Debug\netcoreapp3.1\03.LuggageTax.runtimeconfig.json
+D:\SoftUni\Exams\27-28-July-2019\03.LuggageTax\03.LuggageTax\bin\Debug\netcoreapp3.1\03.LuggageTax.runtimeconfig.dev.json
+D:\SoftUni\Exams\27-28-July-2019\03.LuggageTax\03.LuggageTax\bin\Debug\netcoreapp3.1\03.LuggageTax.dll
+D:\SoftUni\Exams\27-28-July-2019\03.LuggageTax\03.LuggageTax\bin\Debug\netcoreapp3.1\03.LuggageTax.pdb
+D:\SoftUni\Exams\27-28-July-2019\03.LuggageTax\03.LuggageTax\obj\Debug\netcoreapp3.1\03.LuggageTax.csprojAssemblyReference.cache
+D:\SoftUni\Exams\27-28-July-2019\03.LuggageTax\03.LuggageTax\obj\Debug\netcoreapp3.1\03.LuggageTax.csproj.CoreCompileInputs.cache
+D:\SoftUni\Exams\27-28-July-2019\03.LuggageTax\03.LuggageTax\obj\Debug\netcoreapp3.1\03.LuggageTax.AssemblyInfoInputs.cache
+D:\SoftUni\Exams\27-28-July-2019\03.LuggageTax\03.LuggageTax\obj\Debug\netcoreapp3.1\03.LuggageTax.AssemblyInfo.cs
+D:\SoftUni\Exams\27-28-July-2019\03.LuggageTax\03.LuggageTax\obj\Debug\netcoreapp3.1\03.LuggageTax.dll
+D:\SoftUni\Exams\27-28-July-2019\03.LuggageTax\03.LuggageTax\obj\Debug\netcoreapp3.1\03.LuggageTax.pdb
+D:\SoftUni\Exams\27-28-July-2019\03.LuggageTax\03.LuggageTax\obj\Debug\netcoreapp3.1\03.LuggageTax.genruntimeconfig.cache
