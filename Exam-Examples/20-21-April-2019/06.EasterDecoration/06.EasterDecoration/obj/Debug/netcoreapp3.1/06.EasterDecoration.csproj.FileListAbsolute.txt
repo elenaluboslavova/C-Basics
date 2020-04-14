@@ -1,0 +1,11 @@
+D:\SoftUni\PB - Exams\20-21-April-2019\06.EasterDecoration\06.EasterDecoration\bin\Debug\netcoreapp3.1\06.EasterDecoration.exe
+D:\SoftUni\PB - Exams\20-21-April-2019\06.EasterDecoration\06.EasterDecoration\bin\Debug\netcoreapp3.1\06.EasterDecoration.deps.json
+D:\SoftUni\PB - Exams\20-21-April-2019\06.EasterDecoration\06.EasterDecoration\bin\Debug\netcoreapp3.1\06.EasterDecoration.runtimeconfig.json
+D:\SoftUni\PB - Exams\20-21-April-2019\06.EasterDecoration\06.EasterDecoration\bin\Debug\netcoreapp3.1\06.EasterDecoration.runtimeconfig.dev.json
+D:\SoftUni\PB - Exams\20-21-April-2019\06.EasterDecoration\06.EasterDecoration\bin\Debug\netcoreapp3.1\06.EasterDecoration.dll
+D:\SoftUni\PB - Exams\20-21-April-2019\06.EasterDecoration\06.EasterDecoration\bin\Debug\netcoreapp3.1\06.EasterDecoration.pdb
+D:\SoftUni\PB - Exams\20-21-April-2019\06.EasterDecoration\06.EasterDecoration\obj\Debug\netcoreapp3.1\06.EasterDecoration.AssemblyInfoInputs.cache
+D:\SoftUni\PB - Exams\20-21-April-2019\06.EasterDecoration\06.EasterDecoration\obj\Debug\netcoreapp3.1\06.EasterDecoration.AssemblyInfo.cs
+D:\SoftUni\PB - Exams\20-21-April-2019\06.EasterDecoration\06.EasterDecoration\obj\Debug\netcoreapp3.1\06.EasterDecoration.dll
+D:\SoftUni\PB - Exams\20-21-April-2019\06.EasterDecoration\06.EasterDecoration\obj\Debug\netcoreapp3.1\06.EasterDecoration.pdb
+D:\SoftUni\PB - Exams\20-21-April-2019\06.EasterDecoration\06.EasterDecoration\obj\Debug\netcoreapp3.1\06.EasterDecoration.csprojAssemblyReference.cache
