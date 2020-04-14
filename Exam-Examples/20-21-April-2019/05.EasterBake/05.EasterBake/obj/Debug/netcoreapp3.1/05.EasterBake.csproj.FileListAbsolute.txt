@@ -1,0 +1,10 @@
+D:\SoftUni\PB - Exams\20-21April2019\05.EasterBake\05.EasterBake\bin\Debug\netcoreapp3.1\05.EasterBake.exe
+D:\SoftUni\PB - Exams\20-21April2019\05.EasterBake\05.EasterBake\bin\Debug\netcoreapp3.1\05.EasterBake.deps.json
+D:\SoftUni\PB - Exams\20-21April2019\05.EasterBake\05.EasterBake\bin\Debug\netcoreapp3.1\05.EasterBake.runtimeconfig.json
+D:\SoftUni\PB - Exams\20-21April2019\05.EasterBake\05.EasterBake\bin\Debug\netcoreapp3.1\05.EasterBake.runtimeconfig.dev.json
+D:\SoftUni\PB - Exams\20-21April2019\05.EasterBake\05.EasterBake\bin\Debug\netcoreapp3.1\05.EasterBake.dll
+D:\SoftUni\PB - Exams\20-21April2019\05.EasterBake\05.EasterBake\bin\Debug\netcoreapp3.1\05.EasterBake.pdb
+D:\SoftUni\PB - Exams\20-21April2019\05.EasterBake\05.EasterBake\obj\Debug\netcoreapp3.1\05.EasterBake.AssemblyInfoInputs.cache
+D:\SoftUni\PB - Exams\20-21April2019\05.EasterBake\05.EasterBake\obj\Debug\netcoreapp3.1\05.EasterBake.AssemblyInfo.cs
+D:\SoftUni\PB - Exams\20-21April2019\05.EasterBake\05.EasterBake\obj\Debug\netcoreapp3.1\05.EasterBake.dll
+D:\SoftUni\PB - Exams\20-21April2019\05.EasterBake\05.EasterBake\obj\Debug\netcoreapp3.1\05.EasterBake.pdb
