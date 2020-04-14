@@ -1,0 +1,11 @@
+D:\SoftUni\PB - Exams\09-10-March-2019\06.BasketballTournament\06.BasketballTournament\bin\Debug\netcoreapp3.1\06.BasketballTournament.exe
+D:\SoftUni\PB - Exams\09-10-March-2019\06.BasketballTournament\06.BasketballTournament\bin\Debug\netcoreapp3.1\06.BasketballTournament.deps.json
+D:\SoftUni\PB - Exams\09-10-March-2019\06.BasketballTournament\06.BasketballTournament\bin\Debug\netcoreapp3.1\06.BasketballTournament.runtimeconfig.json
+D:\SoftUni\PB - Exams\09-10-March-2019\06.BasketballTournament\06.BasketballTournament\bin\Debug\netcoreapp3.1\06.BasketballTournament.runtimeconfig.dev.json
+D:\SoftUni\PB - Exams\09-10-March-2019\06.BasketballTournament\06.BasketballTournament\bin\Debug\netcoreapp3.1\06.BasketballTournament.dll
+D:\SoftUni\PB - Exams\09-10-March-2019\06.BasketballTournament\06.BasketballTournament\bin\Debug\netcoreapp3.1\06.BasketballTournament.pdb
+D:\SoftUni\PB - Exams\09-10-March-2019\06.BasketballTournament\06.BasketballTournament\obj\Debug\netcoreapp3.1\06.BasketballTournament.csprojAssemblyReference.cache
+D:\SoftUni\PB - Exams\09-10-March-2019\06.BasketballTournament\06.BasketballTournament\obj\Debug\netcoreapp3.1\06.BasketballTournament.AssemblyInfoInputs.cache
+D:\SoftUni\PB - Exams\09-10-March-2019\06.BasketballTournament\06.BasketballTournament\obj\Debug\netcoreapp3.1\06.BasketballTournament.AssemblyInfo.cs
+D:\SoftUni\PB - Exams\09-10-March-2019\06.BasketballTournament\06.BasketballTournament\obj\Debug\netcoreapp3.1\06.BasketballTournament.dll
+D:\SoftUni\PB - Exams\09-10-March-2019\06.BasketballTournament\06.BasketballTournament\obj\Debug\netcoreapp3.1\06.BasketballTournament.pdb
