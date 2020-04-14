@@ -1,0 +1,11 @@
+D:\SoftUni\PB-Exams\20-21April2019\01.EasterBakery\01.EasterBakery\bin\Debug\netcoreapp3.1\01.EasterBakery.exe
+D:\SoftUni\PB-Exams\20-21April2019\01.EasterBakery\01.EasterBakery\bin\Debug\netcoreapp3.1\01.EasterBakery.deps.json
+D:\SoftUni\PB-Exams\20-21April2019\01.EasterBakery\01.EasterBakery\bin\Debug\netcoreapp3.1\01.EasterBakery.runtimeconfig.json
+D:\SoftUni\PB-Exams\20-21April2019\01.EasterBakery\01.EasterBakery\bin\Debug\netcoreapp3.1\01.EasterBakery.runtimeconfig.dev.json
+D:\SoftUni\PB-Exams\20-21April2019\01.EasterBakery\01.EasterBakery\bin\Debug\netcoreapp3.1\01.EasterBakery.dll
+D:\SoftUni\PB-Exams\20-21April2019\01.EasterBakery\01.EasterBakery\bin\Debug\netcoreapp3.1\01.EasterBakery.pdb
+D:\SoftUni\PB-Exams\20-21April2019\01.EasterBakery\01.EasterBakery\obj\Debug\netcoreapp3.1\01.EasterBakery.csprojAssemblyReference.cache
+D:\SoftUni\PB-Exams\20-21April2019\01.EasterBakery\01.EasterBakery\obj\Debug\netcoreapp3.1\01.EasterBakery.AssemblyInfoInputs.cache
+D:\SoftUni\PB-Exams\20-21April2019\01.EasterBakery\01.EasterBakery\obj\Debug\netcoreapp3.1\01.EasterBakery.AssemblyInfo.cs
+D:\SoftUni\PB-Exams\20-21April2019\01.EasterBakery\01.EasterBakery\obj\Debug\netcoreapp3.1\01.EasterBakery.dll
+D:\SoftUni\PB-Exams\20-21April2019\01.EasterBakery\01.EasterBakery\obj\Debug\netcoreapp3.1\01.EasterBakery.pdb
