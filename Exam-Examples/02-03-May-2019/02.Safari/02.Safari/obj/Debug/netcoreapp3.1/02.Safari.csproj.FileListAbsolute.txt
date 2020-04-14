@@ -1,0 +1,10 @@
+D:\SoftUni\PB - Exams\02-03May2019\02.Safari\02.Safari\bin\Debug\netcoreapp3.1\02.Safari.exe
+D:\SoftUni\PB - Exams\02-03May2019\02.Safari\02.Safari\bin\Debug\netcoreapp3.1\02.Safari.deps.json
+D:\SoftUni\PB - Exams\02-03May2019\02.Safari\02.Safari\bin\Debug\netcoreapp3.1\02.Safari.runtimeconfig.json
+D:\SoftUni\PB - Exams\02-03May2019\02.Safari\02.Safari\bin\Debug\netcoreapp3.1\02.Safari.runtimeconfig.dev.json
+D:\SoftUni\PB - Exams\02-03May2019\02.Safari\02.Safari\bin\Debug\netcoreapp3.1\02.Safari.dll
+D:\SoftUni\PB - Exams\02-03May2019\02.Safari\02.Safari\bin\Debug\netcoreapp3.1\02.Safari.pdb
+D:\SoftUni\PB - Exams\02-03May2019\02.Safari\02.Safari\obj\Debug\netcoreapp3.1\02.Safari.AssemblyInfoInputs.cache
+D:\SoftUni\PB - Exams\02-03May2019\02.Safari\02.Safari\obj\Debug\netcoreapp3.1\02.Safari.AssemblyInfo.cs
+D:\SoftUni\PB - Exams\02-03May2019\02.Safari\02.Safari\obj\Debug\netcoreapp3.1\02.Safari.dll
+D:\SoftUni\PB - Exams\02-03May2019\02.Safari\02.Safari\obj\Debug\netcoreapp3.1\02.Safari.pdb
