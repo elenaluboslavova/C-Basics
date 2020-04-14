@@ -1,0 +1,10 @@
+D:\SoftUni\PB - Exams\09-10March2019\02.Skeleton\02.Skeleton\bin\Debug\netcoreapp3.1\02.Skeleton.exe
+D:\SoftUni\PB - Exams\09-10March2019\02.Skeleton\02.Skeleton\bin\Debug\netcoreapp3.1\02.Skeleton.deps.json
+D:\SoftUni\PB - Exams\09-10March2019\02.Skeleton\02.Skeleton\bin\Debug\netcoreapp3.1\02.Skeleton.runtimeconfig.json
+D:\SoftUni\PB - Exams\09-10March2019\02.Skeleton\02.Skeleton\bin\Debug\netcoreapp3.1\02.Skeleton.runtimeconfig.dev.json
+D:\SoftUni\PB - Exams\09-10March2019\02.Skeleton\02.Skeleton\bin\Debug\netcoreapp3.1\02.Skeleton.dll
+D:\SoftUni\PB - Exams\09-10March2019\02.Skeleton\02.Skeleton\bin\Debug\netcoreapp3.1\02.Skeleton.pdb
+D:\SoftUni\PB - Exams\09-10March2019\02.Skeleton\02.Skeleton\obj\Debug\netcoreapp3.1\02.Skeleton.AssemblyInfoInputs.cache
+D:\SoftUni\PB - Exams\09-10March2019\02.Skeleton\02.Skeleton\obj\Debug\netcoreapp3.1\02.Skeleton.AssemblyInfo.cs
+D:\SoftUni\PB - Exams\09-10March2019\02.Skeleton\02.Skeleton\obj\Debug\netcoreapp3.1\02.Skeleton.dll
+D:\SoftUni\PB - Exams\09-10March2019\02.Skeleton\02.Skeleton\obj\Debug\netcoreapp3.1\02.Skeleton.pdb
