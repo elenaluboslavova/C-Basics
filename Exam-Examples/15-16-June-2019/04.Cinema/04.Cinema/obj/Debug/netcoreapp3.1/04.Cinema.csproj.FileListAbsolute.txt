@@ -1,0 +1,11 @@
+D:\SoftUni\PB - Exams\15-16-June-2019\04.Cinema\04.Cinema\bin\Debug\netcoreapp3.1\04.Cinema.exe
+D:\SoftUni\PB - Exams\15-16-June-2019\04.Cinema\04.Cinema\bin\Debug\netcoreapp3.1\04.Cinema.deps.json
+D:\SoftUni\PB - Exams\15-16-June-2019\04.Cinema\04.Cinema\bin\Debug\netcoreapp3.1\04.Cinema.runtimeconfig.json
+D:\SoftUni\PB - Exams\15-16-June-2019\04.Cinema\04.Cinema\bin\Debug\netcoreapp3.1\04.Cinema.runtimeconfig.dev.json
+D:\SoftUni\PB - Exams\15-16-June-2019\04.Cinema\04.Cinema\bin\Debug\netcoreapp3.1\04.Cinema.dll
+D:\SoftUni\PB - Exams\15-16-June-2019\04.Cinema\04.Cinema\bin\Debug\netcoreapp3.1\04.Cinema.pdb
+D:\SoftUni\PB - Exams\15-16-June-2019\04.Cinema\04.Cinema\obj\Debug\netcoreapp3.1\04.Cinema.csprojAssemblyReference.cache
+D:\SoftUni\PB - Exams\15-16-June-2019\04.Cinema\04.Cinema\obj\Debug\netcoreapp3.1\04.Cinema.AssemblyInfoInputs.cache
+D:\SoftUni\PB - Exams\15-16-June-2019\04.Cinema\04.Cinema\obj\Debug\netcoreapp3.1\04.Cinema.AssemblyInfo.cs
+D:\SoftUni\PB - Exams\15-16-June-2019\04.Cinema\04.Cinema\obj\Debug\netcoreapp3.1\04.Cinema.dll
+D:\SoftUni\PB - Exams\15-16-June-2019\04.Cinema\04.Cinema\obj\Debug\netcoreapp3.1\04.Cinema.pdb
