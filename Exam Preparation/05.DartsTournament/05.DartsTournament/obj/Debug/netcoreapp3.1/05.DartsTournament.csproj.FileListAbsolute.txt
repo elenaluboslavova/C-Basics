@@ -1,0 +1,11 @@
+D:\SoftUni\Exam Preparation\05.DartsTournament\05.DartsTournament\bin\Debug\netcoreapp3.1\05.DartsTournament.exe
+D:\SoftUni\Exam Preparation\05.DartsTournament\05.DartsTournament\bin\Debug\netcoreapp3.1\05.DartsTournament.deps.json
+D:\SoftUni\Exam Preparation\05.DartsTournament\05.DartsTournament\bin\Debug\netcoreapp3.1\05.DartsTournament.runtimeconfig.json
+D:\SoftUni\Exam Preparation\05.DartsTournament\05.DartsTournament\bin\Debug\netcoreapp3.1\05.DartsTournament.runtimeconfig.dev.json
+D:\SoftUni\Exam Preparation\05.DartsTournament\05.DartsTournament\bin\Debug\netcoreapp3.1\05.DartsTournament.dll
+D:\SoftUni\Exam Preparation\05.DartsTournament\05.DartsTournament\bin\Debug\netcoreapp3.1\05.DartsTournament.pdb
+D:\SoftUni\Exam Preparation\05.DartsTournament\05.DartsTournament\obj\Debug\netcoreapp3.1\05.DartsTournament.csprojAssemblyReference.cache
+D:\SoftUni\Exam Preparation\05.DartsTournament\05.DartsTournament\obj\Debug\netcoreapp3.1\05.DartsTournament.AssemblyInfoInputs.cache
+D:\SoftUni\Exam Preparation\05.DartsTournament\05.DartsTournament\obj\Debug\netcoreapp3.1\05.DartsTournament.AssemblyInfo.cs
+D:\SoftUni\Exam Preparation\05.DartsTournament\05.DartsTournament\obj\Debug\netcoreapp3.1\05.DartsTournament.dll
+D:\SoftUni\Exam Preparation\05.DartsTournament\05.DartsTournament\obj\Debug\netcoreapp3.1\05.DartsTournament.pdb
