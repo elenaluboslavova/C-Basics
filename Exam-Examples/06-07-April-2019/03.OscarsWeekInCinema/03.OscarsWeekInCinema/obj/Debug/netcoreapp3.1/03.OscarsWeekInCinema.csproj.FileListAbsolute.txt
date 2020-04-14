@@ -1,0 +1,13 @@
+D:\SoftUni\Exams\06-07-April-2019\03.OscarsWeekInCinema\03.OscarsWeekInCinema\bin\Debug\netcoreapp3.1\03.OscarsWeekInCinema.exe
+D:\SoftUni\Exams\06-07-April-2019\03.OscarsWeekInCinema\03.OscarsWeekInCinema\bin\Debug\netcoreapp3.1\03.OscarsWeekInCinema.deps.json
+D:\SoftUni\Exams\06-07-April-2019\03.OscarsWeekInCinema\03.OscarsWeekInCinema\bin\Debug\netcoreapp3.1\03.OscarsWeekInCinema.runtimeconfig.json
+D:\SoftUni\Exams\06-07-April-2019\03.OscarsWeekInCinema\03.OscarsWeekInCinema\bin\Debug\netcoreapp3.1\03.OscarsWeekInCinema.runtimeconfig.dev.json
+D:\SoftUni\Exams\06-07-April-2019\03.OscarsWeekInCinema\03.OscarsWeekInCinema\bin\Debug\netcoreapp3.1\03.OscarsWeekInCinema.dll
+D:\SoftUni\Exams\06-07-April-2019\03.OscarsWeekInCinema\03.OscarsWeekInCinema\bin\Debug\netcoreapp3.1\03.OscarsWeekInCinema.pdb
+D:\SoftUni\Exams\06-07-April-2019\03.OscarsWeekInCinema\03.OscarsWeekInCinema\obj\Debug\netcoreapp3.1\03.OscarsWeekInCinema.csprojAssemblyReference.cache
+D:\SoftUni\Exams\06-07-April-2019\03.OscarsWeekInCinema\03.OscarsWeekInCinema\obj\Debug\netcoreapp3.1\03.OscarsWeekInCinema.csproj.CoreCompileInputs.cache
+D:\SoftUni\Exams\06-07-April-2019\03.OscarsWeekInCinema\03.OscarsWeekInCinema\obj\Debug\netcoreapp3.1\03.OscarsWeekInCinema.AssemblyInfoInputs.cache
+D:\SoftUni\Exams\06-07-April-2019\03.OscarsWeekInCinema\03.OscarsWeekInCinema\obj\Debug\netcoreapp3.1\03.OscarsWeekInCinema.AssemblyInfo.cs
+D:\SoftUni\Exams\06-07-April-2019\03.OscarsWeekInCinema\03.OscarsWeekInCinema\obj\Debug\netcoreapp3.1\03.OscarsWeekInCinema.dll
+D:\SoftUni\Exams\06-07-April-2019\03.OscarsWeekInCinema\03.OscarsWeekInCinema\obj\Debug\netcoreapp3.1\03.OscarsWeekInCinema.pdb
+D:\SoftUni\Exams\06-07-April-2019\03.OscarsWeekInCinema\03.OscarsWeekInCinema\obj\Debug\netcoreapp3.1\03.OscarsWeekInCinema.genruntimeconfig.cache
