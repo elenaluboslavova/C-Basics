@@ -1,0 +1,10 @@
+D:\SoftUni\PB - Exams\09-10March2019\02.FootballResults\02.FootballResults\bin\Debug\netcoreapp3.1\02.FootballResults.exe
+D:\SoftUni\PB - Exams\09-10March2019\02.FootballResults\02.FootballResults\bin\Debug\netcoreapp3.1\02.FootballResults.deps.json
+D:\SoftUni\PB - Exams\09-10March2019\02.FootballResults\02.FootballResults\bin\Debug\netcoreapp3.1\02.FootballResults.runtimeconfig.json
+D:\SoftUni\PB - Exams\09-10March2019\02.FootballResults\02.FootballResults\bin\Debug\netcoreapp3.1\02.FootballResults.runtimeconfig.dev.json
+D:\SoftUni\PB - Exams\09-10March2019\02.FootballResults\02.FootballResults\bin\Debug\netcoreapp3.1\02.FootballResults.dll
+D:\SoftUni\PB - Exams\09-10March2019\02.FootballResults\02.FootballResults\bin\Debug\netcoreapp3.1\02.FootballResults.pdb
+D:\SoftUni\PB - Exams\09-10March2019\02.FootballResults\02.FootballResults\obj\Debug\netcoreapp3.1\02.FootballResults.AssemblyInfoInputs.cache
+D:\SoftUni\PB - Exams\09-10March2019\02.FootballResults\02.FootballResults\obj\Debug\netcoreapp3.1\02.FootballResults.AssemblyInfo.cs
+D:\SoftUni\PB - Exams\09-10March2019\02.FootballResults\02.FootballResults\obj\Debug\netcoreapp3.1\02.FootballResults.dll
+D:\SoftUni\PB - Exams\09-10March2019\02.FootballResults\02.FootballResults\obj\Debug\netcoreapp3.1\02.FootballResults.pdb
