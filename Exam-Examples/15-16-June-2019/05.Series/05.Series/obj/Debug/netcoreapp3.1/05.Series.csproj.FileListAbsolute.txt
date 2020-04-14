@@ -1,0 +1,11 @@
+D:\SoftUni\PB - Exams\15-16-June-2019\05.Series\05.Series\bin\Debug\netcoreapp3.1\05.Series.exe
+D:\SoftUni\PB - Exams\15-16-June-2019\05.Series\05.Series\bin\Debug\netcoreapp3.1\05.Series.deps.json
+D:\SoftUni\PB - Exams\15-16-June-2019\05.Series\05.Series\bin\Debug\netcoreapp3.1\05.Series.runtimeconfig.json
+D:\SoftUni\PB - Exams\15-16-June-2019\05.Series\05.Series\bin\Debug\netcoreapp3.1\05.Series.runtimeconfig.dev.json
+D:\SoftUni\PB - Exams\15-16-June-2019\05.Series\05.Series\bin\Debug\netcoreapp3.1\05.Series.dll
+D:\SoftUni\PB - Exams\15-16-June-2019\05.Series\05.Series\bin\Debug\netcoreapp3.1\05.Series.pdb
+D:\SoftUni\PB - Exams\15-16-June-2019\05.Series\05.Series\obj\Debug\netcoreapp3.1\05.Series.csprojAssemblyReference.cache
+D:\SoftUni\PB - Exams\15-16-June-2019\05.Series\05.Series\obj\Debug\netcoreapp3.1\05.Series.AssemblyInfoInputs.cache
+D:\SoftUni\PB - Exams\15-16-June-2019\05.Series\05.Series\obj\Debug\netcoreapp3.1\05.Series.AssemblyInfo.cs
+D:\SoftUni\PB - Exams\15-16-June-2019\05.Series\05.Series\obj\Debug\netcoreapp3.1\05.Series.dll
+D:\SoftUni\PB - Exams\15-16-June-2019\05.Series\05.Series\obj\Debug\netcoreapp3.1\05.Series.pdb
