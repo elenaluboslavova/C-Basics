@@ -1,0 +1,13 @@
+D:\SoftUni\Exams\27-28-July-2019\05.Seats\05.Seats\bin\Debug\netcoreapp3.1\05.Seats.exe
+D:\SoftUni\Exams\27-28-July-2019\05.Seats\05.Seats\bin\Debug\netcoreapp3.1\05.Seats.deps.json
+D:\SoftUni\Exams\27-28-July-2019\05.Seats\05.Seats\bin\Debug\netcoreapp3.1\05.Seats.runtimeconfig.json
+D:\SoftUni\Exams\27-28-July-2019\05.Seats\05.Seats\bin\Debug\netcoreapp3.1\05.Seats.runtimeconfig.dev.json
+D:\SoftUni\Exams\27-28-July-2019\05.Seats\05.Seats\bin\Debug\netcoreapp3.1\05.Seats.dll
+D:\SoftUni\Exams\27-28-July-2019\05.Seats\05.Seats\bin\Debug\netcoreapp3.1\05.Seats.pdb
+D:\SoftUni\Exams\27-28-July-2019\05.Seats\05.Seats\obj\Debug\netcoreapp3.1\05.Seats.csprojAssemblyReference.cache
+D:\SoftUni\Exams\27-28-July-2019\05.Seats\05.Seats\obj\Debug\netcoreapp3.1\05.Seats.csproj.CoreCompileInputs.cache
+D:\SoftUni\Exams\27-28-July-2019\05.Seats\05.Seats\obj\Debug\netcoreapp3.1\05.Seats.AssemblyInfoInputs.cache
+D:\SoftUni\Exams\27-28-July-2019\05.Seats\05.Seats\obj\Debug\netcoreapp3.1\05.Seats.AssemblyInfo.cs
+D:\SoftUni\Exams\27-28-July-2019\05.Seats\05.Seats\obj\Debug\netcoreapp3.1\05.Seats.dll
+D:\SoftUni\Exams\27-28-July-2019\05.Seats\05.Seats\obj\Debug\netcoreapp3.1\05.Seats.pdb
+D:\SoftUni\Exams\27-28-July-2019\05.Seats\05.Seats\obj\Debug\netcoreapp3.1\05.Seats.genruntimeconfig.cache
