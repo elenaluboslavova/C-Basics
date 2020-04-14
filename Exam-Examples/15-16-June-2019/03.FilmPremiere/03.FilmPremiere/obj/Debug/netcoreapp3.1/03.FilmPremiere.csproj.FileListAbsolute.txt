@@ -1,0 +1,11 @@
+D:\SoftUni\PB - Exams\15-16-June-2019\03.FilmPremiere\03.FilmPremiere\bin\Debug\netcoreapp3.1\03.FilmPremiere.exe
+D:\SoftUni\PB - Exams\15-16-June-2019\03.FilmPremiere\03.FilmPremiere\bin\Debug\netcoreapp3.1\03.FilmPremiere.deps.json
+D:\SoftUni\PB - Exams\15-16-June-2019\03.FilmPremiere\03.FilmPremiere\bin\Debug\netcoreapp3.1\03.FilmPremiere.runtimeconfig.json
+D:\SoftUni\PB - Exams\15-16-June-2019\03.FilmPremiere\03.FilmPremiere\bin\Debug\netcoreapp3.1\03.FilmPremiere.runtimeconfig.dev.json
+D:\SoftUni\PB - Exams\15-16-June-2019\03.FilmPremiere\03.FilmPremiere\bin\Debug\netcoreapp3.1\03.FilmPremiere.dll
+D:\SoftUni\PB - Exams\15-16-June-2019\03.FilmPremiere\03.FilmPremiere\bin\Debug\netcoreapp3.1\03.FilmPremiere.pdb
+D:\SoftUni\PB - Exams\15-16-June-2019\03.FilmPremiere\03.FilmPremiere\obj\Debug\netcoreapp3.1\03.FilmPremiere.csprojAssemblyReference.cache
+D:\SoftUni\PB - Exams\15-16-June-2019\03.FilmPremiere\03.FilmPremiere\obj\Debug\netcoreapp3.1\03.FilmPremiere.AssemblyInfoInputs.cache
+D:\SoftUni\PB - Exams\15-16-June-2019\03.FilmPremiere\03.FilmPremiere\obj\Debug\netcoreapp3.1\03.FilmPremiere.AssemblyInfo.cs
+D:\SoftUni\PB - Exams\15-16-June-2019\03.FilmPremiere\03.FilmPremiere\obj\Debug\netcoreapp3.1\03.FilmPremiere.dll
+D:\SoftUni\PB - Exams\15-16-June-2019\03.FilmPremiere\03.FilmPremiere\obj\Debug\netcoreapp3.1\03.FilmPremiere.pdb
