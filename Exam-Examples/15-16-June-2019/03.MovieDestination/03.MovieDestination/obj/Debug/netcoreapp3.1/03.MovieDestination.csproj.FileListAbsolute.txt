@@ -1,0 +1,11 @@
+D:\SoftUni\PB - Exams\15-16-June-2019\03.MovieDestination\03.MovieDestination\bin\Debug\netcoreapp3.1\03.MovieDestination.exe
+D:\SoftUni\PB - Exams\15-16-June-2019\03.MovieDestination\03.MovieDestination\bin\Debug\netcoreapp3.1\03.MovieDestination.deps.json
+D:\SoftUni\PB - Exams\15-16-June-2019\03.MovieDestination\03.MovieDestination\bin\Debug\netcoreapp3.1\03.MovieDestination.runtimeconfig.json
+D:\SoftUni\PB - Exams\15-16-June-2019\03.MovieDestination\03.MovieDestination\bin\Debug\netcoreapp3.1\03.MovieDestination.runtimeconfig.dev.json
+D:\SoftUni\PB - Exams\15-16-June-2019\03.MovieDestination\03.MovieDestination\bin\Debug\netcoreapp3.1\03.MovieDestination.dll
+D:\SoftUni\PB - Exams\15-16-June-2019\03.MovieDestination\03.MovieDestination\bin\Debug\netcoreapp3.1\03.MovieDestination.pdb
+D:\SoftUni\PB - Exams\15-16-June-2019\03.MovieDestination\03.MovieDestination\obj\Debug\netcoreapp3.1\03.MovieDestination.csprojAssemblyReference.cache
+D:\SoftUni\PB - Exams\15-16-June-2019\03.MovieDestination\03.MovieDestination\obj\Debug\netcoreapp3.1\03.MovieDestination.AssemblyInfoInputs.cache
+D:\SoftUni\PB - Exams\15-16-June-2019\03.MovieDestination\03.MovieDestination\obj\Debug\netcoreapp3.1\03.MovieDestination.AssemblyInfo.cs
+D:\SoftUni\PB - Exams\15-16-June-2019\03.MovieDestination\03.MovieDestination\obj\Debug\netcoreapp3.1\03.MovieDestination.dll
+D:\SoftUni\PB - Exams\15-16-June-2019\03.MovieDestination\03.MovieDestination\obj\Debug\netcoreapp3.1\03.MovieDestination.pdb
