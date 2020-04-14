@@ -1,0 +1,11 @@
+D:\SoftUni\PB-Exams\15-16June2019\01.MovieProfit\01.MovieProfit\bin\Debug\netcoreapp3.1\01.MovieProfit.exe
+D:\SoftUni\PB-Exams\15-16June2019\01.MovieProfit\01.MovieProfit\bin\Debug\netcoreapp3.1\01.MovieProfit.deps.json
+D:\SoftUni\PB-Exams\15-16June2019\01.MovieProfit\01.MovieProfit\bin\Debug\netcoreapp3.1\01.MovieProfit.runtimeconfig.json
+D:\SoftUni\PB-Exams\15-16June2019\01.MovieProfit\01.MovieProfit\bin\Debug\netcoreapp3.1\01.MovieProfit.runtimeconfig.dev.json
+D:\SoftUni\PB-Exams\15-16June2019\01.MovieProfit\01.MovieProfit\bin\Debug\netcoreapp3.1\01.MovieProfit.dll
+D:\SoftUni\PB-Exams\15-16June2019\01.MovieProfit\01.MovieProfit\bin\Debug\netcoreapp3.1\01.MovieProfit.pdb
+D:\SoftUni\PB-Exams\15-16June2019\01.MovieProfit\01.MovieProfit\obj\Debug\netcoreapp3.1\01.MovieProfit.csprojAssemblyReference.cache
+D:\SoftUni\PB-Exams\15-16June2019\01.MovieProfit\01.MovieProfit\obj\Debug\netcoreapp3.1\01.MovieProfit.AssemblyInfoInputs.cache
+D:\SoftUni\PB-Exams\15-16June2019\01.MovieProfit\01.MovieProfit\obj\Debug\netcoreapp3.1\01.MovieProfit.AssemblyInfo.cs
+D:\SoftUni\PB-Exams\15-16June2019\01.MovieProfit\01.MovieProfit\obj\Debug\netcoreapp3.1\01.MovieProfit.dll
+D:\SoftUni\PB-Exams\15-16June2019\01.MovieProfit\01.MovieProfit\obj\Debug\netcoreapp3.1\01.MovieProfit.pdb
