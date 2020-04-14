@@ -1,0 +1,12 @@
+D:\SoftUni\Exams\27-28-July-2019\06.TripExpenses\06.TripExpenses\bin\Debug\netcoreapp3.1\06.TripExpenses.exe
+D:\SoftUni\Exams\27-28-July-2019\06.TripExpenses\06.TripExpenses\bin\Debug\netcoreapp3.1\06.TripExpenses.deps.json
+D:\SoftUni\Exams\27-28-July-2019\06.TripExpenses\06.TripExpenses\bin\Debug\netcoreapp3.1\06.TripExpenses.runtimeconfig.json
+D:\SoftUni\Exams\27-28-July-2019\06.TripExpenses\06.TripExpenses\bin\Debug\netcoreapp3.1\06.TripExpenses.runtimeconfig.dev.json
+D:\SoftUni\Exams\27-28-July-2019\06.TripExpenses\06.TripExpenses\bin\Debug\netcoreapp3.1\06.TripExpenses.dll
+D:\SoftUni\Exams\27-28-July-2019\06.TripExpenses\06.TripExpenses\bin\Debug\netcoreapp3.1\06.TripExpenses.pdb
+D:\SoftUni\Exams\27-28-July-2019\06.TripExpenses\06.TripExpenses\obj\Debug\netcoreapp3.1\06.TripExpenses.csproj.CoreCompileInputs.cache
+D:\SoftUni\Exams\27-28-July-2019\06.TripExpenses\06.TripExpenses\obj\Debug\netcoreapp3.1\06.TripExpenses.AssemblyInfoInputs.cache
+D:\SoftUni\Exams\27-28-July-2019\06.TripExpenses\06.TripExpenses\obj\Debug\netcoreapp3.1\06.TripExpenses.AssemblyInfo.cs
+D:\SoftUni\Exams\27-28-July-2019\06.TripExpenses\06.TripExpenses\obj\Debug\netcoreapp3.1\06.TripExpenses.dll
+D:\SoftUni\Exams\27-28-July-2019\06.TripExpenses\06.TripExpenses\obj\Debug\netcoreapp3.1\06.TripExpenses.pdb
+D:\SoftUni\Exams\27-28-July-2019\06.TripExpenses\06.TripExpenses\obj\Debug\netcoreapp3.1\06.TripExpenses.genruntimeconfig.cache
