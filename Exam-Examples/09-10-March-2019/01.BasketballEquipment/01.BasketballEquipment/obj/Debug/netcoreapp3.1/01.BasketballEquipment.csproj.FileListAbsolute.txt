@@ -1,0 +1,10 @@
+D:\SoftUni\PB-Exams\09-10March2019\01.BasketballEquipment\01.BasketballEquipment\bin\Debug\netcoreapp3.1\01.BasketballEquipment.exe
+D:\SoftUni\PB-Exams\09-10March2019\01.BasketballEquipment\01.BasketballEquipment\bin\Debug\netcoreapp3.1\01.BasketballEquipment.deps.json
+D:\SoftUni\PB-Exams\09-10March2019\01.BasketballEquipment\01.BasketballEquipment\bin\Debug\netcoreapp3.1\01.BasketballEquipment.runtimeconfig.json
+D:\SoftUni\PB-Exams\09-10March2019\01.BasketballEquipment\01.BasketballEquipment\bin\Debug\netcoreapp3.1\01.BasketballEquipment.runtimeconfig.dev.json
+D:\SoftUni\PB-Exams\09-10March2019\01.BasketballEquipment\01.BasketballEquipment\bin\Debug\netcoreapp3.1\01.BasketballEquipment.dll
+D:\SoftUni\PB-Exams\09-10March2019\01.BasketballEquipment\01.BasketballEquipment\bin\Debug\netcoreapp3.1\01.BasketballEquipment.pdb
+D:\SoftUni\PB-Exams\09-10March2019\01.BasketballEquipment\01.BasketballEquipment\obj\Debug\netcoreapp3.1\01.BasketballEquipment.AssemblyInfoInputs.cache
+D:\SoftUni\PB-Exams\09-10March2019\01.BasketballEquipment\01.BasketballEquipment\obj\Debug\netcoreapp3.1\01.BasketballEquipment.AssemblyInfo.cs
+D:\SoftUni\PB-Exams\09-10March2019\01.BasketballEquipment\01.BasketballEquipment\obj\Debug\netcoreapp3.1\01.BasketballEquipment.dll
+D:\SoftUni\PB-Exams\09-10March2019\01.BasketballEquipment\01.BasketballEquipment\obj\Debug\netcoreapp3.1\01.BasketballEquipment.pdb
