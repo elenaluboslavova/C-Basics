@@ -1,0 +1,10 @@
+D:\SoftUni\PB - Exams\15-16June2019\02.LunchBreak\02.LunchBreak\bin\Debug\netcoreapp3.1\02.LunchBreak.exe
+D:\SoftUni\PB - Exams\15-16June2019\02.LunchBreak\02.LunchBreak\bin\Debug\netcoreapp3.1\02.LunchBreak.deps.json
+D:\SoftUni\PB - Exams\15-16June2019\02.LunchBreak\02.LunchBreak\bin\Debug\netcoreapp3.1\02.LunchBreak.runtimeconfig.json
+D:\SoftUni\PB - Exams\15-16June2019\02.LunchBreak\02.LunchBreak\bin\Debug\netcoreapp3.1\02.LunchBreak.runtimeconfig.dev.json
+D:\SoftUni\PB - Exams\15-16June2019\02.LunchBreak\02.LunchBreak\bin\Debug\netcoreapp3.1\02.LunchBreak.dll
+D:\SoftUni\PB - Exams\15-16June2019\02.LunchBreak\02.LunchBreak\bin\Debug\netcoreapp3.1\02.LunchBreak.pdb
+D:\SoftUni\PB - Exams\15-16June2019\02.LunchBreak\02.LunchBreak\obj\Debug\netcoreapp3.1\02.LunchBreak.AssemblyInfoInputs.cache
+D:\SoftUni\PB - Exams\15-16June2019\02.LunchBreak\02.LunchBreak\obj\Debug\netcoreapp3.1\02.LunchBreak.AssemblyInfo.cs
+D:\SoftUni\PB - Exams\15-16June2019\02.LunchBreak\02.LunchBreak\obj\Debug\netcoreapp3.1\02.LunchBreak.dll
+D:\SoftUni\PB - Exams\15-16June2019\02.LunchBreak\02.LunchBreak\obj\Debug\netcoreapp3.1\02.LunchBreak.pdb
