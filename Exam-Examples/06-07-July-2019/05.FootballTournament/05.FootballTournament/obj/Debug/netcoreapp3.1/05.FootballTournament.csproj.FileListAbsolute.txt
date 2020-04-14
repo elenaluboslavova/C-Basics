@@ -1,0 +1,13 @@
+D:\SoftUni\Exams\06-07-July-2019\05.FootballTournament\05.FootballTournament\bin\Debug\netcoreapp3.1\05.FootballTournament.exe
+D:\SoftUni\Exams\06-07-July-2019\05.FootballTournament\05.FootballTournament\bin\Debug\netcoreapp3.1\05.FootballTournament.deps.json
+D:\SoftUni\Exams\06-07-July-2019\05.FootballTournament\05.FootballTournament\bin\Debug\netcoreapp3.1\05.FootballTournament.runtimeconfig.json
+D:\SoftUni\Exams\06-07-July-2019\05.FootballTournament\05.FootballTournament\bin\Debug\netcoreapp3.1\05.FootballTournament.runtimeconfig.dev.json
+D:\SoftUni\Exams\06-07-July-2019\05.FootballTournament\05.FootballTournament\bin\Debug\netcoreapp3.1\05.FootballTournament.dll
+D:\SoftUni\Exams\06-07-July-2019\05.FootballTournament\05.FootballTournament\bin\Debug\netcoreapp3.1\05.FootballTournament.pdb
+D:\SoftUni\Exams\06-07-July-2019\05.FootballTournament\05.FootballTournament\obj\Debug\netcoreapp3.1\05.FootballTournament.csprojAssemblyReference.cache
+D:\SoftUni\Exams\06-07-July-2019\05.FootballTournament\05.FootballTournament\obj\Debug\netcoreapp3.1\05.FootballTournament.csproj.CoreCompileInputs.cache
+D:\SoftUni\Exams\06-07-July-2019\05.FootballTournament\05.FootballTournament\obj\Debug\netcoreapp3.1\05.FootballTournament.AssemblyInfoInputs.cache
+D:\SoftUni\Exams\06-07-July-2019\05.FootballTournament\05.FootballTournament\obj\Debug\netcoreapp3.1\05.FootballTournament.AssemblyInfo.cs
+D:\SoftUni\Exams\06-07-July-2019\05.FootballTournament\05.FootballTournament\obj\Debug\netcoreapp3.1\05.FootballTournament.dll
+D:\SoftUni\Exams\06-07-July-2019\05.FootballTournament\05.FootballTournament\obj\Debug\netcoreapp3.1\05.FootballTournament.pdb
+D:\SoftUni\Exams\06-07-July-2019\05.FootballTournament\05.FootballTournament\obj\Debug\netcoreapp3.1\05.FootballTournament.genruntimeconfig.cache
