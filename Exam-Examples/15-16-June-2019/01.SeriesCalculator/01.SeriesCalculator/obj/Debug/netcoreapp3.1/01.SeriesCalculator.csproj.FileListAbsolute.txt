@@ -1,0 +1,10 @@
+D:\SoftUni\PB-Exams\15-16June2019\01.SeriesCalculator\01.SeriesCalculator\bin\Debug\netcoreapp3.1\01.SeriesCalculator.exe
+D:\SoftUni\PB-Exams\15-16June2019\01.SeriesCalculator\01.SeriesCalculator\bin\Debug\netcoreapp3.1\01.SeriesCalculator.deps.json
+D:\SoftUni\PB-Exams\15-16June2019\01.SeriesCalculator\01.SeriesCalculator\bin\Debug\netcoreapp3.1\01.SeriesCalculator.runtimeconfig.json
+D:\SoftUni\PB-Exams\15-16June2019\01.SeriesCalculator\01.SeriesCalculator\bin\Debug\netcoreapp3.1\01.SeriesCalculator.runtimeconfig.dev.json
+D:\SoftUni\PB-Exams\15-16June2019\01.SeriesCalculator\01.SeriesCalculator\bin\Debug\netcoreapp3.1\01.SeriesCalculator.dll
+D:\SoftUni\PB-Exams\15-16June2019\01.SeriesCalculator\01.SeriesCalculator\bin\Debug\netcoreapp3.1\01.SeriesCalculator.pdb
+D:\SoftUni\PB-Exams\15-16June2019\01.SeriesCalculator\01.SeriesCalculator\obj\Debug\netcoreapp3.1\01.SeriesCalculator.AssemblyInfoInputs.cache
+D:\SoftUni\PB-Exams\15-16June2019\01.SeriesCalculator\01.SeriesCalculator\obj\Debug\netcoreapp3.1\01.SeriesCalculator.AssemblyInfo.cs
+D:\SoftUni\PB-Exams\15-16June2019\01.SeriesCalculator\01.SeriesCalculator\obj\Debug\netcoreapp3.1\01.SeriesCalculator.dll
+D:\SoftUni\PB-Exams\15-16June2019\01.SeriesCalculator\01.SeriesCalculator\obj\Debug\netcoreapp3.1\01.SeriesCalculator.pdb
