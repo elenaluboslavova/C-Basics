@@ -1,0 +1,13 @@
+D:\SoftUni\Exams\06-07-July-2019\04.Renovation\04.Renovation\bin\Debug\netcoreapp3.1\04.Renovation.exe
+D:\SoftUni\Exams\06-07-July-2019\04.Renovation\04.Renovation\bin\Debug\netcoreapp3.1\04.Renovation.deps.json
+D:\SoftUni\Exams\06-07-July-2019\04.Renovation\04.Renovation\bin\Debug\netcoreapp3.1\04.Renovation.runtimeconfig.json
+D:\SoftUni\Exams\06-07-July-2019\04.Renovation\04.Renovation\bin\Debug\netcoreapp3.1\04.Renovation.runtimeconfig.dev.json
+D:\SoftUni\Exams\06-07-July-2019\04.Renovation\04.Renovation\bin\Debug\netcoreapp3.1\04.Renovation.dll
+D:\SoftUni\Exams\06-07-July-2019\04.Renovation\04.Renovation\bin\Debug\netcoreapp3.1\04.Renovation.pdb
+D:\SoftUni\Exams\06-07-July-2019\04.Renovation\04.Renovation\obj\Debug\netcoreapp3.1\04.Renovation.csprojAssemblyReference.cache
+D:\SoftUni\Exams\06-07-July-2019\04.Renovation\04.Renovation\obj\Debug\netcoreapp3.1\04.Renovation.csproj.CoreCompileInputs.cache
+D:\SoftUni\Exams\06-07-July-2019\04.Renovation\04.Renovation\obj\Debug\netcoreapp3.1\04.Renovation.AssemblyInfoInputs.cache
+D:\SoftUni\Exams\06-07-July-2019\04.Renovation\04.Renovation\obj\Debug\netcoreapp3.1\04.Renovation.AssemblyInfo.cs
+D:\SoftUni\Exams\06-07-July-2019\04.Renovation\04.Renovation\obj\Debug\netcoreapp3.1\04.Renovation.dll
+D:\SoftUni\Exams\06-07-July-2019\04.Renovation\04.Renovation\obj\Debug\netcoreapp3.1\04.Renovation.pdb
+D:\SoftUni\Exams\06-07-July-2019\04.Renovation\04.Renovation\obj\Debug\netcoreapp3.1\04.Renovation.genruntimeconfig.cache
