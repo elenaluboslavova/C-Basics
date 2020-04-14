@@ -1,0 +1,13 @@
+D:\SoftUni\Exams\06-07-July-2019\04.Club\04.Club\bin\Debug\netcoreapp3.1\04.Club.exe
+D:\SoftUni\Exams\06-07-July-2019\04.Club\04.Club\bin\Debug\netcoreapp3.1\04.Club.deps.json
+D:\SoftUni\Exams\06-07-July-2019\04.Club\04.Club\bin\Debug\netcoreapp3.1\04.Club.runtimeconfig.json
+D:\SoftUni\Exams\06-07-July-2019\04.Club\04.Club\bin\Debug\netcoreapp3.1\04.Club.runtimeconfig.dev.json
+D:\SoftUni\Exams\06-07-July-2019\04.Club\04.Club\bin\Debug\netcoreapp3.1\04.Club.dll
+D:\SoftUni\Exams\06-07-July-2019\04.Club\04.Club\bin\Debug\netcoreapp3.1\04.Club.pdb
+D:\SoftUni\Exams\06-07-July-2019\04.Club\04.Club\obj\Debug\netcoreapp3.1\04.Club.csprojAssemblyReference.cache
+D:\SoftUni\Exams\06-07-July-2019\04.Club\04.Club\obj\Debug\netcoreapp3.1\04.Club.csproj.CoreCompileInputs.cache
+D:\SoftUni\Exams\06-07-July-2019\04.Club\04.Club\obj\Debug\netcoreapp3.1\04.Club.AssemblyInfoInputs.cache
+D:\SoftUni\Exams\06-07-July-2019\04.Club\04.Club\obj\Debug\netcoreapp3.1\04.Club.AssemblyInfo.cs
+D:\SoftUni\Exams\06-07-July-2019\04.Club\04.Club\obj\Debug\netcoreapp3.1\04.Club.dll
+D:\SoftUni\Exams\06-07-July-2019\04.Club\04.Club\obj\Debug\netcoreapp3.1\04.Club.pdb
+D:\SoftUni\Exams\06-07-July-2019\04.Club\04.Club\obj\Debug\netcoreapp3.1\04.Club.genruntimeconfig.cache
