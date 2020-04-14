@@ -1,0 +1,10 @@
+D:\SoftUni\PB - Exams\20-21April2019\05.EasterEggs\05.EasterEggs\bin\Debug\netcoreapp3.1\05.EasterEggs.exe
+D:\SoftUni\PB - Exams\20-21April2019\05.EasterEggs\05.EasterEggs\bin\Debug\netcoreapp3.1\05.EasterEggs.deps.json
+D:\SoftUni\PB - Exams\20-21April2019\05.EasterEggs\05.EasterEggs\bin\Debug\netcoreapp3.1\05.EasterEggs.runtimeconfig.json
+D:\SoftUni\PB - Exams\20-21April2019\05.EasterEggs\05.EasterEggs\bin\Debug\netcoreapp3.1\05.EasterEggs.runtimeconfig.dev.json
+D:\SoftUni\PB - Exams\20-21April2019\05.EasterEggs\05.EasterEggs\bin\Debug\netcoreapp3.1\05.EasterEggs.dll
+D:\SoftUni\PB - Exams\20-21April2019\05.EasterEggs\05.EasterEggs\bin\Debug\netcoreapp3.1\05.EasterEggs.pdb
+D:\SoftUni\PB - Exams\20-21April2019\05.EasterEggs\05.EasterEggs\obj\Debug\netcoreapp3.1\05.EasterEggs.AssemblyInfoInputs.cache
+D:\SoftUni\PB - Exams\20-21April2019\05.EasterEggs\05.EasterEggs\obj\Debug\netcoreapp3.1\05.EasterEggs.AssemblyInfo.cs
+D:\SoftUni\PB - Exams\20-21April2019\05.EasterEggs\05.EasterEggs\obj\Debug\netcoreapp3.1\05.EasterEggs.dll
+D:\SoftUni\PB - Exams\20-21April2019\05.EasterEggs\05.EasterEggs\obj\Debug\netcoreapp3.1\05.EasterEggs.pdb
