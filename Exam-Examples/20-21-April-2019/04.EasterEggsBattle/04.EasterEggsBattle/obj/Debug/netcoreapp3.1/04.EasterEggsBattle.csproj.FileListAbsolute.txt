@@ -1,0 +1,11 @@
+D:\SoftUni\PB - Exams\20-21April2019\04.EasterEggsBattle\04.EasterEggsBattle\bin\Debug\netcoreapp3.1\04.EasterEggsBattle.exe
+D:\SoftUni\PB - Exams\20-21April2019\04.EasterEggsBattle\04.EasterEggsBattle\bin\Debug\netcoreapp3.1\04.EasterEggsBattle.deps.json
+D:\SoftUni\PB - Exams\20-21April2019\04.EasterEggsBattle\04.EasterEggsBattle\bin\Debug\netcoreapp3.1\04.EasterEggsBattle.runtimeconfig.json
+D:\SoftUni\PB - Exams\20-21April2019\04.EasterEggsBattle\04.EasterEggsBattle\bin\Debug\netcoreapp3.1\04.EasterEggsBattle.runtimeconfig.dev.json
+D:\SoftUni\PB - Exams\20-21April2019\04.EasterEggsBattle\04.EasterEggsBattle\bin\Debug\netcoreapp3.1\04.EasterEggsBattle.dll
+D:\SoftUni\PB - Exams\20-21April2019\04.EasterEggsBattle\04.EasterEggsBattle\bin\Debug\netcoreapp3.1\04.EasterEggsBattle.pdb
+D:\SoftUni\PB - Exams\20-21April2019\04.EasterEggsBattle\04.EasterEggsBattle\obj\Debug\netcoreapp3.1\04.EasterEggsBattle.csprojAssemblyReference.cache
+D:\SoftUni\PB - Exams\20-21April2019\04.EasterEggsBattle\04.EasterEggsBattle\obj\Debug\netcoreapp3.1\04.EasterEggsBattle.AssemblyInfoInputs.cache
+D:\SoftUni\PB - Exams\20-21April2019\04.EasterEggsBattle\04.EasterEggsBattle\obj\Debug\netcoreapp3.1\04.EasterEggsBattle.AssemblyInfo.cs
+D:\SoftUni\PB - Exams\20-21April2019\04.EasterEggsBattle\04.EasterEggsBattle\obj\Debug\netcoreapp3.1\04.EasterEggsBattle.dll
+D:\SoftUni\PB - Exams\20-21April2019\04.EasterEggsBattle\04.EasterEggsBattle\obj\Debug\netcoreapp3.1\04.EasterEggsBattle.pdb
