@@ -1,0 +1,11 @@
+D:\SoftUni\PB - Exams\27-28July2019\02.SummerShopping\02.SummerShopping\bin\Debug\netcoreapp3.1\02.SummerShopping.exe
+D:\SoftUni\PB - Exams\27-28July2019\02.SummerShopping\02.SummerShopping\bin\Debug\netcoreapp3.1\02.SummerShopping.deps.json
+D:\SoftUni\PB - Exams\27-28July2019\02.SummerShopping\02.SummerShopping\bin\Debug\netcoreapp3.1\02.SummerShopping.runtimeconfig.json
+D:\SoftUni\PB - Exams\27-28July2019\02.SummerShopping\02.SummerShopping\bin\Debug\netcoreapp3.1\02.SummerShopping.runtimeconfig.dev.json
+D:\SoftUni\PB - Exams\27-28July2019\02.SummerShopping\02.SummerShopping\bin\Debug\netcoreapp3.1\02.SummerShopping.dll
+D:\SoftUni\PB - Exams\27-28July2019\02.SummerShopping\02.SummerShopping\bin\Debug\netcoreapp3.1\02.SummerShopping.pdb
+D:\SoftUni\PB - Exams\27-28July2019\02.SummerShopping\02.SummerShopping\obj\Debug\netcoreapp3.1\02.SummerShopping.csprojAssemblyReference.cache
+D:\SoftUni\PB - Exams\27-28July2019\02.SummerShopping\02.SummerShopping\obj\Debug\netcoreapp3.1\02.SummerShopping.AssemblyInfoInputs.cache
+D:\SoftUni\PB - Exams\27-28July2019\02.SummerShopping\02.SummerShopping\obj\Debug\netcoreapp3.1\02.SummerShopping.AssemblyInfo.cs
+D:\SoftUni\PB - Exams\27-28July2019\02.SummerShopping\02.SummerShopping\obj\Debug\netcoreapp3.1\02.SummerShopping.dll
+D:\SoftUni\PB - Exams\27-28July2019\02.SummerShopping\02.SummerShopping\obj\Debug\netcoreapp3.1\02.SummerShopping.pdb
