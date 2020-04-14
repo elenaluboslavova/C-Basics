@@ -1,0 +1,10 @@
+D:\SoftUni\PB - Exams\20-21April2019\02.EasterGuests\02.EasterGuests\bin\Debug\netcoreapp3.1\02.EasterGuests.exe
+D:\SoftUni\PB - Exams\20-21April2019\02.EasterGuests\02.EasterGuests\bin\Debug\netcoreapp3.1\02.EasterGuests.deps.json
+D:\SoftUni\PB - Exams\20-21April2019\02.EasterGuests\02.EasterGuests\bin\Debug\netcoreapp3.1\02.EasterGuests.runtimeconfig.json
+D:\SoftUni\PB - Exams\20-21April2019\02.EasterGuests\02.EasterGuests\bin\Debug\netcoreapp3.1\02.EasterGuests.runtimeconfig.dev.json
+D:\SoftUni\PB - Exams\20-21April2019\02.EasterGuests\02.EasterGuests\bin\Debug\netcoreapp3.1\02.EasterGuests.dll
+D:\SoftUni\PB - Exams\20-21April2019\02.EasterGuests\02.EasterGuests\bin\Debug\netcoreapp3.1\02.EasterGuests.pdb
+D:\SoftUni\PB - Exams\20-21April2019\02.EasterGuests\02.EasterGuests\obj\Debug\netcoreapp3.1\02.EasterGuests.AssemblyInfoInputs.cache
+D:\SoftUni\PB - Exams\20-21April2019\02.EasterGuests\02.EasterGuests\obj\Debug\netcoreapp3.1\02.EasterGuests.AssemblyInfo.cs
+D:\SoftUni\PB - Exams\20-21April2019\02.EasterGuests\02.EasterGuests\obj\Debug\netcoreapp3.1\02.EasterGuests.dll
+D:\SoftUni\PB - Exams\20-21April2019\02.EasterGuests\02.EasterGuests\obj\Debug\netcoreapp3.1\02.EasterGuests.pdb
