@@ -1,0 +1,11 @@
+D:\SoftUni\PB - Exams\02-03-May-2019\03.MobileOperator\03.MobileOperator\bin\Debug\netcoreapp3.1\03.MobileOperator.exe
+D:\SoftUni\PB - Exams\02-03-May-2019\03.MobileOperator\03.MobileOperator\bin\Debug\netcoreapp3.1\03.MobileOperator.deps.json
+D:\SoftUni\PB - Exams\02-03-May-2019\03.MobileOperator\03.MobileOperator\bin\Debug\netcoreapp3.1\03.MobileOperator.runtimeconfig.json
+D:\SoftUni\PB - Exams\02-03-May-2019\03.MobileOperator\03.MobileOperator\bin\Debug\netcoreapp3.1\03.MobileOperator.runtimeconfig.dev.json
+D:\SoftUni\PB - Exams\02-03-May-2019\03.MobileOperator\03.MobileOperator\bin\Debug\netcoreapp3.1\03.MobileOperator.dll
+D:\SoftUni\PB - Exams\02-03-May-2019\03.MobileOperator\03.MobileOperator\bin\Debug\netcoreapp3.1\03.MobileOperator.pdb
+D:\SoftUni\PB - Exams\02-03-May-2019\03.MobileOperator\03.MobileOperator\obj\Debug\netcoreapp3.1\03.MobileOperator.csprojAssemblyReference.cache
+D:\SoftUni\PB - Exams\02-03-May-2019\03.MobileOperator\03.MobileOperator\obj\Debug\netcoreapp3.1\03.MobileOperator.AssemblyInfoInputs.cache
+D:\SoftUni\PB - Exams\02-03-May-2019\03.MobileOperator\03.MobileOperator\obj\Debug\netcoreapp3.1\03.MobileOperator.AssemblyInfo.cs
+D:\SoftUni\PB - Exams\02-03-May-2019\03.MobileOperator\03.MobileOperator\obj\Debug\netcoreapp3.1\03.MobileOperator.dll
+D:\SoftUni\PB - Exams\02-03-May-2019\03.MobileOperator\03.MobileOperator\obj\Debug\netcoreapp3.1\03.MobileOperator.pdb
