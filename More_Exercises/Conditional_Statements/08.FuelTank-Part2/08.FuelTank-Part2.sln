@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.FuelTank-Part2", "08.FuelTank-Part2\08.FuelTank-Part2.csproj", "{E07AB2C7-9B37-4BB8-B5A8-BA494013EF2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E07AB2C7-9B37-4BB8-B5A8-BA494013EF2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E07AB2C7-9B37-4BB8-B5A8-BA494013EF2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E07AB2C7-9B37-4BB8-B5A8-BA494013EF2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E07AB2C7-9B37-4BB8-B5A8-BA494013EF2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {287FE725-B6A0-40AB-888E-7EE0B6BE648F}
+	EndGlobalSection
+EndGlobal

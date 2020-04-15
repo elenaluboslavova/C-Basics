@@ -1,0 +1,11 @@
+D:\SoftUni\Conditional Statements - More Exercises\08.FuelTank-Part2\08.FuelTank-Part2\bin\Debug\netcoreapp3.1\08.FuelTank-Part2.exe
+D:\SoftUni\Conditional Statements - More Exercises\08.FuelTank-Part2\08.FuelTank-Part2\bin\Debug\netcoreapp3.1\08.FuelTank-Part2.deps.json
+D:\SoftUni\Conditional Statements - More Exercises\08.FuelTank-Part2\08.FuelTank-Part2\bin\Debug\netcoreapp3.1\08.FuelTank-Part2.runtimeconfig.json
+D:\SoftUni\Conditional Statements - More Exercises\08.FuelTank-Part2\08.FuelTank-Part2\bin\Debug\netcoreapp3.1\08.FuelTank-Part2.runtimeconfig.dev.json
+D:\SoftUni\Conditional Statements - More Exercises\08.FuelTank-Part2\08.FuelTank-Part2\bin\Debug\netcoreapp3.1\08.FuelTank-Part2.dll
+D:\SoftUni\Conditional Statements - More Exercises\08.FuelTank-Part2\08.FuelTank-Part2\bin\Debug\netcoreapp3.1\08.FuelTank-Part2.pdb
+D:\SoftUni\Conditional Statements - More Exercises\08.FuelTank-Part2\08.FuelTank-Part2\obj\Debug\netcoreapp3.1\08.FuelTank-Part2.csprojAssemblyReference.cache
+D:\SoftUni\Conditional Statements - More Exercises\08.FuelTank-Part2\08.FuelTank-Part2\obj\Debug\netcoreapp3.1\08.FuelTank-Part2.AssemblyInfoInputs.cache
+D:\SoftUni\Conditional Statements - More Exercises\08.FuelTank-Part2\08.FuelTank-Part2\obj\Debug\netcoreapp3.1\08.FuelTank-Part2.AssemblyInfo.cs
+D:\SoftUni\Conditional Statements - More Exercises\08.FuelTank-Part2\08.FuelTank-Part2\obj\Debug\netcoreapp3.1\08.FuelTank-Part2.dll
+D:\SoftUni\Conditional Statements - More Exercises\08.FuelTank-Part2\08.FuelTank-Part2\obj\Debug\netcoreapp3.1\08.FuelTank-Part2.pdb
