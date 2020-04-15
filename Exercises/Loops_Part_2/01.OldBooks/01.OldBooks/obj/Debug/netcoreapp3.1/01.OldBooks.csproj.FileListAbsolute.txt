@@ -1,0 +1,10 @@
+D:\SoftUni\Loops - Part 2 - Exercise\01.OldBooks\01.OldBooks\bin\Debug\netcoreapp3.1\01.OldBooks.exe
+D:\SoftUni\Loops - Part 2 - Exercise\01.OldBooks\01.OldBooks\bin\Debug\netcoreapp3.1\01.OldBooks.deps.json
+D:\SoftUni\Loops - Part 2 - Exercise\01.OldBooks\01.OldBooks\bin\Debug\netcoreapp3.1\01.OldBooks.runtimeconfig.json
+D:\SoftUni\Loops - Part 2 - Exercise\01.OldBooks\01.OldBooks\bin\Debug\netcoreapp3.1\01.OldBooks.runtimeconfig.dev.json
+D:\SoftUni\Loops - Part 2 - Exercise\01.OldBooks\01.OldBooks\bin\Debug\netcoreapp3.1\01.OldBooks.dll
+D:\SoftUni\Loops - Part 2 - Exercise\01.OldBooks\01.OldBooks\bin\Debug\netcoreapp3.1\01.OldBooks.pdb
+D:\SoftUni\Loops - Part 2 - Exercise\01.OldBooks\01.OldBooks\obj\Debug\netcoreapp3.1\01.OldBooks.AssemblyInfoInputs.cache
+D:\SoftUni\Loops - Part 2 - Exercise\01.OldBooks\01.OldBooks\obj\Debug\netcoreapp3.1\01.OldBooks.AssemblyInfo.cs
+D:\SoftUni\Loops - Part 2 - Exercise\01.OldBooks\01.OldBooks\obj\Debug\netcoreapp3.1\01.OldBooks.dll
+D:\SoftUni\Loops - Part 2 - Exercise\01.OldBooks\01.OldBooks\obj\Debug\netcoreapp3.1\01.OldBooks.pdb
