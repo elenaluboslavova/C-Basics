@@ -1,0 +1,10 @@
+D:\SoftUni\SimpleOperationsAndCalculations-MoreExercises\08.CircleAreaAndPerimeter\08.CircleAreaAndPerimeter\bin\Debug\netcoreapp3.1\08.CircleAreaAndPerimeter.exe
+D:\SoftUni\SimpleOperationsAndCalculations-MoreExercises\08.CircleAreaAndPerimeter\08.CircleAreaAndPerimeter\bin\Debug\netcoreapp3.1\08.CircleAreaAndPerimeter.deps.json
+D:\SoftUni\SimpleOperationsAndCalculations-MoreExercises\08.CircleAreaAndPerimeter\08.CircleAreaAndPerimeter\bin\Debug\netcoreapp3.1\08.CircleAreaAndPerimeter.runtimeconfig.json
+D:\SoftUni\SimpleOperationsAndCalculations-MoreExercises\08.CircleAreaAndPerimeter\08.CircleAreaAndPerimeter\bin\Debug\netcoreapp3.1\08.CircleAreaAndPerimeter.runtimeconfig.dev.json
+D:\SoftUni\SimpleOperationsAndCalculations-MoreExercises\08.CircleAreaAndPerimeter\08.CircleAreaAndPerimeter\bin\Debug\netcoreapp3.1\08.CircleAreaAndPerimeter.dll
+D:\SoftUni\SimpleOperationsAndCalculations-MoreExercises\08.CircleAreaAndPerimeter\08.CircleAreaAndPerimeter\bin\Debug\netcoreapp3.1\08.CircleAreaAndPerimeter.pdb
+D:\SoftUni\SimpleOperationsAndCalculations-MoreExercises\08.CircleAreaAndPerimeter\08.CircleAreaAndPerimeter\obj\Debug\netcoreapp3.1\08.CircleAreaAndPerimeter.AssemblyInfoInputs.cache
+D:\SoftUni\SimpleOperationsAndCalculations-MoreExercises\08.CircleAreaAndPerimeter\08.CircleAreaAndPerimeter\obj\Debug\netcoreapp3.1\08.CircleAreaAndPerimeter.AssemblyInfo.cs
+D:\SoftUni\SimpleOperationsAndCalculations-MoreExercises\08.CircleAreaAndPerimeter\08.CircleAreaAndPerimeter\obj\Debug\netcoreapp3.1\08.CircleAreaAndPerimeter.dll
+D:\SoftUni\SimpleOperationsAndCalculations-MoreExercises\08.CircleAreaAndPerimeter\08.CircleAreaAndPerimeter\obj\Debug\netcoreapp3.1\08.CircleAreaAndPerimeter.pdb
