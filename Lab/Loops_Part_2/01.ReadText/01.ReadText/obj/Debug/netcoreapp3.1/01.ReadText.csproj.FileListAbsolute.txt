@@ -1,0 +1,11 @@
+D:\SoftUni\Loops - Part 2 - Lab\01.ReadText\01.ReadText\bin\Debug\netcoreapp3.1\01.ReadText.exe
+D:\SoftUni\Loops - Part 2 - Lab\01.ReadText\01.ReadText\bin\Debug\netcoreapp3.1\01.ReadText.deps.json
+D:\SoftUni\Loops - Part 2 - Lab\01.ReadText\01.ReadText\bin\Debug\netcoreapp3.1\01.ReadText.runtimeconfig.json
+D:\SoftUni\Loops - Part 2 - Lab\01.ReadText\01.ReadText\bin\Debug\netcoreapp3.1\01.ReadText.runtimeconfig.dev.json
+D:\SoftUni\Loops - Part 2 - Lab\01.ReadText\01.ReadText\bin\Debug\netcoreapp3.1\01.ReadText.dll
+D:\SoftUni\Loops - Part 2 - Lab\01.ReadText\01.ReadText\bin\Debug\netcoreapp3.1\01.ReadText.pdb
+D:\SoftUni\Loops - Part 2 - Lab\01.ReadText\01.ReadText\obj\Debug\netcoreapp3.1\01.ReadText.csprojAssemblyReference.cache
+D:\SoftUni\Loops - Part 2 - Lab\01.ReadText\01.ReadText\obj\Debug\netcoreapp3.1\01.ReadText.AssemblyInfoInputs.cache
+D:\SoftUni\Loops - Part 2 - Lab\01.ReadText\01.ReadText\obj\Debug\netcoreapp3.1\01.ReadText.AssemblyInfo.cs
+D:\SoftUni\Loops - Part 2 - Lab\01.ReadText\01.ReadText\obj\Debug\netcoreapp3.1\01.ReadText.dll
+D:\SoftUni\Loops - Part 2 - Lab\01.ReadText\01.ReadText\obj\Debug\netcoreapp3.1\01.ReadText.pdb
