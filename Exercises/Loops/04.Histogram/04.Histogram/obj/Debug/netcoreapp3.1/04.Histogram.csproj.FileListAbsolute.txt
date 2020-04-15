@@ -1,0 +1,10 @@
+D:\SoftUni\Loops - Exercise\04.Histogram\04.Histogram\bin\Debug\netcoreapp3.1\04.Histogram.exe
+D:\SoftUni\Loops - Exercise\04.Histogram\04.Histogram\bin\Debug\netcoreapp3.1\04.Histogram.deps.json
+D:\SoftUni\Loops - Exercise\04.Histogram\04.Histogram\bin\Debug\netcoreapp3.1\04.Histogram.runtimeconfig.json
+D:\SoftUni\Loops - Exercise\04.Histogram\04.Histogram\bin\Debug\netcoreapp3.1\04.Histogram.runtimeconfig.dev.json
+D:\SoftUni\Loops - Exercise\04.Histogram\04.Histogram\bin\Debug\netcoreapp3.1\04.Histogram.dll
+D:\SoftUni\Loops - Exercise\04.Histogram\04.Histogram\bin\Debug\netcoreapp3.1\04.Histogram.pdb
+D:\SoftUni\Loops - Exercise\04.Histogram\04.Histogram\obj\Debug\netcoreapp3.1\04.Histogram.AssemblyInfoInputs.cache
+D:\SoftUni\Loops - Exercise\04.Histogram\04.Histogram\obj\Debug\netcoreapp3.1\04.Histogram.AssemblyInfo.cs
+D:\SoftUni\Loops - Exercise\04.Histogram\04.Histogram\obj\Debug\netcoreapp3.1\04.Histogram.dll
+D:\SoftUni\Loops - Exercise\04.Histogram\04.Histogram\obj\Debug\netcoreapp3.1\04.Histogram.pdb
