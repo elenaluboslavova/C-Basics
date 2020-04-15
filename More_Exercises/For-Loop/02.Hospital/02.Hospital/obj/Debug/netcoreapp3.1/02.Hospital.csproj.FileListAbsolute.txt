@@ -1,0 +1,10 @@
+D:\SoftUni\More Exercises\For-Loop\02.Hospital\02.Hospital\bin\Debug\netcoreapp3.1\02.Hospital.exe
+D:\SoftUni\More Exercises\For-Loop\02.Hospital\02.Hospital\bin\Debug\netcoreapp3.1\02.Hospital.deps.json
+D:\SoftUni\More Exercises\For-Loop\02.Hospital\02.Hospital\bin\Debug\netcoreapp3.1\02.Hospital.runtimeconfig.json
+D:\SoftUni\More Exercises\For-Loop\02.Hospital\02.Hospital\bin\Debug\netcoreapp3.1\02.Hospital.runtimeconfig.dev.json
+D:\SoftUni\More Exercises\For-Loop\02.Hospital\02.Hospital\bin\Debug\netcoreapp3.1\02.Hospital.dll
+D:\SoftUni\More Exercises\For-Loop\02.Hospital\02.Hospital\bin\Debug\netcoreapp3.1\02.Hospital.pdb
+D:\SoftUni\More Exercises\For-Loop\02.Hospital\02.Hospital\obj\Debug\netcoreapp3.1\02.Hospital.AssemblyInfoInputs.cache
+D:\SoftUni\More Exercises\For-Loop\02.Hospital\02.Hospital\obj\Debug\netcoreapp3.1\02.Hospital.AssemblyInfo.cs
+D:\SoftUni\More Exercises\For-Loop\02.Hospital\02.Hospital\obj\Debug\netcoreapp3.1\02.Hospital.dll
+D:\SoftUni\More Exercises\For-Loop\02.Hospital\02.Hospital\obj\Debug\netcoreapp3.1\02.Hospital.pdb
