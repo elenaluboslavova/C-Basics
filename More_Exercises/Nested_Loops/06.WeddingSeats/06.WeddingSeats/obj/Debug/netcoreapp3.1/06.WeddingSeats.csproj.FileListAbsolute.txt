@@ -1,0 +1,11 @@
+D:\SoftUni\More Exercises\Nested Loops\06.WeddingSeats\06.WeddingSeats\bin\Debug\netcoreapp3.1\06.WeddingSeats.exe
+D:\SoftUni\More Exercises\Nested Loops\06.WeddingSeats\06.WeddingSeats\bin\Debug\netcoreapp3.1\06.WeddingSeats.deps.json
+D:\SoftUni\More Exercises\Nested Loops\06.WeddingSeats\06.WeddingSeats\bin\Debug\netcoreapp3.1\06.WeddingSeats.runtimeconfig.json
+D:\SoftUni\More Exercises\Nested Loops\06.WeddingSeats\06.WeddingSeats\bin\Debug\netcoreapp3.1\06.WeddingSeats.runtimeconfig.dev.json
+D:\SoftUni\More Exercises\Nested Loops\06.WeddingSeats\06.WeddingSeats\bin\Debug\netcoreapp3.1\06.WeddingSeats.dll
+D:\SoftUni\More Exercises\Nested Loops\06.WeddingSeats\06.WeddingSeats\bin\Debug\netcoreapp3.1\06.WeddingSeats.pdb
+D:\SoftUni\More Exercises\Nested Loops\06.WeddingSeats\06.WeddingSeats\obj\Debug\netcoreapp3.1\06.WeddingSeats.csprojAssemblyReference.cache
+D:\SoftUni\More Exercises\Nested Loops\06.WeddingSeats\06.WeddingSeats\obj\Debug\netcoreapp3.1\06.WeddingSeats.AssemblyInfoInputs.cache
+D:\SoftUni\More Exercises\Nested Loops\06.WeddingSeats\06.WeddingSeats\obj\Debug\netcoreapp3.1\06.WeddingSeats.AssemblyInfo.cs
+D:\SoftUni\More Exercises\Nested Loops\06.WeddingSeats\06.WeddingSeats\obj\Debug\netcoreapp3.1\06.WeddingSeats.dll
+D:\SoftUni\More Exercises\Nested Loops\06.WeddingSeats\06.WeddingSeats\obj\Debug\netcoreapp3.1\06.WeddingSeats.pdb
