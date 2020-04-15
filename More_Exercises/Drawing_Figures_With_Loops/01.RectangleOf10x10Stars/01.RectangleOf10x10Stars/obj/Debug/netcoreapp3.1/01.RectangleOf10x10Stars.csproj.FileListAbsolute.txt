@@ -1,0 +1,11 @@
+D:\SoftUni\More Exercises\Drawing Figures With Loops\01.RectangleOf10x10Stars\01.RectangleOf10x10Stars\bin\Debug\netcoreapp3.1\01.RectangleOf10x10Stars.exe
+D:\SoftUni\More Exercises\Drawing Figures With Loops\01.RectangleOf10x10Stars\01.RectangleOf10x10Stars\bin\Debug\netcoreapp3.1\01.RectangleOf10x10Stars.deps.json
+D:\SoftUni\More Exercises\Drawing Figures With Loops\01.RectangleOf10x10Stars\01.RectangleOf10x10Stars\bin\Debug\netcoreapp3.1\01.RectangleOf10x10Stars.runtimeconfig.json
+D:\SoftUni\More Exercises\Drawing Figures With Loops\01.RectangleOf10x10Stars\01.RectangleOf10x10Stars\bin\Debug\netcoreapp3.1\01.RectangleOf10x10Stars.runtimeconfig.dev.json
+D:\SoftUni\More Exercises\Drawing Figures With Loops\01.RectangleOf10x10Stars\01.RectangleOf10x10Stars\bin\Debug\netcoreapp3.1\01.RectangleOf10x10Stars.dll
+D:\SoftUni\More Exercises\Drawing Figures With Loops\01.RectangleOf10x10Stars\01.RectangleOf10x10Stars\bin\Debug\netcoreapp3.1\01.RectangleOf10x10Stars.pdb
+D:\SoftUni\More Exercises\Drawing Figures With Loops\01.RectangleOf10x10Stars\01.RectangleOf10x10Stars\obj\Debug\netcoreapp3.1\01.RectangleOf10x10Stars.csprojAssemblyReference.cache
+D:\SoftUni\More Exercises\Drawing Figures With Loops\01.RectangleOf10x10Stars\01.RectangleOf10x10Stars\obj\Debug\netcoreapp3.1\01.RectangleOf10x10Stars.AssemblyInfoInputs.cache
+D:\SoftUni\More Exercises\Drawing Figures With Loops\01.RectangleOf10x10Stars\01.RectangleOf10x10Stars\obj\Debug\netcoreapp3.1\01.RectangleOf10x10Stars.AssemblyInfo.cs
+D:\SoftUni\More Exercises\Drawing Figures With Loops\01.RectangleOf10x10Stars\01.RectangleOf10x10Stars\obj\Debug\netcoreapp3.1\01.RectangleOf10x10Stars.dll
+D:\SoftUni\More Exercises\Drawing Figures With Loops\01.RectangleOf10x10Stars\01.RectangleOf10x10Stars\obj\Debug\netcoreapp3.1\01.RectangleOf10x10Stars.pdb
