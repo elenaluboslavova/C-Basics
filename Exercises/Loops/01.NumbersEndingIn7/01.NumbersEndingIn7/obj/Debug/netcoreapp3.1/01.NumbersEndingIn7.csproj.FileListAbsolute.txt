@@ -1,0 +1,11 @@
+D:\SoftUni\Loops - Exercise\01.NumbersEndingIn7\01.NumbersEndingIn7\bin\Debug\netcoreapp3.1\01.NumbersEndingIn7.exe
+D:\SoftUni\Loops - Exercise\01.NumbersEndingIn7\01.NumbersEndingIn7\bin\Debug\netcoreapp3.1\01.NumbersEndingIn7.deps.json
+D:\SoftUni\Loops - Exercise\01.NumbersEndingIn7\01.NumbersEndingIn7\bin\Debug\netcoreapp3.1\01.NumbersEndingIn7.runtimeconfig.json
+D:\SoftUni\Loops - Exercise\01.NumbersEndingIn7\01.NumbersEndingIn7\bin\Debug\netcoreapp3.1\01.NumbersEndingIn7.runtimeconfig.dev.json
+D:\SoftUni\Loops - Exercise\01.NumbersEndingIn7\01.NumbersEndingIn7\bin\Debug\netcoreapp3.1\01.NumbersEndingIn7.dll
+D:\SoftUni\Loops - Exercise\01.NumbersEndingIn7\01.NumbersEndingIn7\bin\Debug\netcoreapp3.1\01.NumbersEndingIn7.pdb
+D:\SoftUni\Loops - Exercise\01.NumbersEndingIn7\01.NumbersEndingIn7\obj\Debug\netcoreapp3.1\01.NumbersEndingIn7.csprojAssemblyReference.cache
+D:\SoftUni\Loops - Exercise\01.NumbersEndingIn7\01.NumbersEndingIn7\obj\Debug\netcoreapp3.1\01.NumbersEndingIn7.AssemblyInfoInputs.cache
+D:\SoftUni\Loops - Exercise\01.NumbersEndingIn7\01.NumbersEndingIn7\obj\Debug\netcoreapp3.1\01.NumbersEndingIn7.AssemblyInfo.cs
+D:\SoftUni\Loops - Exercise\01.NumbersEndingIn7\01.NumbersEndingIn7\obj\Debug\netcoreapp3.1\01.NumbersEndingIn7.dll
+D:\SoftUni\Loops - Exercise\01.NumbersEndingIn7\01.NumbersEndingIn7\obj\Debug\netcoreapp3.1\01.NumbersEndingIn7.pdb
