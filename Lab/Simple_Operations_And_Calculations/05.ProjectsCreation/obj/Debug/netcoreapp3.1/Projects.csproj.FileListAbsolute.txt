@@ -1,0 +1,10 @@
+D:\SoftUni\Greeting\Projects\bin\Debug\netcoreapp3.1\Projects.exe
+D:\SoftUni\Greeting\Projects\bin\Debug\netcoreapp3.1\Projects.deps.json
+D:\SoftUni\Greeting\Projects\bin\Debug\netcoreapp3.1\Projects.runtimeconfig.json
+D:\SoftUni\Greeting\Projects\bin\Debug\netcoreapp3.1\Projects.runtimeconfig.dev.json
+D:\SoftUni\Greeting\Projects\bin\Debug\netcoreapp3.1\Projects.dll
+D:\SoftUni\Greeting\Projects\bin\Debug\netcoreapp3.1\Projects.pdb
+D:\SoftUni\Greeting\Projects\obj\Debug\netcoreapp3.1\Projects.AssemblyInfoInputs.cache
+D:\SoftUni\Greeting\Projects\obj\Debug\netcoreapp3.1\Projects.AssemblyInfo.cs
+D:\SoftUni\Greeting\Projects\obj\Debug\netcoreapp3.1\Projects.dll
+D:\SoftUni\Greeting\Projects\obj\Debug\netcoreapp3.1\Projects.pdb
