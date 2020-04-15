@@ -1,0 +1,11 @@
+D:\SoftUni\FirstStepsInCoding\03.Nums1To10\bin\Debug\netcoreapp3.1\03.Nums1To10.exe
+D:\SoftUni\FirstStepsInCoding\03.Nums1To10\bin\Debug\netcoreapp3.1\03.Nums1To10.deps.json
+D:\SoftUni\FirstStepsInCoding\03.Nums1To10\bin\Debug\netcoreapp3.1\03.Nums1To10.runtimeconfig.json
+D:\SoftUni\FirstStepsInCoding\03.Nums1To10\bin\Debug\netcoreapp3.1\03.Nums1To10.runtimeconfig.dev.json
+D:\SoftUni\FirstStepsInCoding\03.Nums1To10\bin\Debug\netcoreapp3.1\03.Nums1To10.dll
+D:\SoftUni\FirstStepsInCoding\03.Nums1To10\bin\Debug\netcoreapp3.1\03.Nums1To10.pdb
+D:\SoftUni\FirstStepsInCoding\03.Nums1To10\obj\Debug\netcoreapp3.1\03.Nums1To10.csprojAssemblyReference.cache
+D:\SoftUni\FirstStepsInCoding\03.Nums1To10\obj\Debug\netcoreapp3.1\03.Nums1To10.AssemblyInfoInputs.cache
+D:\SoftUni\FirstStepsInCoding\03.Nums1To10\obj\Debug\netcoreapp3.1\03.Nums1To10.AssemblyInfo.cs
+D:\SoftUni\FirstStepsInCoding\03.Nums1To10\obj\Debug\netcoreapp3.1\03.Nums1To10.dll
+D:\SoftUni\FirstStepsInCoding\03.Nums1To10\obj\Debug\netcoreapp3.1\03.Nums1To10.pdb
