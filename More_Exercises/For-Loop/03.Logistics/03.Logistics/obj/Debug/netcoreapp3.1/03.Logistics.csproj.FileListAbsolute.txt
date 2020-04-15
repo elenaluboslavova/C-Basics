@@ -1,0 +1,11 @@
+D:\SoftUni\More Exercises\For-Loop\03.Logistics\03.Logistics\bin\Debug\netcoreapp3.1\03.Logistics.exe
+D:\SoftUni\More Exercises\For-Loop\03.Logistics\03.Logistics\bin\Debug\netcoreapp3.1\03.Logistics.deps.json
+D:\SoftUni\More Exercises\For-Loop\03.Logistics\03.Logistics\bin\Debug\netcoreapp3.1\03.Logistics.runtimeconfig.json
+D:\SoftUni\More Exercises\For-Loop\03.Logistics\03.Logistics\bin\Debug\netcoreapp3.1\03.Logistics.runtimeconfig.dev.json
+D:\SoftUni\More Exercises\For-Loop\03.Logistics\03.Logistics\bin\Debug\netcoreapp3.1\03.Logistics.dll
+D:\SoftUni\More Exercises\For-Loop\03.Logistics\03.Logistics\bin\Debug\netcoreapp3.1\03.Logistics.pdb
+D:\SoftUni\More Exercises\For-Loop\03.Logistics\03.Logistics\obj\Debug\netcoreapp3.1\03.Logistics.csprojAssemblyReference.cache
+D:\SoftUni\More Exercises\For-Loop\03.Logistics\03.Logistics\obj\Debug\netcoreapp3.1\03.Logistics.AssemblyInfoInputs.cache
+D:\SoftUni\More Exercises\For-Loop\03.Logistics\03.Logistics\obj\Debug\netcoreapp3.1\03.Logistics.AssemblyInfo.cs
+D:\SoftUni\More Exercises\For-Loop\03.Logistics\03.Logistics\obj\Debug\netcoreapp3.1\03.Logistics.dll
+D:\SoftUni\More Exercises\For-Loop\03.Logistics\03.Logistics\obj\Debug\netcoreapp3.1\03.Logistics.pdb
