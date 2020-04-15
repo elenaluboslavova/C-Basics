@@ -1,0 +1,11 @@
+D:\SoftUni\Loops - Exercise\06.Salary\06.Salary\bin\Debug\netcoreapp3.1\06.Salary.exe
+D:\SoftUni\Loops - Exercise\06.Salary\06.Salary\bin\Debug\netcoreapp3.1\06.Salary.deps.json
+D:\SoftUni\Loops - Exercise\06.Salary\06.Salary\bin\Debug\netcoreapp3.1\06.Salary.runtimeconfig.json
+D:\SoftUni\Loops - Exercise\06.Salary\06.Salary\bin\Debug\netcoreapp3.1\06.Salary.runtimeconfig.dev.json
+D:\SoftUni\Loops - Exercise\06.Salary\06.Salary\bin\Debug\netcoreapp3.1\06.Salary.dll
+D:\SoftUni\Loops - Exercise\06.Salary\06.Salary\bin\Debug\netcoreapp3.1\06.Salary.pdb
+D:\SoftUni\Loops - Exercise\06.Salary\06.Salary\obj\Debug\netcoreapp3.1\06.Salary.csprojAssemblyReference.cache
+D:\SoftUni\Loops - Exercise\06.Salary\06.Salary\obj\Debug\netcoreapp3.1\06.Salary.AssemblyInfoInputs.cache
+D:\SoftUni\Loops - Exercise\06.Salary\06.Salary\obj\Debug\netcoreapp3.1\06.Salary.AssemblyInfo.cs
+D:\SoftUni\Loops - Exercise\06.Salary\06.Salary\obj\Debug\netcoreapp3.1\06.Salary.dll
+D:\SoftUni\Loops - Exercise\06.Salary\06.Salary\obj\Debug\netcoreapp3.1\06.Salary.pdb
