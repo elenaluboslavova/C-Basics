@@ -1,0 +1,11 @@
+D:\SoftUni\More Exercises\For-Loop\07.FootballLeague\07.FootballLeague\bin\Debug\netcoreapp3.1\07.FootballLeague.exe
+D:\SoftUni\More Exercises\For-Loop\07.FootballLeague\07.FootballLeague\bin\Debug\netcoreapp3.1\07.FootballLeague.deps.json
+D:\SoftUni\More Exercises\For-Loop\07.FootballLeague\07.FootballLeague\bin\Debug\netcoreapp3.1\07.FootballLeague.runtimeconfig.json
+D:\SoftUni\More Exercises\For-Loop\07.FootballLeague\07.FootballLeague\bin\Debug\netcoreapp3.1\07.FootballLeague.runtimeconfig.dev.json
+D:\SoftUni\More Exercises\For-Loop\07.FootballLeague\07.FootballLeague\bin\Debug\netcoreapp3.1\07.FootballLeague.dll
+D:\SoftUni\More Exercises\For-Loop\07.FootballLeague\07.FootballLeague\bin\Debug\netcoreapp3.1\07.FootballLeague.pdb
+D:\SoftUni\More Exercises\For-Loop\07.FootballLeague\07.FootballLeague\obj\Debug\netcoreapp3.1\07.FootballLeague.csprojAssemblyReference.cache
+D:\SoftUni\More Exercises\For-Loop\07.FootballLeague\07.FootballLeague\obj\Debug\netcoreapp3.1\07.FootballLeague.AssemblyInfoInputs.cache
+D:\SoftUni\More Exercises\For-Loop\07.FootballLeague\07.FootballLeague\obj\Debug\netcoreapp3.1\07.FootballLeague.AssemblyInfo.cs
+D:\SoftUni\More Exercises\For-Loop\07.FootballLeague\07.FootballLeague\obj\Debug\netcoreapp3.1\07.FootballLeague.dll
+D:\SoftUni\More Exercises\For-Loop\07.FootballLeague\07.FootballLeague\obj\Debug\netcoreapp3.1\07.FootballLeague.pdb
