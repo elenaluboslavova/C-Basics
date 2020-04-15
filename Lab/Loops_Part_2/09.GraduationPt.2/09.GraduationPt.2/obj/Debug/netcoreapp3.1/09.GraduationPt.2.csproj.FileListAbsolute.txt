@@ -1,0 +1,10 @@
+D:\SoftUni\Loops - Part 2 - Lab\09.GraduationPt.2\09.GraduationPt.2\bin\Debug\netcoreapp3.1\09.GraduationPt.2.exe
+D:\SoftUni\Loops - Part 2 - Lab\09.GraduationPt.2\09.GraduationPt.2\bin\Debug\netcoreapp3.1\09.GraduationPt.2.deps.json
+D:\SoftUni\Loops - Part 2 - Lab\09.GraduationPt.2\09.GraduationPt.2\bin\Debug\netcoreapp3.1\09.GraduationPt.2.runtimeconfig.json
+D:\SoftUni\Loops - Part 2 - Lab\09.GraduationPt.2\09.GraduationPt.2\bin\Debug\netcoreapp3.1\09.GraduationPt.2.runtimeconfig.dev.json
+D:\SoftUni\Loops - Part 2 - Lab\09.GraduationPt.2\09.GraduationPt.2\bin\Debug\netcoreapp3.1\09.GraduationPt.2.dll
+D:\SoftUni\Loops - Part 2 - Lab\09.GraduationPt.2\09.GraduationPt.2\bin\Debug\netcoreapp3.1\09.GraduationPt.2.pdb
+D:\SoftUni\Loops - Part 2 - Lab\09.GraduationPt.2\09.GraduationPt.2\obj\Debug\netcoreapp3.1\09.GraduationPt.2.AssemblyInfoInputs.cache
+D:\SoftUni\Loops - Part 2 - Lab\09.GraduationPt.2\09.GraduationPt.2\obj\Debug\netcoreapp3.1\09.GraduationPt.2.AssemblyInfo.cs
+D:\SoftUni\Loops - Part 2 - Lab\09.GraduationPt.2\09.GraduationPt.2\obj\Debug\netcoreapp3.1\09.GraduationPt.2.dll
+D:\SoftUni\Loops - Part 2 - Lab\09.GraduationPt.2\09.GraduationPt.2\obj\Debug\netcoreapp3.1\09.GraduationPt.2.pdb
