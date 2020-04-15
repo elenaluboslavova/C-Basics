@@ -1,0 +1,11 @@
+D:\SoftUni\Conditional Statements - More Exercises\02.SleepyTomCat\02.SleepyTomCat\bin\Debug\netcoreapp3.1\02.SleepyTomCat.exe
+D:\SoftUni\Conditional Statements - More Exercises\02.SleepyTomCat\02.SleepyTomCat\bin\Debug\netcoreapp3.1\02.SleepyTomCat.deps.json
+D:\SoftUni\Conditional Statements - More Exercises\02.SleepyTomCat\02.SleepyTomCat\bin\Debug\netcoreapp3.1\02.SleepyTomCat.runtimeconfig.json
+D:\SoftUni\Conditional Statements - More Exercises\02.SleepyTomCat\02.SleepyTomCat\bin\Debug\netcoreapp3.1\02.SleepyTomCat.runtimeconfig.dev.json
+D:\SoftUni\Conditional Statements - More Exercises\02.SleepyTomCat\02.SleepyTomCat\bin\Debug\netcoreapp3.1\02.SleepyTomCat.dll
+D:\SoftUni\Conditional Statements - More Exercises\02.SleepyTomCat\02.SleepyTomCat\bin\Debug\netcoreapp3.1\02.SleepyTomCat.pdb
+D:\SoftUni\Conditional Statements - More Exercises\02.SleepyTomCat\02.SleepyTomCat\obj\Debug\netcoreapp3.1\02.SleepyTomCat.AssemblyInfoInputs.cache
+D:\SoftUni\Conditional Statements - More Exercises\02.SleepyTomCat\02.SleepyTomCat\obj\Debug\netcoreapp3.1\02.SleepyTomCat.AssemblyInfo.cs
+D:\SoftUni\Conditional Statements - More Exercises\02.SleepyTomCat\02.SleepyTomCat\obj\Debug\netcoreapp3.1\02.SleepyTomCat.dll
+D:\SoftUni\Conditional Statements - More Exercises\02.SleepyTomCat\02.SleepyTomCat\obj\Debug\netcoreapp3.1\02.SleepyTomCat.pdb
+D:\SoftUni\Conditional Statements - More Exercises\02.SleepyTomCat\02.SleepyTomCat\obj\Debug\netcoreapp3.1\02.SleepyTomCat.csprojAssemblyReference.cache
