@@ -1,0 +1,11 @@
+D:\SoftUni\Loops - Exercise\03.OddOrEvenPosition\03.OddOrEvenPosition\bin\Debug\netcoreapp3.1\03.OddOrEvenPosition.exe
+D:\SoftUni\Loops - Exercise\03.OddOrEvenPosition\03.OddOrEvenPosition\bin\Debug\netcoreapp3.1\03.OddOrEvenPosition.deps.json
+D:\SoftUni\Loops - Exercise\03.OddOrEvenPosition\03.OddOrEvenPosition\bin\Debug\netcoreapp3.1\03.OddOrEvenPosition.runtimeconfig.json
+D:\SoftUni\Loops - Exercise\03.OddOrEvenPosition\03.OddOrEvenPosition\bin\Debug\netcoreapp3.1\03.OddOrEvenPosition.runtimeconfig.dev.json
+D:\SoftUni\Loops - Exercise\03.OddOrEvenPosition\03.OddOrEvenPosition\bin\Debug\netcoreapp3.1\03.OddOrEvenPosition.dll
+D:\SoftUni\Loops - Exercise\03.OddOrEvenPosition\03.OddOrEvenPosition\bin\Debug\netcoreapp3.1\03.OddOrEvenPosition.pdb
+D:\SoftUni\Loops - Exercise\03.OddOrEvenPosition\03.OddOrEvenPosition\obj\Debug\netcoreapp3.1\03.OddOrEvenPosition.csprojAssemblyReference.cache
+D:\SoftUni\Loops - Exercise\03.OddOrEvenPosition\03.OddOrEvenPosition\obj\Debug\netcoreapp3.1\03.OddOrEvenPosition.AssemblyInfoInputs.cache
+D:\SoftUni\Loops - Exercise\03.OddOrEvenPosition\03.OddOrEvenPosition\obj\Debug\netcoreapp3.1\03.OddOrEvenPosition.AssemblyInfo.cs
+D:\SoftUni\Loops - Exercise\03.OddOrEvenPosition\03.OddOrEvenPosition\obj\Debug\netcoreapp3.1\03.OddOrEvenPosition.dll
+D:\SoftUni\Loops - Exercise\03.OddOrEvenPosition\03.OddOrEvenPosition\obj\Debug\netcoreapp3.1\03.OddOrEvenPosition.pdb
