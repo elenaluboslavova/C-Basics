@@ -1,0 +1,11 @@
+D:\SoftUni\Conditional Statements Advanced - Exercise\08.HotelRoom\08.HotelRoom\bin\Debug\netcoreapp3.1\08.HotelRoom.exe
+D:\SoftUni\Conditional Statements Advanced - Exercise\08.HotelRoom\08.HotelRoom\bin\Debug\netcoreapp3.1\08.HotelRoom.deps.json
+D:\SoftUni\Conditional Statements Advanced - Exercise\08.HotelRoom\08.HotelRoom\bin\Debug\netcoreapp3.1\08.HotelRoom.runtimeconfig.json
+D:\SoftUni\Conditional Statements Advanced - Exercise\08.HotelRoom\08.HotelRoom\bin\Debug\netcoreapp3.1\08.HotelRoom.runtimeconfig.dev.json
+D:\SoftUni\Conditional Statements Advanced - Exercise\08.HotelRoom\08.HotelRoom\bin\Debug\netcoreapp3.1\08.HotelRoom.dll
+D:\SoftUni\Conditional Statements Advanced - Exercise\08.HotelRoom\08.HotelRoom\bin\Debug\netcoreapp3.1\08.HotelRoom.pdb
+D:\SoftUni\Conditional Statements Advanced - Exercise\08.HotelRoom\08.HotelRoom\obj\Debug\netcoreapp3.1\08.HotelRoom.csprojAssemblyReference.cache
+D:\SoftUni\Conditional Statements Advanced - Exercise\08.HotelRoom\08.HotelRoom\obj\Debug\netcoreapp3.1\08.HotelRoom.AssemblyInfoInputs.cache
+D:\SoftUni\Conditional Statements Advanced - Exercise\08.HotelRoom\08.HotelRoom\obj\Debug\netcoreapp3.1\08.HotelRoom.AssemblyInfo.cs
+D:\SoftUni\Conditional Statements Advanced - Exercise\08.HotelRoom\08.HotelRoom\obj\Debug\netcoreapp3.1\08.HotelRoom.dll
+D:\SoftUni\Conditional Statements Advanced - Exercise\08.HotelRoom\08.HotelRoom\obj\Debug\netcoreapp3.1\08.HotelRoom.pdb
