@@ -1,0 +1,11 @@
+D:\SoftUni\Loops - Part 2 - Exercise\02.ExamPreparation\02.ExamPreparation\bin\Debug\netcoreapp3.1\02.ExamPreparation.exe
+D:\SoftUni\Loops - Part 2 - Exercise\02.ExamPreparation\02.ExamPreparation\bin\Debug\netcoreapp3.1\02.ExamPreparation.deps.json
+D:\SoftUni\Loops - Part 2 - Exercise\02.ExamPreparation\02.ExamPreparation\bin\Debug\netcoreapp3.1\02.ExamPreparation.runtimeconfig.json
+D:\SoftUni\Loops - Part 2 - Exercise\02.ExamPreparation\02.ExamPreparation\bin\Debug\netcoreapp3.1\02.ExamPreparation.runtimeconfig.dev.json
+D:\SoftUni\Loops - Part 2 - Exercise\02.ExamPreparation\02.ExamPreparation\bin\Debug\netcoreapp3.1\02.ExamPreparation.dll
+D:\SoftUni\Loops - Part 2 - Exercise\02.ExamPreparation\02.ExamPreparation\bin\Debug\netcoreapp3.1\02.ExamPreparation.pdb
+D:\SoftUni\Loops - Part 2 - Exercise\02.ExamPreparation\02.ExamPreparation\obj\Debug\netcoreapp3.1\02.ExamPreparation.csprojAssemblyReference.cache
+D:\SoftUni\Loops - Part 2 - Exercise\02.ExamPreparation\02.ExamPreparation\obj\Debug\netcoreapp3.1\02.ExamPreparation.AssemblyInfoInputs.cache
+D:\SoftUni\Loops - Part 2 - Exercise\02.ExamPreparation\02.ExamPreparation\obj\Debug\netcoreapp3.1\02.ExamPreparation.AssemblyInfo.cs
+D:\SoftUni\Loops - Part 2 - Exercise\02.ExamPreparation\02.ExamPreparation\obj\Debug\netcoreapp3.1\02.ExamPreparation.dll
+D:\SoftUni\Loops - Part 2 - Exercise\02.ExamPreparation\02.ExamPreparation\obj\Debug\netcoreapp3.1\02.ExamPreparation.pdb
