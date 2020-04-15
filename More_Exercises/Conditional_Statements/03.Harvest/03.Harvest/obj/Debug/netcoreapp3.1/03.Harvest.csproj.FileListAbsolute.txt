@@ -1,0 +1,10 @@
+D:\SoftUni\Conditional Statements - More Exercises\03.Harvest\03.Harvest\bin\Debug\netcoreapp3.1\03.Harvest.exe
+D:\SoftUni\Conditional Statements - More Exercises\03.Harvest\03.Harvest\bin\Debug\netcoreapp3.1\03.Harvest.deps.json
+D:\SoftUni\Conditional Statements - More Exercises\03.Harvest\03.Harvest\bin\Debug\netcoreapp3.1\03.Harvest.runtimeconfig.json
+D:\SoftUni\Conditional Statements - More Exercises\03.Harvest\03.Harvest\bin\Debug\netcoreapp3.1\03.Harvest.runtimeconfig.dev.json
+D:\SoftUni\Conditional Statements - More Exercises\03.Harvest\03.Harvest\bin\Debug\netcoreapp3.1\03.Harvest.dll
+D:\SoftUni\Conditional Statements - More Exercises\03.Harvest\03.Harvest\bin\Debug\netcoreapp3.1\03.Harvest.pdb
+D:\SoftUni\Conditional Statements - More Exercises\03.Harvest\03.Harvest\obj\Debug\netcoreapp3.1\03.Harvest.AssemblyInfoInputs.cache
+D:\SoftUni\Conditional Statements - More Exercises\03.Harvest\03.Harvest\obj\Debug\netcoreapp3.1\03.Harvest.AssemblyInfo.cs
+D:\SoftUni\Conditional Statements - More Exercises\03.Harvest\03.Harvest\obj\Debug\netcoreapp3.1\03.Harvest.dll
+D:\SoftUni\Conditional Statements - More Exercises\03.Harvest\03.Harvest\obj\Debug\netcoreapp3.1\03.Harvest.pdb
