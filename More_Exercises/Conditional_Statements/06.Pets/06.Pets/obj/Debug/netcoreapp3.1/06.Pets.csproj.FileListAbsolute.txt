@@ -1,0 +1,11 @@
+D:\SoftUni\Conditional Statements - More Exercises\06.Pets\06.Pets\bin\Debug\netcoreapp3.1\06.Pets.exe
+D:\SoftUni\Conditional Statements - More Exercises\06.Pets\06.Pets\bin\Debug\netcoreapp3.1\06.Pets.deps.json
+D:\SoftUni\Conditional Statements - More Exercises\06.Pets\06.Pets\bin\Debug\netcoreapp3.1\06.Pets.runtimeconfig.json
+D:\SoftUni\Conditional Statements - More Exercises\06.Pets\06.Pets\bin\Debug\netcoreapp3.1\06.Pets.runtimeconfig.dev.json
+D:\SoftUni\Conditional Statements - More Exercises\06.Pets\06.Pets\bin\Debug\netcoreapp3.1\06.Pets.dll
+D:\SoftUni\Conditional Statements - More Exercises\06.Pets\06.Pets\bin\Debug\netcoreapp3.1\06.Pets.pdb
+D:\SoftUni\Conditional Statements - More Exercises\06.Pets\06.Pets\obj\Debug\netcoreapp3.1\06.Pets.csprojAssemblyReference.cache
+D:\SoftUni\Conditional Statements - More Exercises\06.Pets\06.Pets\obj\Debug\netcoreapp3.1\06.Pets.AssemblyInfoInputs.cache
+D:\SoftUni\Conditional Statements - More Exercises\06.Pets\06.Pets\obj\Debug\netcoreapp3.1\06.Pets.AssemblyInfo.cs
+D:\SoftUni\Conditional Statements - More Exercises\06.Pets\06.Pets\obj\Debug\netcoreapp3.1\06.Pets.dll
+D:\SoftUni\Conditional Statements - More Exercises\06.Pets\06.Pets\obj\Debug\netcoreapp3.1\06.Pets.pdb
