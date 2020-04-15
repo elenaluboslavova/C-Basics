@@ -1,0 +1,11 @@
+D:\SoftUni\More Exercises\Nested Loops\02.LettersCombinations\02.LettersCombinations\bin\Debug\netcoreapp3.1\02.LettersCombinations.exe
+D:\SoftUni\More Exercises\Nested Loops\02.LettersCombinations\02.LettersCombinations\bin\Debug\netcoreapp3.1\02.LettersCombinations.deps.json
+D:\SoftUni\More Exercises\Nested Loops\02.LettersCombinations\02.LettersCombinations\bin\Debug\netcoreapp3.1\02.LettersCombinations.runtimeconfig.json
+D:\SoftUni\More Exercises\Nested Loops\02.LettersCombinations\02.LettersCombinations\bin\Debug\netcoreapp3.1\02.LettersCombinations.runtimeconfig.dev.json
+D:\SoftUni\More Exercises\Nested Loops\02.LettersCombinations\02.LettersCombinations\bin\Debug\netcoreapp3.1\02.LettersCombinations.dll
+D:\SoftUni\More Exercises\Nested Loops\02.LettersCombinations\02.LettersCombinations\bin\Debug\netcoreapp3.1\02.LettersCombinations.pdb
+D:\SoftUni\More Exercises\Nested Loops\02.LettersCombinations\02.LettersCombinations\obj\Debug\netcoreapp3.1\02.LettersCombinations.csprojAssemblyReference.cache
+D:\SoftUni\More Exercises\Nested Loops\02.LettersCombinations\02.LettersCombinations\obj\Debug\netcoreapp3.1\02.LettersCombinations.AssemblyInfoInputs.cache
+D:\SoftUni\More Exercises\Nested Loops\02.LettersCombinations\02.LettersCombinations\obj\Debug\netcoreapp3.1\02.LettersCombinations.AssemblyInfo.cs
+D:\SoftUni\More Exercises\Nested Loops\02.LettersCombinations\02.LettersCombinations\obj\Debug\netcoreapp3.1\02.LettersCombinations.dll
+D:\SoftUni\More Exercises\Nested Loops\02.LettersCombinations\02.LettersCombinations\obj\Debug\netcoreapp3.1\02.LettersCombinations.pdb
