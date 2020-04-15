@@ -1,0 +1,11 @@
+D:\SoftUni\Loops - Exercise\02.HalfSumElement\02.HalfSumElement\bin\Debug\netcoreapp3.1\02.HalfSumElement.exe
+D:\SoftUni\Loops - Exercise\02.HalfSumElement\02.HalfSumElement\bin\Debug\netcoreapp3.1\02.HalfSumElement.deps.json
+D:\SoftUni\Loops - Exercise\02.HalfSumElement\02.HalfSumElement\bin\Debug\netcoreapp3.1\02.HalfSumElement.runtimeconfig.json
+D:\SoftUni\Loops - Exercise\02.HalfSumElement\02.HalfSumElement\bin\Debug\netcoreapp3.1\02.HalfSumElement.runtimeconfig.dev.json
+D:\SoftUni\Loops - Exercise\02.HalfSumElement\02.HalfSumElement\bin\Debug\netcoreapp3.1\02.HalfSumElement.dll
+D:\SoftUni\Loops - Exercise\02.HalfSumElement\02.HalfSumElement\bin\Debug\netcoreapp3.1\02.HalfSumElement.pdb
+D:\SoftUni\Loops - Exercise\02.HalfSumElement\02.HalfSumElement\obj\Debug\netcoreapp3.1\02.HalfSumElement.AssemblyInfoInputs.cache
+D:\SoftUni\Loops - Exercise\02.HalfSumElement\02.HalfSumElement\obj\Debug\netcoreapp3.1\02.HalfSumElement.AssemblyInfo.cs
+D:\SoftUni\Loops - Exercise\02.HalfSumElement\02.HalfSumElement\obj\Debug\netcoreapp3.1\02.HalfSumElement.dll
+D:\SoftUni\Loops - Exercise\02.HalfSumElement\02.HalfSumElement\obj\Debug\netcoreapp3.1\02.HalfSumElement.pdb
+D:\SoftUni\Loops - Exercise\02.HalfSumElement\02.HalfSumElement\obj\Debug\netcoreapp3.1\02.HalfSumElement.csprojAssemblyReference.cache
