@@ -1,0 +1,11 @@
+D:\SoftUni\Conditional Statements Advanced - Exercise\01.PointOnRectangleBorder\01.PointOnRectangleBorder\bin\Debug\netcoreapp3.1\01.PointOnRectangleBorder.exe
+D:\SoftUni\Conditional Statements Advanced - Exercise\01.PointOnRectangleBorder\01.PointOnRectangleBorder\bin\Debug\netcoreapp3.1\01.PointOnRectangleBorder.deps.json
+D:\SoftUni\Conditional Statements Advanced - Exercise\01.PointOnRectangleBorder\01.PointOnRectangleBorder\bin\Debug\netcoreapp3.1\01.PointOnRectangleBorder.runtimeconfig.json
+D:\SoftUni\Conditional Statements Advanced - Exercise\01.PointOnRectangleBorder\01.PointOnRectangleBorder\bin\Debug\netcoreapp3.1\01.PointOnRectangleBorder.runtimeconfig.dev.json
+D:\SoftUni\Conditional Statements Advanced - Exercise\01.PointOnRectangleBorder\01.PointOnRectangleBorder\bin\Debug\netcoreapp3.1\01.PointOnRectangleBorder.dll
+D:\SoftUni\Conditional Statements Advanced - Exercise\01.PointOnRectangleBorder\01.PointOnRectangleBorder\bin\Debug\netcoreapp3.1\01.PointOnRectangleBorder.pdb
+D:\SoftUni\Conditional Statements Advanced - Exercise\01.PointOnRectangleBorder\01.PointOnRectangleBorder\obj\Debug\netcoreapp3.1\01.PointOnRectangleBorder.csprojAssemblyReference.cache
+D:\SoftUni\Conditional Statements Advanced - Exercise\01.PointOnRectangleBorder\01.PointOnRectangleBorder\obj\Debug\netcoreapp3.1\01.PointOnRectangleBorder.AssemblyInfoInputs.cache
+D:\SoftUni\Conditional Statements Advanced - Exercise\01.PointOnRectangleBorder\01.PointOnRectangleBorder\obj\Debug\netcoreapp3.1\01.PointOnRectangleBorder.AssemblyInfo.cs
+D:\SoftUni\Conditional Statements Advanced - Exercise\01.PointOnRectangleBorder\01.PointOnRectangleBorder\obj\Debug\netcoreapp3.1\01.PointOnRectangleBorder.dll
+D:\SoftUni\Conditional Statements Advanced - Exercise\01.PointOnRectangleBorder\01.PointOnRectangleBorder\obj\Debug\netcoreapp3.1\01.PointOnRectangleBorder.pdb
