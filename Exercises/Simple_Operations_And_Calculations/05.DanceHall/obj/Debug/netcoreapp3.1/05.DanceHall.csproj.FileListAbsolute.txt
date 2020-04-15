@@ -1,0 +1,11 @@
+D:\SoftUni\SimpleOperationsAndCalculations-Exercise\05.DanceHall\bin\Debug\netcoreapp3.1\05.DanceHall.exe
+D:\SoftUni\SimpleOperationsAndCalculations-Exercise\05.DanceHall\bin\Debug\netcoreapp3.1\05.DanceHall.deps.json
+D:\SoftUni\SimpleOperationsAndCalculations-Exercise\05.DanceHall\bin\Debug\netcoreapp3.1\05.DanceHall.runtimeconfig.json
+D:\SoftUni\SimpleOperationsAndCalculations-Exercise\05.DanceHall\bin\Debug\netcoreapp3.1\05.DanceHall.runtimeconfig.dev.json
+D:\SoftUni\SimpleOperationsAndCalculations-Exercise\05.DanceHall\bin\Debug\netcoreapp3.1\05.DanceHall.dll
+D:\SoftUni\SimpleOperationsAndCalculations-Exercise\05.DanceHall\bin\Debug\netcoreapp3.1\05.DanceHall.pdb
+D:\SoftUni\SimpleOperationsAndCalculations-Exercise\05.DanceHall\obj\Debug\netcoreapp3.1\05.DanceHall.AssemblyInfoInputs.cache
+D:\SoftUni\SimpleOperationsAndCalculations-Exercise\05.DanceHall\obj\Debug\netcoreapp3.1\05.DanceHall.AssemblyInfo.cs
+D:\SoftUni\SimpleOperationsAndCalculations-Exercise\05.DanceHall\obj\Debug\netcoreapp3.1\05.DanceHall.dll
+D:\SoftUni\SimpleOperationsAndCalculations-Exercise\05.DanceHall\obj\Debug\netcoreapp3.1\05.DanceHall.pdb
+D:\SoftUni\SimpleOperationsAndCalculations-Exercise\05.DanceHall\obj\Debug\netcoreapp3.1\05.DanceHall.csprojAssemblyReference.cache
