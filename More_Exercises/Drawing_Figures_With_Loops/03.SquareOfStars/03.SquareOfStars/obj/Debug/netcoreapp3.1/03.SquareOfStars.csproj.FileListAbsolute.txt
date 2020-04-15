@@ -1,0 +1,11 @@
+D:\SoftUni\More Exercises\Drawing Figures With Loops\03.SquareOfStars\03.SquareOfStars\bin\Debug\netcoreapp3.1\03.SquareOfStars.exe
+D:\SoftUni\More Exercises\Drawing Figures With Loops\03.SquareOfStars\03.SquareOfStars\bin\Debug\netcoreapp3.1\03.SquareOfStars.deps.json
+D:\SoftUni\More Exercises\Drawing Figures With Loops\03.SquareOfStars\03.SquareOfStars\bin\Debug\netcoreapp3.1\03.SquareOfStars.runtimeconfig.json
+D:\SoftUni\More Exercises\Drawing Figures With Loops\03.SquareOfStars\03.SquareOfStars\bin\Debug\netcoreapp3.1\03.SquareOfStars.runtimeconfig.dev.json
+D:\SoftUni\More Exercises\Drawing Figures With Loops\03.SquareOfStars\03.SquareOfStars\bin\Debug\netcoreapp3.1\03.SquareOfStars.dll
+D:\SoftUni\More Exercises\Drawing Figures With Loops\03.SquareOfStars\03.SquareOfStars\bin\Debug\netcoreapp3.1\03.SquareOfStars.pdb
+D:\SoftUni\More Exercises\Drawing Figures With Loops\03.SquareOfStars\03.SquareOfStars\obj\Debug\netcoreapp3.1\03.SquareOfStars.csprojAssemblyReference.cache
+D:\SoftUni\More Exercises\Drawing Figures With Loops\03.SquareOfStars\03.SquareOfStars\obj\Debug\netcoreapp3.1\03.SquareOfStars.AssemblyInfoInputs.cache
+D:\SoftUni\More Exercises\Drawing Figures With Loops\03.SquareOfStars\03.SquareOfStars\obj\Debug\netcoreapp3.1\03.SquareOfStars.AssemblyInfo.cs
+D:\SoftUni\More Exercises\Drawing Figures With Loops\03.SquareOfStars\03.SquareOfStars\obj\Debug\netcoreapp3.1\03.SquareOfStars.dll
+D:\SoftUni\More Exercises\Drawing Figures With Loops\03.SquareOfStars\03.SquareOfStars\obj\Debug\netcoreapp3.1\03.SquareOfStars.pdb
