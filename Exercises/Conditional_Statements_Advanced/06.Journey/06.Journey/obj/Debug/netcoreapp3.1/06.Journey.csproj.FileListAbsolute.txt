@@ -1,0 +1,11 @@
+D:\SoftUni\Conditional Statements Advanced - Exercise\06.Journey\06.Journey\bin\Debug\netcoreapp3.1\06.Journey.exe
+D:\SoftUni\Conditional Statements Advanced - Exercise\06.Journey\06.Journey\bin\Debug\netcoreapp3.1\06.Journey.deps.json
+D:\SoftUni\Conditional Statements Advanced - Exercise\06.Journey\06.Journey\bin\Debug\netcoreapp3.1\06.Journey.runtimeconfig.json
+D:\SoftUni\Conditional Statements Advanced - Exercise\06.Journey\06.Journey\bin\Debug\netcoreapp3.1\06.Journey.runtimeconfig.dev.json
+D:\SoftUni\Conditional Statements Advanced - Exercise\06.Journey\06.Journey\bin\Debug\netcoreapp3.1\06.Journey.dll
+D:\SoftUni\Conditional Statements Advanced - Exercise\06.Journey\06.Journey\bin\Debug\netcoreapp3.1\06.Journey.pdb
+D:\SoftUni\Conditional Statements Advanced - Exercise\06.Journey\06.Journey\obj\Debug\netcoreapp3.1\06.Journey.csprojAssemblyReference.cache
+D:\SoftUni\Conditional Statements Advanced - Exercise\06.Journey\06.Journey\obj\Debug\netcoreapp3.1\06.Journey.AssemblyInfoInputs.cache
+D:\SoftUni\Conditional Statements Advanced - Exercise\06.Journey\06.Journey\obj\Debug\netcoreapp3.1\06.Journey.AssemblyInfo.cs
+D:\SoftUni\Conditional Statements Advanced - Exercise\06.Journey\06.Journey\obj\Debug\netcoreapp3.1\06.Journey.dll
+D:\SoftUni\Conditional Statements Advanced - Exercise\06.Journey\06.Journey\obj\Debug\netcoreapp3.1\06.Journey.pdb
