@@ -1,0 +1,11 @@
+D:\SoftUni\More Exercises\Drawing Figures With Loops\04.TriangleOfDollars\04.TriangleOfDollars\bin\Debug\netcoreapp3.1\04.TriangleOfDollars.exe
+D:\SoftUni\More Exercises\Drawing Figures With Loops\04.TriangleOfDollars\04.TriangleOfDollars\bin\Debug\netcoreapp3.1\04.TriangleOfDollars.deps.json
+D:\SoftUni\More Exercises\Drawing Figures With Loops\04.TriangleOfDollars\04.TriangleOfDollars\bin\Debug\netcoreapp3.1\04.TriangleOfDollars.runtimeconfig.json
+D:\SoftUni\More Exercises\Drawing Figures With Loops\04.TriangleOfDollars\04.TriangleOfDollars\bin\Debug\netcoreapp3.1\04.TriangleOfDollars.runtimeconfig.dev.json
+D:\SoftUni\More Exercises\Drawing Figures With Loops\04.TriangleOfDollars\04.TriangleOfDollars\bin\Debug\netcoreapp3.1\04.TriangleOfDollars.dll
+D:\SoftUni\More Exercises\Drawing Figures With Loops\04.TriangleOfDollars\04.TriangleOfDollars\bin\Debug\netcoreapp3.1\04.TriangleOfDollars.pdb
+D:\SoftUni\More Exercises\Drawing Figures With Loops\04.TriangleOfDollars\04.TriangleOfDollars\obj\Debug\netcoreapp3.1\04.TriangleOfDollars.csprojAssemblyReference.cache
+D:\SoftUni\More Exercises\Drawing Figures With Loops\04.TriangleOfDollars\04.TriangleOfDollars\obj\Debug\netcoreapp3.1\04.TriangleOfDollars.AssemblyInfoInputs.cache
+D:\SoftUni\More Exercises\Drawing Figures With Loops\04.TriangleOfDollars\04.TriangleOfDollars\obj\Debug\netcoreapp3.1\04.TriangleOfDollars.AssemblyInfo.cs
+D:\SoftUni\More Exercises\Drawing Figures With Loops\04.TriangleOfDollars\04.TriangleOfDollars\obj\Debug\netcoreapp3.1\04.TriangleOfDollars.dll
+D:\SoftUni\More Exercises\Drawing Figures With Loops\04.TriangleOfDollars\04.TriangleOfDollars\obj\Debug\netcoreapp3.1\04.TriangleOfDollars.pdb
