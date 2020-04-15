@@ -1,0 +1,11 @@
+D:\SoftUni\Loops - Exercise\05.DivideWithoutRemainder\05.DivideWithoutRemainder\bin\Debug\netcoreapp3.1\05.DivideWithoutRemainder.exe
+D:\SoftUni\Loops - Exercise\05.DivideWithoutRemainder\05.DivideWithoutRemainder\bin\Debug\netcoreapp3.1\05.DivideWithoutRemainder.deps.json
+D:\SoftUni\Loops - Exercise\05.DivideWithoutRemainder\05.DivideWithoutRemainder\bin\Debug\netcoreapp3.1\05.DivideWithoutRemainder.runtimeconfig.json
+D:\SoftUni\Loops - Exercise\05.DivideWithoutRemainder\05.DivideWithoutRemainder\bin\Debug\netcoreapp3.1\05.DivideWithoutRemainder.runtimeconfig.dev.json
+D:\SoftUni\Loops - Exercise\05.DivideWithoutRemainder\05.DivideWithoutRemainder\bin\Debug\netcoreapp3.1\05.DivideWithoutRemainder.dll
+D:\SoftUni\Loops - Exercise\05.DivideWithoutRemainder\05.DivideWithoutRemainder\bin\Debug\netcoreapp3.1\05.DivideWithoutRemainder.pdb
+D:\SoftUni\Loops - Exercise\05.DivideWithoutRemainder\05.DivideWithoutRemainder\obj\Debug\netcoreapp3.1\05.DivideWithoutRemainder.csprojAssemblyReference.cache
+D:\SoftUni\Loops - Exercise\05.DivideWithoutRemainder\05.DivideWithoutRemainder\obj\Debug\netcoreapp3.1\05.DivideWithoutRemainder.AssemblyInfoInputs.cache
+D:\SoftUni\Loops - Exercise\05.DivideWithoutRemainder\05.DivideWithoutRemainder\obj\Debug\netcoreapp3.1\05.DivideWithoutRemainder.AssemblyInfo.cs
+D:\SoftUni\Loops - Exercise\05.DivideWithoutRemainder\05.DivideWithoutRemainder\obj\Debug\netcoreapp3.1\05.DivideWithoutRemainder.dll
+D:\SoftUni\Loops - Exercise\05.DivideWithoutRemainder\05.DivideWithoutRemainder\obj\Debug\netcoreapp3.1\05.DivideWithoutRemainder.pdb
