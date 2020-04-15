@@ -1,0 +1,11 @@
+D:\SoftUni\Loops - Lab\11.CleverLily\11.CleverLily\bin\Debug\netcoreapp3.1\11.CleverLily.exe
+D:\SoftUni\Loops - Lab\11.CleverLily\11.CleverLily\bin\Debug\netcoreapp3.1\11.CleverLily.deps.json
+D:\SoftUni\Loops - Lab\11.CleverLily\11.CleverLily\bin\Debug\netcoreapp3.1\11.CleverLily.runtimeconfig.json
+D:\SoftUni\Loops - Lab\11.CleverLily\11.CleverLily\bin\Debug\netcoreapp3.1\11.CleverLily.runtimeconfig.dev.json
+D:\SoftUni\Loops - Lab\11.CleverLily\11.CleverLily\bin\Debug\netcoreapp3.1\11.CleverLily.dll
+D:\SoftUni\Loops - Lab\11.CleverLily\11.CleverLily\bin\Debug\netcoreapp3.1\11.CleverLily.pdb
+D:\SoftUni\Loops - Lab\11.CleverLily\11.CleverLily\obj\Debug\netcoreapp3.1\11.CleverLily.csprojAssemblyReference.cache
+D:\SoftUni\Loops - Lab\11.CleverLily\11.CleverLily\obj\Debug\netcoreapp3.1\11.CleverLily.AssemblyInfoInputs.cache
+D:\SoftUni\Loops - Lab\11.CleverLily\11.CleverLily\obj\Debug\netcoreapp3.1\11.CleverLily.AssemblyInfo.cs
+D:\SoftUni\Loops - Lab\11.CleverLily\11.CleverLily\obj\Debug\netcoreapp3.1\11.CleverLily.dll
+D:\SoftUni\Loops - Lab\11.CleverLily\11.CleverLily\obj\Debug\netcoreapp3.1\11.CleverLily.pdb
