@@ -1,0 +1,10 @@
+D:\SoftUni\More Exercises\Drawing Figures With Loops\02.RectangleOfNxNStars\02.RectangleOfNxNStars\bin\Debug\netcoreapp3.1\02.RectangleOfNxNStars.exe
+D:\SoftUni\More Exercises\Drawing Figures With Loops\02.RectangleOfNxNStars\02.RectangleOfNxNStars\bin\Debug\netcoreapp3.1\02.RectangleOfNxNStars.deps.json
+D:\SoftUni\More Exercises\Drawing Figures With Loops\02.RectangleOfNxNStars\02.RectangleOfNxNStars\bin\Debug\netcoreapp3.1\02.RectangleOfNxNStars.runtimeconfig.json
+D:\SoftUni\More Exercises\Drawing Figures With Loops\02.RectangleOfNxNStars\02.RectangleOfNxNStars\bin\Debug\netcoreapp3.1\02.RectangleOfNxNStars.runtimeconfig.dev.json
+D:\SoftUni\More Exercises\Drawing Figures With Loops\02.RectangleOfNxNStars\02.RectangleOfNxNStars\bin\Debug\netcoreapp3.1\02.RectangleOfNxNStars.dll
+D:\SoftUni\More Exercises\Drawing Figures With Loops\02.RectangleOfNxNStars\02.RectangleOfNxNStars\bin\Debug\netcoreapp3.1\02.RectangleOfNxNStars.pdb
+D:\SoftUni\More Exercises\Drawing Figures With Loops\02.RectangleOfNxNStars\02.RectangleOfNxNStars\obj\Debug\netcoreapp3.1\02.RectangleOfNxNStars.AssemblyInfoInputs.cache
+D:\SoftUni\More Exercises\Drawing Figures With Loops\02.RectangleOfNxNStars\02.RectangleOfNxNStars\obj\Debug\netcoreapp3.1\02.RectangleOfNxNStars.AssemblyInfo.cs
+D:\SoftUni\More Exercises\Drawing Figures With Loops\02.RectangleOfNxNStars\02.RectangleOfNxNStars\obj\Debug\netcoreapp3.1\02.RectangleOfNxNStars.dll
+D:\SoftUni\More Exercises\Drawing Figures With Loops\02.RectangleOfNxNStars\02.RectangleOfNxNStars\obj\Debug\netcoreapp3.1\02.RectangleOfNxNStars.pdb
