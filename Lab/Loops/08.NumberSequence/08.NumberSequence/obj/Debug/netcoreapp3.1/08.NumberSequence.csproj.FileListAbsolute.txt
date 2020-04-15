@@ -1,0 +1,11 @@
+D:\SoftUni\Loops - Lab\08.NumberSequence\08.NumberSequence\bin\Debug\netcoreapp3.1\08.NumberSequence.exe
+D:\SoftUni\Loops - Lab\08.NumberSequence\08.NumberSequence\bin\Debug\netcoreapp3.1\08.NumberSequence.deps.json
+D:\SoftUni\Loops - Lab\08.NumberSequence\08.NumberSequence\bin\Debug\netcoreapp3.1\08.NumberSequence.runtimeconfig.json
+D:\SoftUni\Loops - Lab\08.NumberSequence\08.NumberSequence\bin\Debug\netcoreapp3.1\08.NumberSequence.runtimeconfig.dev.json
+D:\SoftUni\Loops - Lab\08.NumberSequence\08.NumberSequence\bin\Debug\netcoreapp3.1\08.NumberSequence.dll
+D:\SoftUni\Loops - Lab\08.NumberSequence\08.NumberSequence\bin\Debug\netcoreapp3.1\08.NumberSequence.pdb
+D:\SoftUni\Loops - Lab\08.NumberSequence\08.NumberSequence\obj\Debug\netcoreapp3.1\08.NumberSequence.AssemblyInfoInputs.cache
+D:\SoftUni\Loops - Lab\08.NumberSequence\08.NumberSequence\obj\Debug\netcoreapp3.1\08.NumberSequence.AssemblyInfo.cs
+D:\SoftUni\Loops - Lab\08.NumberSequence\08.NumberSequence\obj\Debug\netcoreapp3.1\08.NumberSequence.dll
+D:\SoftUni\Loops - Lab\08.NumberSequence\08.NumberSequence\obj\Debug\netcoreapp3.1\08.NumberSequence.pdb
+D:\SoftUni\Loops - Lab\08.NumberSequence\08.NumberSequence\obj\Debug\netcoreapp3.1\08.NumberSequence.csprojAssemblyReference.cache
