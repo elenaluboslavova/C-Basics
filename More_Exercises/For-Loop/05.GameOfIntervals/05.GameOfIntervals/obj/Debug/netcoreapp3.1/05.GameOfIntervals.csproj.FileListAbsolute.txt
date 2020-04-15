@@ -1,0 +1,11 @@
+D:\SoftUni\More Exercises\For-Loop\05.GameOfIntervals\05.GameOfIntervals\bin\Debug\netcoreapp3.1\05.GameOfIntervals.exe
+D:\SoftUni\More Exercises\For-Loop\05.GameOfIntervals\05.GameOfIntervals\bin\Debug\netcoreapp3.1\05.GameOfIntervals.deps.json
+D:\SoftUni\More Exercises\For-Loop\05.GameOfIntervals\05.GameOfIntervals\bin\Debug\netcoreapp3.1\05.GameOfIntervals.runtimeconfig.json
+D:\SoftUni\More Exercises\For-Loop\05.GameOfIntervals\05.GameOfIntervals\bin\Debug\netcoreapp3.1\05.GameOfIntervals.runtimeconfig.dev.json
+D:\SoftUni\More Exercises\For-Loop\05.GameOfIntervals\05.GameOfIntervals\bin\Debug\netcoreapp3.1\05.GameOfIntervals.dll
+D:\SoftUni\More Exercises\For-Loop\05.GameOfIntervals\05.GameOfIntervals\bin\Debug\netcoreapp3.1\05.GameOfIntervals.pdb
+D:\SoftUni\More Exercises\For-Loop\05.GameOfIntervals\05.GameOfIntervals\obj\Debug\netcoreapp3.1\05.GameOfIntervals.csprojAssemblyReference.cache
+D:\SoftUni\More Exercises\For-Loop\05.GameOfIntervals\05.GameOfIntervals\obj\Debug\netcoreapp3.1\05.GameOfIntervals.AssemblyInfoInputs.cache
+D:\SoftUni\More Exercises\For-Loop\05.GameOfIntervals\05.GameOfIntervals\obj\Debug\netcoreapp3.1\05.GameOfIntervals.AssemblyInfo.cs
+D:\SoftUni\More Exercises\For-Loop\05.GameOfIntervals\05.GameOfIntervals\obj\Debug\netcoreapp3.1\05.GameOfIntervals.dll
+D:\SoftUni\More Exercises\For-Loop\05.GameOfIntervals\05.GameOfIntervals\obj\Debug\netcoreapp3.1\05.GameOfIntervals.pdb
