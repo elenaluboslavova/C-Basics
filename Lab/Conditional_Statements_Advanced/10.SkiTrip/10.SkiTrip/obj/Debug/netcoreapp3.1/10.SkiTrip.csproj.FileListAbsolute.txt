@@ -1,0 +1,10 @@
+D:\SoftUni\Conditional Statements Advanced - Lab\10.SkiTrip\10.SkiTrip\bin\Debug\netcoreapp3.1\10.SkiTrip.exe
+D:\SoftUni\Conditional Statements Advanced - Lab\10.SkiTrip\10.SkiTrip\bin\Debug\netcoreapp3.1\10.SkiTrip.deps.json
+D:\SoftUni\Conditional Statements Advanced - Lab\10.SkiTrip\10.SkiTrip\bin\Debug\netcoreapp3.1\10.SkiTrip.runtimeconfig.json
+D:\SoftUni\Conditional Statements Advanced - Lab\10.SkiTrip\10.SkiTrip\bin\Debug\netcoreapp3.1\10.SkiTrip.runtimeconfig.dev.json
+D:\SoftUni\Conditional Statements Advanced - Lab\10.SkiTrip\10.SkiTrip\bin\Debug\netcoreapp3.1\10.SkiTrip.dll
+D:\SoftUni\Conditional Statements Advanced - Lab\10.SkiTrip\10.SkiTrip\bin\Debug\netcoreapp3.1\10.SkiTrip.pdb
+D:\SoftUni\Conditional Statements Advanced - Lab\10.SkiTrip\10.SkiTrip\obj\Debug\netcoreapp3.1\10.SkiTrip.AssemblyInfoInputs.cache
+D:\SoftUni\Conditional Statements Advanced - Lab\10.SkiTrip\10.SkiTrip\obj\Debug\netcoreapp3.1\10.SkiTrip.AssemblyInfo.cs
+D:\SoftUni\Conditional Statements Advanced - Lab\10.SkiTrip\10.SkiTrip\obj\Debug\netcoreapp3.1\10.SkiTrip.dll
+D:\SoftUni\Conditional Statements Advanced - Lab\10.SkiTrip\10.SkiTrip\obj\Debug\netcoreapp3.1\10.SkiTrip.pdb
