@@ -1,0 +1,11 @@
+D:\SoftUni\More Exercises\While-Loop\04.NumbersDividedBy3WithoutReminder\04.NumbersDividedBy3WithoutReminder\bin\Debug\netcoreapp3.1\04.NumbersDividedBy3WithoutReminder.exe
+D:\SoftUni\More Exercises\While-Loop\04.NumbersDividedBy3WithoutReminder\04.NumbersDividedBy3WithoutReminder\bin\Debug\netcoreapp3.1\04.NumbersDividedBy3WithoutReminder.deps.json
+D:\SoftUni\More Exercises\While-Loop\04.NumbersDividedBy3WithoutReminder\04.NumbersDividedBy3WithoutReminder\bin\Debug\netcoreapp3.1\04.NumbersDividedBy3WithoutReminder.runtimeconfig.json
+D:\SoftUni\More Exercises\While-Loop\04.NumbersDividedBy3WithoutReminder\04.NumbersDividedBy3WithoutReminder\bin\Debug\netcoreapp3.1\04.NumbersDividedBy3WithoutReminder.runtimeconfig.dev.json
+D:\SoftUni\More Exercises\While-Loop\04.NumbersDividedBy3WithoutReminder\04.NumbersDividedBy3WithoutReminder\bin\Debug\netcoreapp3.1\04.NumbersDividedBy3WithoutReminder.dll
+D:\SoftUni\More Exercises\While-Loop\04.NumbersDividedBy3WithoutReminder\04.NumbersDividedBy3WithoutReminder\bin\Debug\netcoreapp3.1\04.NumbersDividedBy3WithoutReminder.pdb
+D:\SoftUni\More Exercises\While-Loop\04.NumbersDividedBy3WithoutReminder\04.NumbersDividedBy3WithoutReminder\obj\Debug\netcoreapp3.1\04.NumbersDividedBy3WithoutReminder.csprojAssemblyReference.cache
+D:\SoftUni\More Exercises\While-Loop\04.NumbersDividedBy3WithoutReminder\04.NumbersDividedBy3WithoutReminder\obj\Debug\netcoreapp3.1\04.NumbersDividedBy3WithoutReminder.AssemblyInfoInputs.cache
+D:\SoftUni\More Exercises\While-Loop\04.NumbersDividedBy3WithoutReminder\04.NumbersDividedBy3WithoutReminder\obj\Debug\netcoreapp3.1\04.NumbersDividedBy3WithoutReminder.AssemblyInfo.cs
+D:\SoftUni\More Exercises\While-Loop\04.NumbersDividedBy3WithoutReminder\04.NumbersDividedBy3WithoutReminder\obj\Debug\netcoreapp3.1\04.NumbersDividedBy3WithoutReminder.dll
+D:\SoftUni\More Exercises\While-Loop\04.NumbersDividedBy3WithoutReminder\04.NumbersDividedBy3WithoutReminder\obj\Debug\netcoreapp3.1\04.NumbersDividedBy3WithoutReminder.pdb
