@@ -1,0 +1,11 @@
+D:\SoftUni\More Exercises\While-Loop\01.Dishwasher\01.Dishwasher\bin\Debug\netcoreapp3.1\01.Dishwasher.exe
+D:\SoftUni\More Exercises\While-Loop\01.Dishwasher\01.Dishwasher\bin\Debug\netcoreapp3.1\01.Dishwasher.deps.json
+D:\SoftUni\More Exercises\While-Loop\01.Dishwasher\01.Dishwasher\bin\Debug\netcoreapp3.1\01.Dishwasher.runtimeconfig.json
+D:\SoftUni\More Exercises\While-Loop\01.Dishwasher\01.Dishwasher\bin\Debug\netcoreapp3.1\01.Dishwasher.runtimeconfig.dev.json
+D:\SoftUni\More Exercises\While-Loop\01.Dishwasher\01.Dishwasher\bin\Debug\netcoreapp3.1\01.Dishwasher.dll
+D:\SoftUni\More Exercises\While-Loop\01.Dishwasher\01.Dishwasher\bin\Debug\netcoreapp3.1\01.Dishwasher.pdb
+D:\SoftUni\More Exercises\While-Loop\01.Dishwasher\01.Dishwasher\obj\Debug\netcoreapp3.1\01.Dishwasher.csprojAssemblyReference.cache
+D:\SoftUni\More Exercises\While-Loop\01.Dishwasher\01.Dishwasher\obj\Debug\netcoreapp3.1\01.Dishwasher.AssemblyInfoInputs.cache
+D:\SoftUni\More Exercises\While-Loop\01.Dishwasher\01.Dishwasher\obj\Debug\netcoreapp3.1\01.Dishwasher.AssemblyInfo.cs
+D:\SoftUni\More Exercises\While-Loop\01.Dishwasher\01.Dishwasher\obj\Debug\netcoreapp3.1\01.Dishwasher.dll
+D:\SoftUni\More Exercises\While-Loop\01.Dishwasher\01.Dishwasher\obj\Debug\netcoreapp3.1\01.Dishwasher.pdb
