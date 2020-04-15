@@ -1,0 +1,10 @@
+D:\SoftUni\Loops - Lab\09.LeftAndRightSum\09.LeftAndRightSum\bin\Debug\netcoreapp3.1\09.LeftAndRightSum.exe
+D:\SoftUni\Loops - Lab\09.LeftAndRightSum\09.LeftAndRightSum\bin\Debug\netcoreapp3.1\09.LeftAndRightSum.deps.json
+D:\SoftUni\Loops - Lab\09.LeftAndRightSum\09.LeftAndRightSum\bin\Debug\netcoreapp3.1\09.LeftAndRightSum.runtimeconfig.json
+D:\SoftUni\Loops - Lab\09.LeftAndRightSum\09.LeftAndRightSum\bin\Debug\netcoreapp3.1\09.LeftAndRightSum.runtimeconfig.dev.json
+D:\SoftUni\Loops - Lab\09.LeftAndRightSum\09.LeftAndRightSum\bin\Debug\netcoreapp3.1\09.LeftAndRightSum.dll
+D:\SoftUni\Loops - Lab\09.LeftAndRightSum\09.LeftAndRightSum\bin\Debug\netcoreapp3.1\09.LeftAndRightSum.pdb
+D:\SoftUni\Loops - Lab\09.LeftAndRightSum\09.LeftAndRightSum\obj\Debug\netcoreapp3.1\09.LeftAndRightSum.AssemblyInfoInputs.cache
+D:\SoftUni\Loops - Lab\09.LeftAndRightSum\09.LeftAndRightSum\obj\Debug\netcoreapp3.1\09.LeftAndRightSum.AssemblyInfo.cs
+D:\SoftUni\Loops - Lab\09.LeftAndRightSum\09.LeftAndRightSum\obj\Debug\netcoreapp3.1\09.LeftAndRightSum.dll
+D:\SoftUni\Loops - Lab\09.LeftAndRightSum\09.LeftAndRightSum\obj\Debug\netcoreapp3.1\09.LeftAndRightSum.pdb
