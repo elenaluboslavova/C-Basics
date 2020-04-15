@@ -1,0 +1,10 @@
+D:\SoftUni\Conditional Statements Advanced - Lab\09.TradeCommissions\09.TradeCommissions\bin\Debug\netcoreapp3.1\09.TradeCommissions.exe
+D:\SoftUni\Conditional Statements Advanced - Lab\09.TradeCommissions\09.TradeCommissions\bin\Debug\netcoreapp3.1\09.TradeCommissions.deps.json
+D:\SoftUni\Conditional Statements Advanced - Lab\09.TradeCommissions\09.TradeCommissions\bin\Debug\netcoreapp3.1\09.TradeCommissions.runtimeconfig.json
+D:\SoftUni\Conditional Statements Advanced - Lab\09.TradeCommissions\09.TradeCommissions\bin\Debug\netcoreapp3.1\09.TradeCommissions.runtimeconfig.dev.json
+D:\SoftUni\Conditional Statements Advanced - Lab\09.TradeCommissions\09.TradeCommissions\bin\Debug\netcoreapp3.1\09.TradeCommissions.dll
+D:\SoftUni\Conditional Statements Advanced - Lab\09.TradeCommissions\09.TradeCommissions\bin\Debug\netcoreapp3.1\09.TradeCommissions.pdb
+D:\SoftUni\Conditional Statements Advanced - Lab\09.TradeCommissions\09.TradeCommissions\obj\Debug\netcoreapp3.1\09.TradeCommissions.AssemblyInfoInputs.cache
+D:\SoftUni\Conditional Statements Advanced - Lab\09.TradeCommissions\09.TradeCommissions\obj\Debug\netcoreapp3.1\09.TradeCommissions.AssemblyInfo.cs
+D:\SoftUni\Conditional Statements Advanced - Lab\09.TradeCommissions\09.TradeCommissions\obj\Debug\netcoreapp3.1\09.TradeCommissions.dll
+D:\SoftUni\Conditional Statements Advanced - Lab\09.TradeCommissions\09.TradeCommissions\obj\Debug\netcoreapp3.1\09.TradeCommissions.pdb
