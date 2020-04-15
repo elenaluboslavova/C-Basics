@@ -1,0 +1,10 @@
+D:\SoftUni\Loops - Lab\02.NumbersNto1\02.NumbersNto1\bin\Debug\netcoreapp3.1\02.NumbersNto1.exe
+D:\SoftUni\Loops - Lab\02.NumbersNto1\02.NumbersNto1\bin\Debug\netcoreapp3.1\02.NumbersNto1.deps.json
+D:\SoftUni\Loops - Lab\02.NumbersNto1\02.NumbersNto1\bin\Debug\netcoreapp3.1\02.NumbersNto1.runtimeconfig.json
+D:\SoftUni\Loops - Lab\02.NumbersNto1\02.NumbersNto1\bin\Debug\netcoreapp3.1\02.NumbersNto1.runtimeconfig.dev.json
+D:\SoftUni\Loops - Lab\02.NumbersNto1\02.NumbersNto1\bin\Debug\netcoreapp3.1\02.NumbersNto1.dll
+D:\SoftUni\Loops - Lab\02.NumbersNto1\02.NumbersNto1\bin\Debug\netcoreapp3.1\02.NumbersNto1.pdb
+D:\SoftUni\Loops - Lab\02.NumbersNto1\02.NumbersNto1\obj\Debug\netcoreapp3.1\02.NumbersNto1.AssemblyInfoInputs.cache
+D:\SoftUni\Loops - Lab\02.NumbersNto1\02.NumbersNto1\obj\Debug\netcoreapp3.1\02.NumbersNto1.AssemblyInfo.cs
+D:\SoftUni\Loops - Lab\02.NumbersNto1\02.NumbersNto1\obj\Debug\netcoreapp3.1\02.NumbersNto1.dll
+D:\SoftUni\Loops - Lab\02.NumbersNto1\02.NumbersNto1\obj\Debug\netcoreapp3.1\02.NumbersNto1.pdb
