@@ -1,0 +1,10 @@
+D:\SoftUni\SimpleOperationsAndCalculations-Exercise\01.USDtoBGN\bin\Debug\netcoreapp3.1\01.USDtoBGN.exe
+D:\SoftUni\SimpleOperationsAndCalculations-Exercise\01.USDtoBGN\bin\Debug\netcoreapp3.1\01.USDtoBGN.deps.json
+D:\SoftUni\SimpleOperationsAndCalculations-Exercise\01.USDtoBGN\bin\Debug\netcoreapp3.1\01.USDtoBGN.runtimeconfig.json
+D:\SoftUni\SimpleOperationsAndCalculations-Exercise\01.USDtoBGN\bin\Debug\netcoreapp3.1\01.USDtoBGN.runtimeconfig.dev.json
+D:\SoftUni\SimpleOperationsAndCalculations-Exercise\01.USDtoBGN\bin\Debug\netcoreapp3.1\01.USDtoBGN.dll
+D:\SoftUni\SimpleOperationsAndCalculations-Exercise\01.USDtoBGN\bin\Debug\netcoreapp3.1\01.USDtoBGN.pdb
+D:\SoftUni\SimpleOperationsAndCalculations-Exercise\01.USDtoBGN\obj\Debug\netcoreapp3.1\01.USDtoBGN.AssemblyInfoInputs.cache
+D:\SoftUni\SimpleOperationsAndCalculations-Exercise\01.USDtoBGN\obj\Debug\netcoreapp3.1\01.USDtoBGN.AssemblyInfo.cs
+D:\SoftUni\SimpleOperationsAndCalculations-Exercise\01.USDtoBGN\obj\Debug\netcoreapp3.1\01.USDtoBGN.dll
+D:\SoftUni\SimpleOperationsAndCalculations-Exercise\01.USDtoBGN\obj\Debug\netcoreapp3.1\01.USDtoBGN.pdb
