@@ -1,0 +1,10 @@
+D:\SoftUni\Loops - Part 2 - Exercise\03.Vacation\03.Vacation\bin\Debug\netcoreapp3.1\03.Vacation.exe
+D:\SoftUni\Loops - Part 2 - Exercise\03.Vacation\03.Vacation\bin\Debug\netcoreapp3.1\03.Vacation.deps.json
+D:\SoftUni\Loops - Part 2 - Exercise\03.Vacation\03.Vacation\bin\Debug\netcoreapp3.1\03.Vacation.runtimeconfig.json
+D:\SoftUni\Loops - Part 2 - Exercise\03.Vacation\03.Vacation\bin\Debug\netcoreapp3.1\03.Vacation.runtimeconfig.dev.json
+D:\SoftUni\Loops - Part 2 - Exercise\03.Vacation\03.Vacation\bin\Debug\netcoreapp3.1\03.Vacation.dll
+D:\SoftUni\Loops - Part 2 - Exercise\03.Vacation\03.Vacation\bin\Debug\netcoreapp3.1\03.Vacation.pdb
+D:\SoftUni\Loops - Part 2 - Exercise\03.Vacation\03.Vacation\obj\Debug\netcoreapp3.1\03.Vacation.AssemblyInfoInputs.cache
+D:\SoftUni\Loops - Part 2 - Exercise\03.Vacation\03.Vacation\obj\Debug\netcoreapp3.1\03.Vacation.AssemblyInfo.cs
+D:\SoftUni\Loops - Part 2 - Exercise\03.Vacation\03.Vacation\obj\Debug\netcoreapp3.1\03.Vacation.dll
+D:\SoftUni\Loops - Part 2 - Exercise\03.Vacation\03.Vacation\obj\Debug\netcoreapp3.1\03.Vacation.pdb
