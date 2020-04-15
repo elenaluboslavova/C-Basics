@@ -1,0 +1,11 @@
+D:\SoftUni\More Exercises\While-Loop\02.ReportSystem\02.ReportSystem\bin\Debug\netcoreapp3.1\02.ReportSystem.exe
+D:\SoftUni\More Exercises\While-Loop\02.ReportSystem\02.ReportSystem\bin\Debug\netcoreapp3.1\02.ReportSystem.deps.json
+D:\SoftUni\More Exercises\While-Loop\02.ReportSystem\02.ReportSystem\bin\Debug\netcoreapp3.1\02.ReportSystem.runtimeconfig.json
+D:\SoftUni\More Exercises\While-Loop\02.ReportSystem\02.ReportSystem\bin\Debug\netcoreapp3.1\02.ReportSystem.runtimeconfig.dev.json
+D:\SoftUni\More Exercises\While-Loop\02.ReportSystem\02.ReportSystem\bin\Debug\netcoreapp3.1\02.ReportSystem.dll
+D:\SoftUni\More Exercises\While-Loop\02.ReportSystem\02.ReportSystem\bin\Debug\netcoreapp3.1\02.ReportSystem.pdb
+D:\SoftUni\More Exercises\While-Loop\02.ReportSystem\02.ReportSystem\obj\Debug\netcoreapp3.1\02.ReportSystem.AssemblyInfoInputs.cache
+D:\SoftUni\More Exercises\While-Loop\02.ReportSystem\02.ReportSystem\obj\Debug\netcoreapp3.1\02.ReportSystem.AssemblyInfo.cs
+D:\SoftUni\More Exercises\While-Loop\02.ReportSystem\02.ReportSystem\obj\Debug\netcoreapp3.1\02.ReportSystem.dll
+D:\SoftUni\More Exercises\While-Loop\02.ReportSystem\02.ReportSystem\obj\Debug\netcoreapp3.1\02.ReportSystem.pdb
+D:\SoftUni\More Exercises\While-Loop\02.ReportSystem\02.ReportSystem\obj\Debug\netcoreapp3.1\02.ReportSystem.csprojAssemblyReference.cache
