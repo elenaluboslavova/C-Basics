@@ -1,0 +1,11 @@
+D:\SoftUni\SimpleOperationsAndCalculations-MoreExercises\01.TrapezoidArea\bin\Debug\netcoreapp3.1\01.TrapezoidArea.exe
+D:\SoftUni\SimpleOperationsAndCalculations-MoreExercises\01.TrapezoidArea\bin\Debug\netcoreapp3.1\01.TrapezoidArea.deps.json
+D:\SoftUni\SimpleOperationsAndCalculations-MoreExercises\01.TrapezoidArea\bin\Debug\netcoreapp3.1\01.TrapezoidArea.runtimeconfig.json
+D:\SoftUni\SimpleOperationsAndCalculations-MoreExercises\01.TrapezoidArea\bin\Debug\netcoreapp3.1\01.TrapezoidArea.runtimeconfig.dev.json
+D:\SoftUni\SimpleOperationsAndCalculations-MoreExercises\01.TrapezoidArea\bin\Debug\netcoreapp3.1\01.TrapezoidArea.dll
+D:\SoftUni\SimpleOperationsAndCalculations-MoreExercises\01.TrapezoidArea\bin\Debug\netcoreapp3.1\01.TrapezoidArea.pdb
+D:\SoftUni\SimpleOperationsAndCalculations-MoreExercises\01.TrapezoidArea\obj\Debug\netcoreapp3.1\01.TrapezoidArea.csprojAssemblyReference.cache
+D:\SoftUni\SimpleOperationsAndCalculations-MoreExercises\01.TrapezoidArea\obj\Debug\netcoreapp3.1\01.TrapezoidArea.AssemblyInfoInputs.cache
+D:\SoftUni\SimpleOperationsAndCalculations-MoreExercises\01.TrapezoidArea\obj\Debug\netcoreapp3.1\01.TrapezoidArea.AssemblyInfo.cs
+D:\SoftUni\SimpleOperationsAndCalculations-MoreExercises\01.TrapezoidArea\obj\Debug\netcoreapp3.1\01.TrapezoidArea.dll
+D:\SoftUni\SimpleOperationsAndCalculations-MoreExercises\01.TrapezoidArea\obj\Debug\netcoreapp3.1\01.TrapezoidArea.pdb
