@@ -1,0 +1,10 @@
+D:\SoftUni\Greeting\SantimetersToInches\bin\Debug\netcoreapp3.1\SantimetersToInches.exe
+D:\SoftUni\Greeting\SantimetersToInches\bin\Debug\netcoreapp3.1\SantimetersToInches.deps.json
+D:\SoftUni\Greeting\SantimetersToInches\bin\Debug\netcoreapp3.1\SantimetersToInches.runtimeconfig.json
+D:\SoftUni\Greeting\SantimetersToInches\bin\Debug\netcoreapp3.1\SantimetersToInches.runtimeconfig.dev.json
+D:\SoftUni\Greeting\SantimetersToInches\bin\Debug\netcoreapp3.1\SantimetersToInches.dll
+D:\SoftUni\Greeting\SantimetersToInches\bin\Debug\netcoreapp3.1\SantimetersToInches.pdb
+D:\SoftUni\Greeting\SantimetersToInches\obj\Debug\netcoreapp3.1\SantimetersToInches.AssemblyInfoInputs.cache
+D:\SoftUni\Greeting\SantimetersToInches\obj\Debug\netcoreapp3.1\SantimetersToInches.AssemblyInfo.cs
+D:\SoftUni\Greeting\SantimetersToInches\obj\Debug\netcoreapp3.1\SantimetersToInches.dll
+D:\SoftUni\Greeting\SantimetersToInches\obj\Debug\netcoreapp3.1\SantimetersToInches.pdb
