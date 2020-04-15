@@ -1,0 +1,11 @@
+D:\SoftUni\Conditional Statements Advanced - Lab\05.NumberInRange\05.NumberInRange\bin\Debug\netcoreapp3.1\05.NumberInRange.exe
+D:\SoftUni\Conditional Statements Advanced - Lab\05.NumberInRange\05.NumberInRange\bin\Debug\netcoreapp3.1\05.NumberInRange.deps.json
+D:\SoftUni\Conditional Statements Advanced - Lab\05.NumberInRange\05.NumberInRange\bin\Debug\netcoreapp3.1\05.NumberInRange.runtimeconfig.json
+D:\SoftUni\Conditional Statements Advanced - Lab\05.NumberInRange\05.NumberInRange\bin\Debug\netcoreapp3.1\05.NumberInRange.runtimeconfig.dev.json
+D:\SoftUni\Conditional Statements Advanced - Lab\05.NumberInRange\05.NumberInRange\bin\Debug\netcoreapp3.1\05.NumberInRange.dll
+D:\SoftUni\Conditional Statements Advanced - Lab\05.NumberInRange\05.NumberInRange\bin\Debug\netcoreapp3.1\05.NumberInRange.pdb
+D:\SoftUni\Conditional Statements Advanced - Lab\05.NumberInRange\05.NumberInRange\obj\Debug\netcoreapp3.1\05.NumberInRange.csprojAssemblyReference.cache
+D:\SoftUni\Conditional Statements Advanced - Lab\05.NumberInRange\05.NumberInRange\obj\Debug\netcoreapp3.1\05.NumberInRange.AssemblyInfoInputs.cache
+D:\SoftUni\Conditional Statements Advanced - Lab\05.NumberInRange\05.NumberInRange\obj\Debug\netcoreapp3.1\05.NumberInRange.AssemblyInfo.cs
+D:\SoftUni\Conditional Statements Advanced - Lab\05.NumberInRange\05.NumberInRange\obj\Debug\netcoreapp3.1\05.NumberInRange.dll
+D:\SoftUni\Conditional Statements Advanced - Lab\05.NumberInRange\05.NumberInRange\obj\Debug\netcoreapp3.1\05.NumberInRange.pdb
