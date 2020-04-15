@@ -1,0 +1,10 @@
+D:\SoftUni\SimpleOperationsAndCalculations-Exercise\04.TailoringWorkshop\bin\Debug\netcoreapp3.1\04.TailoringWorkshop.exe
+D:\SoftUni\SimpleOperationsAndCalculations-Exercise\04.TailoringWorkshop\bin\Debug\netcoreapp3.1\04.TailoringWorkshop.deps.json
+D:\SoftUni\SimpleOperationsAndCalculations-Exercise\04.TailoringWorkshop\bin\Debug\netcoreapp3.1\04.TailoringWorkshop.runtimeconfig.json
+D:\SoftUni\SimpleOperationsAndCalculations-Exercise\04.TailoringWorkshop\bin\Debug\netcoreapp3.1\04.TailoringWorkshop.runtimeconfig.dev.json
+D:\SoftUni\SimpleOperationsAndCalculations-Exercise\04.TailoringWorkshop\bin\Debug\netcoreapp3.1\04.TailoringWorkshop.dll
+D:\SoftUni\SimpleOperationsAndCalculations-Exercise\04.TailoringWorkshop\bin\Debug\netcoreapp3.1\04.TailoringWorkshop.pdb
+D:\SoftUni\SimpleOperationsAndCalculations-Exercise\04.TailoringWorkshop\obj\Debug\netcoreapp3.1\04.TailoringWorkshop.AssemblyInfoInputs.cache
+D:\SoftUni\SimpleOperationsAndCalculations-Exercise\04.TailoringWorkshop\obj\Debug\netcoreapp3.1\04.TailoringWorkshop.AssemblyInfo.cs
+D:\SoftUni\SimpleOperationsAndCalculations-Exercise\04.TailoringWorkshop\obj\Debug\netcoreapp3.1\04.TailoringWorkshop.dll
+D:\SoftUni\SimpleOperationsAndCalculations-Exercise\04.TailoringWorkshop\obj\Debug\netcoreapp3.1\04.TailoringWorkshop.pdb
