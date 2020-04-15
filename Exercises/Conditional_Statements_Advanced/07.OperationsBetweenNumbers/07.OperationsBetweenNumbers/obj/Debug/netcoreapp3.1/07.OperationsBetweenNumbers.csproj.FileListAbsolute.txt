@@ -1,0 +1,11 @@
+D:\SoftUni\Conditional Statements Advanced - Exercise\07.OperationsBetweenNumbers\07.OperationsBetweenNumbers\bin\Debug\netcoreapp3.1\07.OperationsBetweenNumbers.exe
+D:\SoftUni\Conditional Statements Advanced - Exercise\07.OperationsBetweenNumbers\07.OperationsBetweenNumbers\bin\Debug\netcoreapp3.1\07.OperationsBetweenNumbers.deps.json
+D:\SoftUni\Conditional Statements Advanced - Exercise\07.OperationsBetweenNumbers\07.OperationsBetweenNumbers\bin\Debug\netcoreapp3.1\07.OperationsBetweenNumbers.runtimeconfig.json
+D:\SoftUni\Conditional Statements Advanced - Exercise\07.OperationsBetweenNumbers\07.OperationsBetweenNumbers\bin\Debug\netcoreapp3.1\07.OperationsBetweenNumbers.runtimeconfig.dev.json
+D:\SoftUni\Conditional Statements Advanced - Exercise\07.OperationsBetweenNumbers\07.OperationsBetweenNumbers\bin\Debug\netcoreapp3.1\07.OperationsBetweenNumbers.dll
+D:\SoftUni\Conditional Statements Advanced - Exercise\07.OperationsBetweenNumbers\07.OperationsBetweenNumbers\bin\Debug\netcoreapp3.1\07.OperationsBetweenNumbers.pdb
+D:\SoftUni\Conditional Statements Advanced - Exercise\07.OperationsBetweenNumbers\07.OperationsBetweenNumbers\obj\Debug\netcoreapp3.1\07.OperationsBetweenNumbers.csprojAssemblyReference.cache
+D:\SoftUni\Conditional Statements Advanced - Exercise\07.OperationsBetweenNumbers\07.OperationsBetweenNumbers\obj\Debug\netcoreapp3.1\07.OperationsBetweenNumbers.AssemblyInfoInputs.cache
+D:\SoftUni\Conditional Statements Advanced - Exercise\07.OperationsBetweenNumbers\07.OperationsBetweenNumbers\obj\Debug\netcoreapp3.1\07.OperationsBetweenNumbers.AssemblyInfo.cs
+D:\SoftUni\Conditional Statements Advanced - Exercise\07.OperationsBetweenNumbers\07.OperationsBetweenNumbers\obj\Debug\netcoreapp3.1\07.OperationsBetweenNumbers.dll
+D:\SoftUni\Conditional Statements Advanced - Exercise\07.OperationsBetweenNumbers\07.OperationsBetweenNumbers\obj\Debug\netcoreapp3.1\07.OperationsBetweenNumbers.pdb
