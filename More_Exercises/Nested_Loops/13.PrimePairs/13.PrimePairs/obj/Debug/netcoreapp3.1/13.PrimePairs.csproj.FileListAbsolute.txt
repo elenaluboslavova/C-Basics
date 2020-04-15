@@ -1,0 +1,10 @@
+D:\SoftUni\More Exercises\Nested Loops\13.PrimePairs\13.PrimePairs\bin\Debug\netcoreapp3.1\13.PrimePairs.exe
+D:\SoftUni\More Exercises\Nested Loops\13.PrimePairs\13.PrimePairs\bin\Debug\netcoreapp3.1\13.PrimePairs.deps.json
+D:\SoftUni\More Exercises\Nested Loops\13.PrimePairs\13.PrimePairs\bin\Debug\netcoreapp3.1\13.PrimePairs.runtimeconfig.json
+D:\SoftUni\More Exercises\Nested Loops\13.PrimePairs\13.PrimePairs\bin\Debug\netcoreapp3.1\13.PrimePairs.runtimeconfig.dev.json
+D:\SoftUni\More Exercises\Nested Loops\13.PrimePairs\13.PrimePairs\bin\Debug\netcoreapp3.1\13.PrimePairs.dll
+D:\SoftUni\More Exercises\Nested Loops\13.PrimePairs\13.PrimePairs\bin\Debug\netcoreapp3.1\13.PrimePairs.pdb
+D:\SoftUni\More Exercises\Nested Loops\13.PrimePairs\13.PrimePairs\obj\Debug\netcoreapp3.1\13.PrimePairs.AssemblyInfoInputs.cache
+D:\SoftUni\More Exercises\Nested Loops\13.PrimePairs\13.PrimePairs\obj\Debug\netcoreapp3.1\13.PrimePairs.AssemblyInfo.cs
+D:\SoftUni\More Exercises\Nested Loops\13.PrimePairs\13.PrimePairs\obj\Debug\netcoreapp3.1\13.PrimePairs.dll
+D:\SoftUni\More Exercises\Nested Loops\13.PrimePairs\13.PrimePairs\obj\Debug\netcoreapp3.1\13.PrimePairs.pdb
