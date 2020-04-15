@@ -1,0 +1,11 @@
+D:\SoftUni\Greeting\Greeting\bin\Debug\netcoreapp3.1\Greeting.exe
+D:\SoftUni\Greeting\Greeting\bin\Debug\netcoreapp3.1\Greeting.deps.json
+D:\SoftUni\Greeting\Greeting\bin\Debug\netcoreapp3.1\Greeting.runtimeconfig.json
+D:\SoftUni\Greeting\Greeting\bin\Debug\netcoreapp3.1\Greeting.runtimeconfig.dev.json
+D:\SoftUni\Greeting\Greeting\bin\Debug\netcoreapp3.1\Greeting.dll
+D:\SoftUni\Greeting\Greeting\bin\Debug\netcoreapp3.1\Greeting.pdb
+D:\SoftUni\Greeting\Greeting\obj\Debug\netcoreapp3.1\Greeting.csprojAssemblyReference.cache
+D:\SoftUni\Greeting\Greeting\obj\Debug\netcoreapp3.1\Greeting.AssemblyInfoInputs.cache
+D:\SoftUni\Greeting\Greeting\obj\Debug\netcoreapp3.1\Greeting.AssemblyInfo.cs
+D:\SoftUni\Greeting\Greeting\obj\Debug\netcoreapp3.1\Greeting.dll
+D:\SoftUni\Greeting\Greeting\obj\Debug\netcoreapp3.1\Greeting.pdb
