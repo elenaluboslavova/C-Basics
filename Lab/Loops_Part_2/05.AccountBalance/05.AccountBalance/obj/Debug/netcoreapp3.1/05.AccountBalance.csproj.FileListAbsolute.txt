@@ -1,0 +1,10 @@
+D:\SoftUni\Loops - Part 2 - Lab\05.AccountBalance\05.AccountBalance\bin\Debug\netcoreapp3.1\05.AccountBalance.exe
+D:\SoftUni\Loops - Part 2 - Lab\05.AccountBalance\05.AccountBalance\bin\Debug\netcoreapp3.1\05.AccountBalance.deps.json
+D:\SoftUni\Loops - Part 2 - Lab\05.AccountBalance\05.AccountBalance\bin\Debug\netcoreapp3.1\05.AccountBalance.runtimeconfig.json
+D:\SoftUni\Loops - Part 2 - Lab\05.AccountBalance\05.AccountBalance\bin\Debug\netcoreapp3.1\05.AccountBalance.runtimeconfig.dev.json
+D:\SoftUni\Loops - Part 2 - Lab\05.AccountBalance\05.AccountBalance\bin\Debug\netcoreapp3.1\05.AccountBalance.dll
+D:\SoftUni\Loops - Part 2 - Lab\05.AccountBalance\05.AccountBalance\bin\Debug\netcoreapp3.1\05.AccountBalance.pdb
+D:\SoftUni\Loops - Part 2 - Lab\05.AccountBalance\05.AccountBalance\obj\Debug\netcoreapp3.1\05.AccountBalance.AssemblyInfoInputs.cache
+D:\SoftUni\Loops - Part 2 - Lab\05.AccountBalance\05.AccountBalance\obj\Debug\netcoreapp3.1\05.AccountBalance.AssemblyInfo.cs
+D:\SoftUni\Loops - Part 2 - Lab\05.AccountBalance\05.AccountBalance\obj\Debug\netcoreapp3.1\05.AccountBalance.dll
+D:\SoftUni\Loops - Part 2 - Lab\05.AccountBalance\05.AccountBalance\obj\Debug\netcoreapp3.1\05.AccountBalance.pdb
