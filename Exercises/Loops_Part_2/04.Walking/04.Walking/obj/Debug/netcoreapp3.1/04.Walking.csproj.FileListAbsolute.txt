@@ -1,0 +1,10 @@
+D:\SoftUni\Loops - Part 2 - Exercise\04.Walking\04.Walking\bin\Debug\netcoreapp3.1\04.Walking.exe
+D:\SoftUni\Loops - Part 2 - Exercise\04.Walking\04.Walking\bin\Debug\netcoreapp3.1\04.Walking.deps.json
+D:\SoftUni\Loops - Part 2 - Exercise\04.Walking\04.Walking\bin\Debug\netcoreapp3.1\04.Walking.runtimeconfig.json
+D:\SoftUni\Loops - Part 2 - Exercise\04.Walking\04.Walking\bin\Debug\netcoreapp3.1\04.Walking.runtimeconfig.dev.json
+D:\SoftUni\Loops - Part 2 - Exercise\04.Walking\04.Walking\bin\Debug\netcoreapp3.1\04.Walking.dll
+D:\SoftUni\Loops - Part 2 - Exercise\04.Walking\04.Walking\bin\Debug\netcoreapp3.1\04.Walking.pdb
+D:\SoftUni\Loops - Part 2 - Exercise\04.Walking\04.Walking\obj\Debug\netcoreapp3.1\04.Walking.AssemblyInfoInputs.cache
+D:\SoftUni\Loops - Part 2 - Exercise\04.Walking\04.Walking\obj\Debug\netcoreapp3.1\04.Walking.AssemblyInfo.cs
+D:\SoftUni\Loops - Part 2 - Exercise\04.Walking\04.Walking\obj\Debug\netcoreapp3.1\04.Walking.dll
+D:\SoftUni\Loops - Part 2 - Exercise\04.Walking\04.Walking\obj\Debug\netcoreapp3.1\04.Walking.pdb
