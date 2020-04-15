@@ -1,0 +1,11 @@
+D:\SoftUni\Conditional Statements Advanced - Exercise\09.OnTimeForTheExam\09.OnTimeForTheExam\bin\Debug\netcoreapp3.1\09.OnTimeForTheExam.exe
+D:\SoftUni\Conditional Statements Advanced - Exercise\09.OnTimeForTheExam\09.OnTimeForTheExam\bin\Debug\netcoreapp3.1\09.OnTimeForTheExam.deps.json
+D:\SoftUni\Conditional Statements Advanced - Exercise\09.OnTimeForTheExam\09.OnTimeForTheExam\bin\Debug\netcoreapp3.1\09.OnTimeForTheExam.runtimeconfig.json
+D:\SoftUni\Conditional Statements Advanced - Exercise\09.OnTimeForTheExam\09.OnTimeForTheExam\bin\Debug\netcoreapp3.1\09.OnTimeForTheExam.runtimeconfig.dev.json
+D:\SoftUni\Conditional Statements Advanced - Exercise\09.OnTimeForTheExam\09.OnTimeForTheExam\bin\Debug\netcoreapp3.1\09.OnTimeForTheExam.dll
+D:\SoftUni\Conditional Statements Advanced - Exercise\09.OnTimeForTheExam\09.OnTimeForTheExam\bin\Debug\netcoreapp3.1\09.OnTimeForTheExam.pdb
+D:\SoftUni\Conditional Statements Advanced - Exercise\09.OnTimeForTheExam\09.OnTimeForTheExam\obj\Debug\netcoreapp3.1\09.OnTimeForTheExam.csprojAssemblyReference.cache
+D:\SoftUni\Conditional Statements Advanced - Exercise\09.OnTimeForTheExam\09.OnTimeForTheExam\obj\Debug\netcoreapp3.1\09.OnTimeForTheExam.AssemblyInfoInputs.cache
+D:\SoftUni\Conditional Statements Advanced - Exercise\09.OnTimeForTheExam\09.OnTimeForTheExam\obj\Debug\netcoreapp3.1\09.OnTimeForTheExam.AssemblyInfo.cs
+D:\SoftUni\Conditional Statements Advanced - Exercise\09.OnTimeForTheExam\09.OnTimeForTheExam\obj\Debug\netcoreapp3.1\09.OnTimeForTheExam.dll
+D:\SoftUni\Conditional Statements Advanced - Exercise\09.OnTimeForTheExam\09.OnTimeForTheExam\obj\Debug\netcoreapp3.1\09.OnTimeForTheExam.pdb
