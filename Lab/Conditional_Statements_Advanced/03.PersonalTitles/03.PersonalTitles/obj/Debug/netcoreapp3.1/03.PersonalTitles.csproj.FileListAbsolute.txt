@@ -1,0 +1,11 @@
+D:\SoftUni\Conditional Statements Advanced - Lab\03.PersonalTitles\03.PersonalTitles\bin\Debug\netcoreapp3.1\03.PersonalTitles.exe
+D:\SoftUni\Conditional Statements Advanced - Lab\03.PersonalTitles\03.PersonalTitles\bin\Debug\netcoreapp3.1\03.PersonalTitles.deps.json
+D:\SoftUni\Conditional Statements Advanced - Lab\03.PersonalTitles\03.PersonalTitles\bin\Debug\netcoreapp3.1\03.PersonalTitles.runtimeconfig.json
+D:\SoftUni\Conditional Statements Advanced - Lab\03.PersonalTitles\03.PersonalTitles\bin\Debug\netcoreapp3.1\03.PersonalTitles.runtimeconfig.dev.json
+D:\SoftUni\Conditional Statements Advanced - Lab\03.PersonalTitles\03.PersonalTitles\bin\Debug\netcoreapp3.1\03.PersonalTitles.dll
+D:\SoftUni\Conditional Statements Advanced - Lab\03.PersonalTitles\03.PersonalTitles\bin\Debug\netcoreapp3.1\03.PersonalTitles.pdb
+D:\SoftUni\Conditional Statements Advanced - Lab\03.PersonalTitles\03.PersonalTitles\obj\Debug\netcoreapp3.1\03.PersonalTitles.csprojAssemblyReference.cache
+D:\SoftUni\Conditional Statements Advanced - Lab\03.PersonalTitles\03.PersonalTitles\obj\Debug\netcoreapp3.1\03.PersonalTitles.AssemblyInfoInputs.cache
+D:\SoftUni\Conditional Statements Advanced - Lab\03.PersonalTitles\03.PersonalTitles\obj\Debug\netcoreapp3.1\03.PersonalTitles.AssemblyInfo.cs
+D:\SoftUni\Conditional Statements Advanced - Lab\03.PersonalTitles\03.PersonalTitles\obj\Debug\netcoreapp3.1\03.PersonalTitles.dll
+D:\SoftUni\Conditional Statements Advanced - Lab\03.PersonalTitles\03.PersonalTitles\obj\Debug\netcoreapp3.1\03.PersonalTitles.pdb
