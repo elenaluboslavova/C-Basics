@@ -1,0 +1,10 @@
+D:\SoftUni\More Exercises\Nested Loops\10.Profit\10.Profit\bin\Debug\netcoreapp3.1\10.Profit.exe
+D:\SoftUni\More Exercises\Nested Loops\10.Profit\10.Profit\bin\Debug\netcoreapp3.1\10.Profit.deps.json
+D:\SoftUni\More Exercises\Nested Loops\10.Profit\10.Profit\bin\Debug\netcoreapp3.1\10.Profit.runtimeconfig.json
+D:\SoftUni\More Exercises\Nested Loops\10.Profit\10.Profit\bin\Debug\netcoreapp3.1\10.Profit.runtimeconfig.dev.json
+D:\SoftUni\More Exercises\Nested Loops\10.Profit\10.Profit\bin\Debug\netcoreapp3.1\10.Profit.dll
+D:\SoftUni\More Exercises\Nested Loops\10.Profit\10.Profit\bin\Debug\netcoreapp3.1\10.Profit.pdb
+D:\SoftUni\More Exercises\Nested Loops\10.Profit\10.Profit\obj\Debug\netcoreapp3.1\10.Profit.AssemblyInfoInputs.cache
+D:\SoftUni\More Exercises\Nested Loops\10.Profit\10.Profit\obj\Debug\netcoreapp3.1\10.Profit.AssemblyInfo.cs
+D:\SoftUni\More Exercises\Nested Loops\10.Profit\10.Profit\obj\Debug\netcoreapp3.1\10.Profit.dll
+D:\SoftUni\More Exercises\Nested Loops\10.Profit\10.Profit\obj\Debug\netcoreapp3.1\10.Profit.pdb
