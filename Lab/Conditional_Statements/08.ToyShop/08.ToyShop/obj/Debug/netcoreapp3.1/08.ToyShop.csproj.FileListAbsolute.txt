@@ -1,0 +1,10 @@
+D:\SoftUni\ConditionalStatements-Lab\08.ToyShop\08.ToyShop\bin\Debug\netcoreapp3.1\08.ToyShop.exe
+D:\SoftUni\ConditionalStatements-Lab\08.ToyShop\08.ToyShop\bin\Debug\netcoreapp3.1\08.ToyShop.deps.json
+D:\SoftUni\ConditionalStatements-Lab\08.ToyShop\08.ToyShop\bin\Debug\netcoreapp3.1\08.ToyShop.runtimeconfig.json
+D:\SoftUni\ConditionalStatements-Lab\08.ToyShop\08.ToyShop\bin\Debug\netcoreapp3.1\08.ToyShop.runtimeconfig.dev.json
+D:\SoftUni\ConditionalStatements-Lab\08.ToyShop\08.ToyShop\bin\Debug\netcoreapp3.1\08.ToyShop.dll
+D:\SoftUni\ConditionalStatements-Lab\08.ToyShop\08.ToyShop\bin\Debug\netcoreapp3.1\08.ToyShop.pdb
+D:\SoftUni\ConditionalStatements-Lab\08.ToyShop\08.ToyShop\obj\Debug\netcoreapp3.1\08.ToyShop.AssemblyInfoInputs.cache
+D:\SoftUni\ConditionalStatements-Lab\08.ToyShop\08.ToyShop\obj\Debug\netcoreapp3.1\08.ToyShop.AssemblyInfo.cs
+D:\SoftUni\ConditionalStatements-Lab\08.ToyShop\08.ToyShop\obj\Debug\netcoreapp3.1\08.ToyShop.dll
+D:\SoftUni\ConditionalStatements-Lab\08.ToyShop\08.ToyShop\obj\Debug\netcoreapp3.1\08.ToyShop.pdb
