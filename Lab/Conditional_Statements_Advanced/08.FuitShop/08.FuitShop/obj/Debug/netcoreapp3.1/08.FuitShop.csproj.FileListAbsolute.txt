@@ -1,0 +1,11 @@
+D:\SoftUni\Conditional Statements Advanced - Lab\08.FuitShop\08.FuitShop\bin\Debug\netcoreapp3.1\08.FuitShop.exe
+D:\SoftUni\Conditional Statements Advanced - Lab\08.FuitShop\08.FuitShop\bin\Debug\netcoreapp3.1\08.FuitShop.deps.json
+D:\SoftUni\Conditional Statements Advanced - Lab\08.FuitShop\08.FuitShop\bin\Debug\netcoreapp3.1\08.FuitShop.runtimeconfig.json
+D:\SoftUni\Conditional Statements Advanced - Lab\08.FuitShop\08.FuitShop\bin\Debug\netcoreapp3.1\08.FuitShop.runtimeconfig.dev.json
+D:\SoftUni\Conditional Statements Advanced - Lab\08.FuitShop\08.FuitShop\bin\Debug\netcoreapp3.1\08.FuitShop.dll
+D:\SoftUni\Conditional Statements Advanced - Lab\08.FuitShop\08.FuitShop\bin\Debug\netcoreapp3.1\08.FuitShop.pdb
+D:\SoftUni\Conditional Statements Advanced - Lab\08.FuitShop\08.FuitShop\obj\Debug\netcoreapp3.1\08.FuitShop.csprojAssemblyReference.cache
+D:\SoftUni\Conditional Statements Advanced - Lab\08.FuitShop\08.FuitShop\obj\Debug\netcoreapp3.1\08.FuitShop.AssemblyInfoInputs.cache
+D:\SoftUni\Conditional Statements Advanced - Lab\08.FuitShop\08.FuitShop\obj\Debug\netcoreapp3.1\08.FuitShop.AssemblyInfo.cs
+D:\SoftUni\Conditional Statements Advanced - Lab\08.FuitShop\08.FuitShop\obj\Debug\netcoreapp3.1\08.FuitShop.dll
+D:\SoftUni\Conditional Statements Advanced - Lab\08.FuitShop\08.FuitShop\obj\Debug\netcoreapp3.1\08.FuitShop.pdb
