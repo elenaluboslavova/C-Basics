@@ -1,0 +1,11 @@
+D:\SoftUni\Loops - Part 2 - Exercise\05.Coins\05.Coins\bin\Debug\netcoreapp3.1\05.Coins.exe
+D:\SoftUni\Loops - Part 2 - Exercise\05.Coins\05.Coins\bin\Debug\netcoreapp3.1\05.Coins.deps.json
+D:\SoftUni\Loops - Part 2 - Exercise\05.Coins\05.Coins\bin\Debug\netcoreapp3.1\05.Coins.runtimeconfig.json
+D:\SoftUni\Loops - Part 2 - Exercise\05.Coins\05.Coins\bin\Debug\netcoreapp3.1\05.Coins.runtimeconfig.dev.json
+D:\SoftUni\Loops - Part 2 - Exercise\05.Coins\05.Coins\bin\Debug\netcoreapp3.1\05.Coins.dll
+D:\SoftUni\Loops - Part 2 - Exercise\05.Coins\05.Coins\bin\Debug\netcoreapp3.1\05.Coins.pdb
+D:\SoftUni\Loops - Part 2 - Exercise\05.Coins\05.Coins\obj\Debug\netcoreapp3.1\05.Coins.csprojAssemblyReference.cache
+D:\SoftUni\Loops - Part 2 - Exercise\05.Coins\05.Coins\obj\Debug\netcoreapp3.1\05.Coins.AssemblyInfoInputs.cache
+D:\SoftUni\Loops - Part 2 - Exercise\05.Coins\05.Coins\obj\Debug\netcoreapp3.1\05.Coins.AssemblyInfo.cs
+D:\SoftUni\Loops - Part 2 - Exercise\05.Coins\05.Coins\obj\Debug\netcoreapp3.1\05.Coins.dll
+D:\SoftUni\Loops - Part 2 - Exercise\05.Coins\05.Coins\obj\Debug\netcoreapp3.1\05.Coins.pdb
