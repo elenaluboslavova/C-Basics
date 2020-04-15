@@ -1,0 +1,11 @@
+D:\SoftUni\Loops - Part 2 - Exercise\06.Cake\06.Cake\bin\Debug\netcoreapp3.1\06.Cake.exe
+D:\SoftUni\Loops - Part 2 - Exercise\06.Cake\06.Cake\bin\Debug\netcoreapp3.1\06.Cake.deps.json
+D:\SoftUni\Loops - Part 2 - Exercise\06.Cake\06.Cake\bin\Debug\netcoreapp3.1\06.Cake.runtimeconfig.json
+D:\SoftUni\Loops - Part 2 - Exercise\06.Cake\06.Cake\bin\Debug\netcoreapp3.1\06.Cake.runtimeconfig.dev.json
+D:\SoftUni\Loops - Part 2 - Exercise\06.Cake\06.Cake\bin\Debug\netcoreapp3.1\06.Cake.dll
+D:\SoftUni\Loops - Part 2 - Exercise\06.Cake\06.Cake\bin\Debug\netcoreapp3.1\06.Cake.pdb
+D:\SoftUni\Loops - Part 2 - Exercise\06.Cake\06.Cake\obj\Debug\netcoreapp3.1\06.Cake.csprojAssemblyReference.cache
+D:\SoftUni\Loops - Part 2 - Exercise\06.Cake\06.Cake\obj\Debug\netcoreapp3.1\06.Cake.AssemblyInfoInputs.cache
+D:\SoftUni\Loops - Part 2 - Exercise\06.Cake\06.Cake\obj\Debug\netcoreapp3.1\06.Cake.AssemblyInfo.cs
+D:\SoftUni\Loops - Part 2 - Exercise\06.Cake\06.Cake\obj\Debug\netcoreapp3.1\06.Cake.dll
+D:\SoftUni\Loops - Part 2 - Exercise\06.Cake\06.Cake\obj\Debug\netcoreapp3.1\06.Cake.pdb
