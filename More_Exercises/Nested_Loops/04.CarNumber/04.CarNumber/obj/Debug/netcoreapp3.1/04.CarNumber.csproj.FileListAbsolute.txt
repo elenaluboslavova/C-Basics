@@ -1,0 +1,10 @@
+D:\SoftUni\More Exercises\Nested Loops\04.CarNumber\04.CarNumber\bin\Debug\netcoreapp3.1\04.CarNumber.exe
+D:\SoftUni\More Exercises\Nested Loops\04.CarNumber\04.CarNumber\bin\Debug\netcoreapp3.1\04.CarNumber.deps.json
+D:\SoftUni\More Exercises\Nested Loops\04.CarNumber\04.CarNumber\bin\Debug\netcoreapp3.1\04.CarNumber.runtimeconfig.json
+D:\SoftUni\More Exercises\Nested Loops\04.CarNumber\04.CarNumber\bin\Debug\netcoreapp3.1\04.CarNumber.runtimeconfig.dev.json
+D:\SoftUni\More Exercises\Nested Loops\04.CarNumber\04.CarNumber\bin\Debug\netcoreapp3.1\04.CarNumber.dll
+D:\SoftUni\More Exercises\Nested Loops\04.CarNumber\04.CarNumber\bin\Debug\netcoreapp3.1\04.CarNumber.pdb
+D:\SoftUni\More Exercises\Nested Loops\04.CarNumber\04.CarNumber\obj\Debug\netcoreapp3.1\04.CarNumber.AssemblyInfoInputs.cache
+D:\SoftUni\More Exercises\Nested Loops\04.CarNumber\04.CarNumber\obj\Debug\netcoreapp3.1\04.CarNumber.AssemblyInfo.cs
+D:\SoftUni\More Exercises\Nested Loops\04.CarNumber\04.CarNumber\obj\Debug\netcoreapp3.1\04.CarNumber.dll
+D:\SoftUni\More Exercises\Nested Loops\04.CarNumber\04.CarNumber\obj\Debug\netcoreapp3.1\04.CarNumber.pdb
