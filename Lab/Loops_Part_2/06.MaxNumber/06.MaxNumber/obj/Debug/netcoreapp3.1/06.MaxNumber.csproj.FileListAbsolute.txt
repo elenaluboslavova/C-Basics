@@ -1,0 +1,11 @@
+D:\SoftUni\Loops - Part 2 - Lab\06.MaxNumber\06.MaxNumber\bin\Debug\netcoreapp3.1\06.MaxNumber.exe
+D:\SoftUni\Loops - Part 2 - Lab\06.MaxNumber\06.MaxNumber\bin\Debug\netcoreapp3.1\06.MaxNumber.deps.json
+D:\SoftUni\Loops - Part 2 - Lab\06.MaxNumber\06.MaxNumber\bin\Debug\netcoreapp3.1\06.MaxNumber.runtimeconfig.json
+D:\SoftUni\Loops - Part 2 - Lab\06.MaxNumber\06.MaxNumber\bin\Debug\netcoreapp3.1\06.MaxNumber.runtimeconfig.dev.json
+D:\SoftUni\Loops - Part 2 - Lab\06.MaxNumber\06.MaxNumber\bin\Debug\netcoreapp3.1\06.MaxNumber.dll
+D:\SoftUni\Loops - Part 2 - Lab\06.MaxNumber\06.MaxNumber\bin\Debug\netcoreapp3.1\06.MaxNumber.pdb
+D:\SoftUni\Loops - Part 2 - Lab\06.MaxNumber\06.MaxNumber\obj\Debug\netcoreapp3.1\06.MaxNumber.csprojAssemblyReference.cache
+D:\SoftUni\Loops - Part 2 - Lab\06.MaxNumber\06.MaxNumber\obj\Debug\netcoreapp3.1\06.MaxNumber.AssemblyInfoInputs.cache
+D:\SoftUni\Loops - Part 2 - Lab\06.MaxNumber\06.MaxNumber\obj\Debug\netcoreapp3.1\06.MaxNumber.AssemblyInfo.cs
+D:\SoftUni\Loops - Part 2 - Lab\06.MaxNumber\06.MaxNumber\obj\Debug\netcoreapp3.1\06.MaxNumber.dll
+D:\SoftUni\Loops - Part 2 - Lab\06.MaxNumber\06.MaxNumber\obj\Debug\netcoreapp3.1\06.MaxNumber.pdb
