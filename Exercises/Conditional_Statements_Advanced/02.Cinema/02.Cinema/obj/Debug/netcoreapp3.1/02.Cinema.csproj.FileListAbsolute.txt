@@ -1,0 +1,10 @@
+D:\SoftUni\Conditional Statements Advanced - Exercise\02.Cinema\02.Cinema\bin\Debug\netcoreapp3.1\02.Cinema.exe
+D:\SoftUni\Conditional Statements Advanced - Exercise\02.Cinema\02.Cinema\bin\Debug\netcoreapp3.1\02.Cinema.deps.json
+D:\SoftUni\Conditional Statements Advanced - Exercise\02.Cinema\02.Cinema\bin\Debug\netcoreapp3.1\02.Cinema.runtimeconfig.json
+D:\SoftUni\Conditional Statements Advanced - Exercise\02.Cinema\02.Cinema\bin\Debug\netcoreapp3.1\02.Cinema.runtimeconfig.dev.json
+D:\SoftUni\Conditional Statements Advanced - Exercise\02.Cinema\02.Cinema\bin\Debug\netcoreapp3.1\02.Cinema.dll
+D:\SoftUni\Conditional Statements Advanced - Exercise\02.Cinema\02.Cinema\bin\Debug\netcoreapp3.1\02.Cinema.pdb
+D:\SoftUni\Conditional Statements Advanced - Exercise\02.Cinema\02.Cinema\obj\Debug\netcoreapp3.1\02.Cinema.AssemblyInfoInputs.cache
+D:\SoftUni\Conditional Statements Advanced - Exercise\02.Cinema\02.Cinema\obj\Debug\netcoreapp3.1\02.Cinema.AssemblyInfo.cs
+D:\SoftUni\Conditional Statements Advanced - Exercise\02.Cinema\02.Cinema\obj\Debug\netcoreapp3.1\02.Cinema.dll
+D:\SoftUni\Conditional Statements Advanced - Exercise\02.Cinema\02.Cinema\obj\Debug\netcoreapp3.1\02.Cinema.pdb
