@@ -1,0 +1,11 @@
+D:\SoftUni\SimpleOperationsAndCalculations-Exercise\02.RadiansToDegrees\bin\Debug\netcoreapp3.1\02.RadiansToDegrees.exe
+D:\SoftUni\SimpleOperationsAndCalculations-Exercise\02.RadiansToDegrees\bin\Debug\netcoreapp3.1\02.RadiansToDegrees.deps.json
+D:\SoftUni\SimpleOperationsAndCalculations-Exercise\02.RadiansToDegrees\bin\Debug\netcoreapp3.1\02.RadiansToDegrees.runtimeconfig.json
+D:\SoftUni\SimpleOperationsAndCalculations-Exercise\02.RadiansToDegrees\bin\Debug\netcoreapp3.1\02.RadiansToDegrees.runtimeconfig.dev.json
+D:\SoftUni\SimpleOperationsAndCalculations-Exercise\02.RadiansToDegrees\bin\Debug\netcoreapp3.1\02.RadiansToDegrees.dll
+D:\SoftUni\SimpleOperationsAndCalculations-Exercise\02.RadiansToDegrees\bin\Debug\netcoreapp3.1\02.RadiansToDegrees.pdb
+D:\SoftUni\SimpleOperationsAndCalculations-Exercise\02.RadiansToDegrees\obj\Debug\netcoreapp3.1\02.RadiansToDegrees.csprojAssemblyReference.cache
+D:\SoftUni\SimpleOperationsAndCalculations-Exercise\02.RadiansToDegrees\obj\Debug\netcoreapp3.1\02.RadiansToDegrees.AssemblyInfoInputs.cache
+D:\SoftUni\SimpleOperationsAndCalculations-Exercise\02.RadiansToDegrees\obj\Debug\netcoreapp3.1\02.RadiansToDegrees.AssemblyInfo.cs
+D:\SoftUni\SimpleOperationsAndCalculations-Exercise\02.RadiansToDegrees\obj\Debug\netcoreapp3.1\02.RadiansToDegrees.dll
+D:\SoftUni\SimpleOperationsAndCalculations-Exercise\02.RadiansToDegrees\obj\Debug\netcoreapp3.1\02.RadiansToDegrees.pdb
