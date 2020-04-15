@@ -1,0 +1,11 @@
+D:\SoftUni\SimpleOperationsAndCalculations-Lab\07.YardGardening\bin\Debug\netcoreapp3.1\07.YardGardening.exe
+D:\SoftUni\SimpleOperationsAndCalculations-Lab\07.YardGardening\bin\Debug\netcoreapp3.1\07.YardGardening.deps.json
+D:\SoftUni\SimpleOperationsAndCalculations-Lab\07.YardGardening\bin\Debug\netcoreapp3.1\07.YardGardening.runtimeconfig.json
+D:\SoftUni\SimpleOperationsAndCalculations-Lab\07.YardGardening\bin\Debug\netcoreapp3.1\07.YardGardening.runtimeconfig.dev.json
+D:\SoftUni\SimpleOperationsAndCalculations-Lab\07.YardGardening\bin\Debug\netcoreapp3.1\07.YardGardening.dll
+D:\SoftUni\SimpleOperationsAndCalculations-Lab\07.YardGardening\bin\Debug\netcoreapp3.1\07.YardGardening.pdb
+D:\SoftUni\SimpleOperationsAndCalculations-Lab\07.YardGardening\obj\Debug\netcoreapp3.1\07.YardGardening.csprojAssemblyReference.cache
+D:\SoftUni\SimpleOperationsAndCalculations-Lab\07.YardGardening\obj\Debug\netcoreapp3.1\07.YardGardening.AssemblyInfoInputs.cache
+D:\SoftUni\SimpleOperationsAndCalculations-Lab\07.YardGardening\obj\Debug\netcoreapp3.1\07.YardGardening.AssemblyInfo.cs
+D:\SoftUni\SimpleOperationsAndCalculations-Lab\07.YardGardening\obj\Debug\netcoreapp3.1\07.YardGardening.dll
+D:\SoftUni\SimpleOperationsAndCalculations-Lab\07.YardGardening\obj\Debug\netcoreapp3.1\07.YardGardening.pdb
