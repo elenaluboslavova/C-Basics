@@ -1,0 +1,11 @@
+D:\SoftUni\More Exercises\For-Loop\01.BackToThePast\01.BackToThePast\bin\Debug\netcoreapp3.1\01.BackToThePast.exe
+D:\SoftUni\More Exercises\For-Loop\01.BackToThePast\01.BackToThePast\bin\Debug\netcoreapp3.1\01.BackToThePast.deps.json
+D:\SoftUni\More Exercises\For-Loop\01.BackToThePast\01.BackToThePast\bin\Debug\netcoreapp3.1\01.BackToThePast.runtimeconfig.json
+D:\SoftUni\More Exercises\For-Loop\01.BackToThePast\01.BackToThePast\bin\Debug\netcoreapp3.1\01.BackToThePast.runtimeconfig.dev.json
+D:\SoftUni\More Exercises\For-Loop\01.BackToThePast\01.BackToThePast\bin\Debug\netcoreapp3.1\01.BackToThePast.dll
+D:\SoftUni\More Exercises\For-Loop\01.BackToThePast\01.BackToThePast\bin\Debug\netcoreapp3.1\01.BackToThePast.pdb
+D:\SoftUni\More Exercises\For-Loop\01.BackToThePast\01.BackToThePast\obj\Debug\netcoreapp3.1\01.BackToThePast.csprojAssemblyReference.cache
+D:\SoftUni\More Exercises\For-Loop\01.BackToThePast\01.BackToThePast\obj\Debug\netcoreapp3.1\01.BackToThePast.AssemblyInfoInputs.cache
+D:\SoftUni\More Exercises\For-Loop\01.BackToThePast\01.BackToThePast\obj\Debug\netcoreapp3.1\01.BackToThePast.AssemblyInfo.cs
+D:\SoftUni\More Exercises\For-Loop\01.BackToThePast\01.BackToThePast\obj\Debug\netcoreapp3.1\01.BackToThePast.dll
+D:\SoftUni\More Exercises\For-Loop\01.BackToThePast\01.BackToThePast\obj\Debug\netcoreapp3.1\01.BackToThePast.pdb
