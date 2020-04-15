@@ -1,0 +1,11 @@
+D:\SoftUni\More Exercises\For-Loop\06.Bills\06.Bills\bin\Debug\netcoreapp3.1\06.Bills.exe
+D:\SoftUni\More Exercises\For-Loop\06.Bills\06.Bills\bin\Debug\netcoreapp3.1\06.Bills.deps.json
+D:\SoftUni\More Exercises\For-Loop\06.Bills\06.Bills\bin\Debug\netcoreapp3.1\06.Bills.runtimeconfig.json
+D:\SoftUni\More Exercises\For-Loop\06.Bills\06.Bills\bin\Debug\netcoreapp3.1\06.Bills.runtimeconfig.dev.json
+D:\SoftUni\More Exercises\For-Loop\06.Bills\06.Bills\bin\Debug\netcoreapp3.1\06.Bills.dll
+D:\SoftUni\More Exercises\For-Loop\06.Bills\06.Bills\bin\Debug\netcoreapp3.1\06.Bills.pdb
+D:\SoftUni\More Exercises\For-Loop\06.Bills\06.Bills\obj\Debug\netcoreapp3.1\06.Bills.csprojAssemblyReference.cache
+D:\SoftUni\More Exercises\For-Loop\06.Bills\06.Bills\obj\Debug\netcoreapp3.1\06.Bills.AssemblyInfoInputs.cache
+D:\SoftUni\More Exercises\For-Loop\06.Bills\06.Bills\obj\Debug\netcoreapp3.1\06.Bills.AssemblyInfo.cs
+D:\SoftUni\More Exercises\For-Loop\06.Bills\06.Bills\obj\Debug\netcoreapp3.1\06.Bills.dll
+D:\SoftUni\More Exercises\For-Loop\06.Bills\06.Bills\obj\Debug\netcoreapp3.1\06.Bills.pdb
