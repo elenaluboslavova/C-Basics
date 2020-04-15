@@ -1,0 +1,11 @@
+D:\SoftUni\SimpleOperationsAndCalculations-MoreExercises\03.CelsiusToFahrenheit\bin\Debug\netcoreapp3.1\03.CelsiusToFahrenheit.exe
+D:\SoftUni\SimpleOperationsAndCalculations-MoreExercises\03.CelsiusToFahrenheit\bin\Debug\netcoreapp3.1\03.CelsiusToFahrenheit.deps.json
+D:\SoftUni\SimpleOperationsAndCalculations-MoreExercises\03.CelsiusToFahrenheit\bin\Debug\netcoreapp3.1\03.CelsiusToFahrenheit.runtimeconfig.json
+D:\SoftUni\SimpleOperationsAndCalculations-MoreExercises\03.CelsiusToFahrenheit\bin\Debug\netcoreapp3.1\03.CelsiusToFahrenheit.runtimeconfig.dev.json
+D:\SoftUni\SimpleOperationsAndCalculations-MoreExercises\03.CelsiusToFahrenheit\bin\Debug\netcoreapp3.1\03.CelsiusToFahrenheit.dll
+D:\SoftUni\SimpleOperationsAndCalculations-MoreExercises\03.CelsiusToFahrenheit\bin\Debug\netcoreapp3.1\03.CelsiusToFahrenheit.pdb
+D:\SoftUni\SimpleOperationsAndCalculations-MoreExercises\03.CelsiusToFahrenheit\obj\Debug\netcoreapp3.1\03.CelsiusToFahrenheit.csprojAssemblyReference.cache
+D:\SoftUni\SimpleOperationsAndCalculations-MoreExercises\03.CelsiusToFahrenheit\obj\Debug\netcoreapp3.1\03.CelsiusToFahrenheit.AssemblyInfoInputs.cache
+D:\SoftUni\SimpleOperationsAndCalculations-MoreExercises\03.CelsiusToFahrenheit\obj\Debug\netcoreapp3.1\03.CelsiusToFahrenheit.AssemblyInfo.cs
+D:\SoftUni\SimpleOperationsAndCalculations-MoreExercises\03.CelsiusToFahrenheit\obj\Debug\netcoreapp3.1\03.CelsiusToFahrenheit.dll
+D:\SoftUni\SimpleOperationsAndCalculations-MoreExercises\03.CelsiusToFahrenheit\obj\Debug\netcoreapp3.1\03.CelsiusToFahrenheit.pdb
