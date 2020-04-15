@@ -1,0 +1,10 @@
+D:\SoftUni\SimpleOperationsAndCalculations-MoreExercises\07.HousePainting\07.HousePainting\bin\Debug\netcoreapp3.1\07.HousePainting.exe
+D:\SoftUni\SimpleOperationsAndCalculations-MoreExercises\07.HousePainting\07.HousePainting\bin\Debug\netcoreapp3.1\07.HousePainting.deps.json
+D:\SoftUni\SimpleOperationsAndCalculations-MoreExercises\07.HousePainting\07.HousePainting\bin\Debug\netcoreapp3.1\07.HousePainting.runtimeconfig.json
+D:\SoftUni\SimpleOperationsAndCalculations-MoreExercises\07.HousePainting\07.HousePainting\bin\Debug\netcoreapp3.1\07.HousePainting.runtimeconfig.dev.json
+D:\SoftUni\SimpleOperationsAndCalculations-MoreExercises\07.HousePainting\07.HousePainting\bin\Debug\netcoreapp3.1\07.HousePainting.dll
+D:\SoftUni\SimpleOperationsAndCalculations-MoreExercises\07.HousePainting\07.HousePainting\bin\Debug\netcoreapp3.1\07.HousePainting.pdb
+D:\SoftUni\SimpleOperationsAndCalculations-MoreExercises\07.HousePainting\07.HousePainting\obj\Debug\netcoreapp3.1\07.HousePainting.AssemblyInfoInputs.cache
+D:\SoftUni\SimpleOperationsAndCalculations-MoreExercises\07.HousePainting\07.HousePainting\obj\Debug\netcoreapp3.1\07.HousePainting.AssemblyInfo.cs
+D:\SoftUni\SimpleOperationsAndCalculations-MoreExercises\07.HousePainting\07.HousePainting\obj\Debug\netcoreapp3.1\07.HousePainting.dll
+D:\SoftUni\SimpleOperationsAndCalculations-MoreExercises\07.HousePainting\07.HousePainting\obj\Debug\netcoreapp3.1\07.HousePainting.pdb
