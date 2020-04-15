@@ -1,0 +1,11 @@
+D:\SoftUni\Greeting\Square\bin\Debug\netcoreapp3.1\Square.exe
+D:\SoftUni\Greeting\Square\bin\Debug\netcoreapp3.1\Square.deps.json
+D:\SoftUni\Greeting\Square\bin\Debug\netcoreapp3.1\Square.runtimeconfig.json
+D:\SoftUni\Greeting\Square\bin\Debug\netcoreapp3.1\Square.runtimeconfig.dev.json
+D:\SoftUni\Greeting\Square\bin\Debug\netcoreapp3.1\Square.dll
+D:\SoftUni\Greeting\Square\bin\Debug\netcoreapp3.1\Square.pdb
+D:\SoftUni\Greeting\Square\obj\Debug\netcoreapp3.1\Square.csprojAssemblyReference.cache
+D:\SoftUni\Greeting\Square\obj\Debug\netcoreapp3.1\Square.AssemblyInfoInputs.cache
+D:\SoftUni\Greeting\Square\obj\Debug\netcoreapp3.1\Square.AssemblyInfo.cs
+D:\SoftUni\Greeting\Square\obj\Debug\netcoreapp3.1\Square.dll
+D:\SoftUni\Greeting\Square\obj\Debug\netcoreapp3.1\Square.pdb
