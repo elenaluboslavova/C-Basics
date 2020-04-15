@@ -1,0 +1,10 @@
+D:\SoftUni\Loops - Part 2 - Lab\07.MinNumber\07.MinNumber\bin\Debug\netcoreapp3.1\07.MinNumber.exe
+D:\SoftUni\Loops - Part 2 - Lab\07.MinNumber\07.MinNumber\bin\Debug\netcoreapp3.1\07.MinNumber.deps.json
+D:\SoftUni\Loops - Part 2 - Lab\07.MinNumber\07.MinNumber\bin\Debug\netcoreapp3.1\07.MinNumber.runtimeconfig.json
+D:\SoftUni\Loops - Part 2 - Lab\07.MinNumber\07.MinNumber\bin\Debug\netcoreapp3.1\07.MinNumber.runtimeconfig.dev.json
+D:\SoftUni\Loops - Part 2 - Lab\07.MinNumber\07.MinNumber\bin\Debug\netcoreapp3.1\07.MinNumber.dll
+D:\SoftUni\Loops - Part 2 - Lab\07.MinNumber\07.MinNumber\bin\Debug\netcoreapp3.1\07.MinNumber.pdb
+D:\SoftUni\Loops - Part 2 - Lab\07.MinNumber\07.MinNumber\obj\Debug\netcoreapp3.1\07.MinNumber.AssemblyInfoInputs.cache
+D:\SoftUni\Loops - Part 2 - Lab\07.MinNumber\07.MinNumber\obj\Debug\netcoreapp3.1\07.MinNumber.AssemblyInfo.cs
+D:\SoftUni\Loops - Part 2 - Lab\07.MinNumber\07.MinNumber\obj\Debug\netcoreapp3.1\07.MinNumber.dll
+D:\SoftUni\Loops - Part 2 - Lab\07.MinNumber\07.MinNumber\obj\Debug\netcoreapp3.1\07.MinNumber.pdb
