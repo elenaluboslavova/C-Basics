@@ -1,0 +1,10 @@
+D:\SoftUni\Conditional Statements Advanced - Exercise\04.NewHouse\04.NewHouse\bin\Debug\netcoreapp3.1\04.NewHouse.exe
+D:\SoftUni\Conditional Statements Advanced - Exercise\04.NewHouse\04.NewHouse\bin\Debug\netcoreapp3.1\04.NewHouse.deps.json
+D:\SoftUni\Conditional Statements Advanced - Exercise\04.NewHouse\04.NewHouse\bin\Debug\netcoreapp3.1\04.NewHouse.runtimeconfig.json
+D:\SoftUni\Conditional Statements Advanced - Exercise\04.NewHouse\04.NewHouse\bin\Debug\netcoreapp3.1\04.NewHouse.runtimeconfig.dev.json
+D:\SoftUni\Conditional Statements Advanced - Exercise\04.NewHouse\04.NewHouse\bin\Debug\netcoreapp3.1\04.NewHouse.dll
+D:\SoftUni\Conditional Statements Advanced - Exercise\04.NewHouse\04.NewHouse\bin\Debug\netcoreapp3.1\04.NewHouse.pdb
+D:\SoftUni\Conditional Statements Advanced - Exercise\04.NewHouse\04.NewHouse\obj\Debug\netcoreapp3.1\04.NewHouse.AssemblyInfoInputs.cache
+D:\SoftUni\Conditional Statements Advanced - Exercise\04.NewHouse\04.NewHouse\obj\Debug\netcoreapp3.1\04.NewHouse.AssemblyInfo.cs
+D:\SoftUni\Conditional Statements Advanced - Exercise\04.NewHouse\04.NewHouse\obj\Debug\netcoreapp3.1\04.NewHouse.dll
+D:\SoftUni\Conditional Statements Advanced - Exercise\04.NewHouse\04.NewHouse\obj\Debug\netcoreapp3.1\04.NewHouse.pdb
