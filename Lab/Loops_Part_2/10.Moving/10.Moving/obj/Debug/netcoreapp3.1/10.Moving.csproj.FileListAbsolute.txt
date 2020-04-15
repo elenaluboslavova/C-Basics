@@ -1,0 +1,11 @@
+D:\SoftUni\Loops - Part 2 - Lab\10.Moving\10.Moving\bin\Debug\netcoreapp3.1\10.Moving.exe
+D:\SoftUni\Loops - Part 2 - Lab\10.Moving\10.Moving\bin\Debug\netcoreapp3.1\10.Moving.deps.json
+D:\SoftUni\Loops - Part 2 - Lab\10.Moving\10.Moving\bin\Debug\netcoreapp3.1\10.Moving.runtimeconfig.json
+D:\SoftUni\Loops - Part 2 - Lab\10.Moving\10.Moving\bin\Debug\netcoreapp3.1\10.Moving.runtimeconfig.dev.json
+D:\SoftUni\Loops - Part 2 - Lab\10.Moving\10.Moving\bin\Debug\netcoreapp3.1\10.Moving.dll
+D:\SoftUni\Loops - Part 2 - Lab\10.Moving\10.Moving\bin\Debug\netcoreapp3.1\10.Moving.pdb
+D:\SoftUni\Loops - Part 2 - Lab\10.Moving\10.Moving\obj\Debug\netcoreapp3.1\10.Moving.AssemblyInfoInputs.cache
+D:\SoftUni\Loops - Part 2 - Lab\10.Moving\10.Moving\obj\Debug\netcoreapp3.1\10.Moving.AssemblyInfo.cs
+D:\SoftUni\Loops - Part 2 - Lab\10.Moving\10.Moving\obj\Debug\netcoreapp3.1\10.Moving.dll
+D:\SoftUni\Loops - Part 2 - Lab\10.Moving\10.Moving\obj\Debug\netcoreapp3.1\10.Moving.pdb
+D:\SoftUni\Loops - Part 2 - Lab\10.Moving\10.Moving\obj\Debug\netcoreapp3.1\10.Moving.csprojAssemblyReference.cache
