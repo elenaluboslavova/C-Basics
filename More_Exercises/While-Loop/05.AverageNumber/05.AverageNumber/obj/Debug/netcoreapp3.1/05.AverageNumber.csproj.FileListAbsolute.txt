@@ -1,0 +1,10 @@
+D:\SoftUni\More Exercises\While-Loop\05.AverageNumber\05.AverageNumber\obj\Debug\netcoreapp3.1\05.AverageNumber.AssemblyInfoInputs.cache
+D:\SoftUni\More Exercises\While-Loop\05.AverageNumber\05.AverageNumber\obj\Debug\netcoreapp3.1\05.AverageNumber.AssemblyInfo.cs
+D:\SoftUni\More Exercises\While-Loop\05.AverageNumber\05.AverageNumber\bin\Debug\netcoreapp3.1\05.AverageNumber.exe
+D:\SoftUni\More Exercises\While-Loop\05.AverageNumber\05.AverageNumber\bin\Debug\netcoreapp3.1\05.AverageNumber.deps.json
+D:\SoftUni\More Exercises\While-Loop\05.AverageNumber\05.AverageNumber\bin\Debug\netcoreapp3.1\05.AverageNumber.runtimeconfig.json
+D:\SoftUni\More Exercises\While-Loop\05.AverageNumber\05.AverageNumber\bin\Debug\netcoreapp3.1\05.AverageNumber.runtimeconfig.dev.json
+D:\SoftUni\More Exercises\While-Loop\05.AverageNumber\05.AverageNumber\bin\Debug\netcoreapp3.1\05.AverageNumber.dll
+D:\SoftUni\More Exercises\While-Loop\05.AverageNumber\05.AverageNumber\bin\Debug\netcoreapp3.1\05.AverageNumber.pdb
+D:\SoftUni\More Exercises\While-Loop\05.AverageNumber\05.AverageNumber\obj\Debug\netcoreapp3.1\05.AverageNumber.dll
+D:\SoftUni\More Exercises\While-Loop\05.AverageNumber\05.AverageNumber\obj\Debug\netcoreapp3.1\05.AverageNumber.pdb
