@@ -1,0 +1,11 @@
+D:\SoftUni\SimpleOperationsAndCalculations-Exercise\07.AlcoholMarket\bin\Debug\netcoreapp3.1\07.AlcoholMarket.exe
+D:\SoftUni\SimpleOperationsAndCalculations-Exercise\07.AlcoholMarket\bin\Debug\netcoreapp3.1\07.AlcoholMarket.deps.json
+D:\SoftUni\SimpleOperationsAndCalculations-Exercise\07.AlcoholMarket\bin\Debug\netcoreapp3.1\07.AlcoholMarket.runtimeconfig.json
+D:\SoftUni\SimpleOperationsAndCalculations-Exercise\07.AlcoholMarket\bin\Debug\netcoreapp3.1\07.AlcoholMarket.runtimeconfig.dev.json
+D:\SoftUni\SimpleOperationsAndCalculations-Exercise\07.AlcoholMarket\bin\Debug\netcoreapp3.1\07.AlcoholMarket.dll
+D:\SoftUni\SimpleOperationsAndCalculations-Exercise\07.AlcoholMarket\bin\Debug\netcoreapp3.1\07.AlcoholMarket.pdb
+D:\SoftUni\SimpleOperationsAndCalculations-Exercise\07.AlcoholMarket\obj\Debug\netcoreapp3.1\07.AlcoholMarket.csprojAssemblyReference.cache
+D:\SoftUni\SimpleOperationsAndCalculations-Exercise\07.AlcoholMarket\obj\Debug\netcoreapp3.1\07.AlcoholMarket.AssemblyInfoInputs.cache
+D:\SoftUni\SimpleOperationsAndCalculations-Exercise\07.AlcoholMarket\obj\Debug\netcoreapp3.1\07.AlcoholMarket.AssemblyInfo.cs
+D:\SoftUni\SimpleOperationsAndCalculations-Exercise\07.AlcoholMarket\obj\Debug\netcoreapp3.1\07.AlcoholMarket.dll
+D:\SoftUni\SimpleOperationsAndCalculations-Exercise\07.AlcoholMarket\obj\Debug\netcoreapp3.1\07.AlcoholMarket.pdb
