@@ -1,0 +1,11 @@
+D:\SoftUni\Conditional Statements Advanced - Lab\07.InvalidNumber\07.InvalidNumber\bin\Debug\netcoreapp3.1\07.InvalidNumber.exe
+D:\SoftUni\Conditional Statements Advanced - Lab\07.InvalidNumber\07.InvalidNumber\bin\Debug\netcoreapp3.1\07.InvalidNumber.deps.json
+D:\SoftUni\Conditional Statements Advanced - Lab\07.InvalidNumber\07.InvalidNumber\bin\Debug\netcoreapp3.1\07.InvalidNumber.runtimeconfig.json
+D:\SoftUni\Conditional Statements Advanced - Lab\07.InvalidNumber\07.InvalidNumber\bin\Debug\netcoreapp3.1\07.InvalidNumber.runtimeconfig.dev.json
+D:\SoftUni\Conditional Statements Advanced - Lab\07.InvalidNumber\07.InvalidNumber\bin\Debug\netcoreapp3.1\07.InvalidNumber.dll
+D:\SoftUni\Conditional Statements Advanced - Lab\07.InvalidNumber\07.InvalidNumber\bin\Debug\netcoreapp3.1\07.InvalidNumber.pdb
+D:\SoftUni\Conditional Statements Advanced - Lab\07.InvalidNumber\07.InvalidNumber\obj\Debug\netcoreapp3.1\07.InvalidNumber.csprojAssemblyReference.cache
+D:\SoftUni\Conditional Statements Advanced - Lab\07.InvalidNumber\07.InvalidNumber\obj\Debug\netcoreapp3.1\07.InvalidNumber.AssemblyInfoInputs.cache
+D:\SoftUni\Conditional Statements Advanced - Lab\07.InvalidNumber\07.InvalidNumber\obj\Debug\netcoreapp3.1\07.InvalidNumber.AssemblyInfo.cs
+D:\SoftUni\Conditional Statements Advanced - Lab\07.InvalidNumber\07.InvalidNumber\obj\Debug\netcoreapp3.1\07.InvalidNumber.dll
+D:\SoftUni\Conditional Statements Advanced - Lab\07.InvalidNumber\07.InvalidNumber\obj\Debug\netcoreapp3.1\07.InvalidNumber.pdb
