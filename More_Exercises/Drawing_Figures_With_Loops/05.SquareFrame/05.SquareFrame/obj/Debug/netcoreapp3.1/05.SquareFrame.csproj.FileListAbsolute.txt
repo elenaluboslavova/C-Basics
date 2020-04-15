@@ -1,0 +1,10 @@
+D:\SoftUni\More Exercises\Drawing Figures With Loops\05.SquareFrame\05.SquareFrame\bin\Debug\netcoreapp3.1\05.SquareFrame.exe
+D:\SoftUni\More Exercises\Drawing Figures With Loops\05.SquareFrame\05.SquareFrame\bin\Debug\netcoreapp3.1\05.SquareFrame.deps.json
+D:\SoftUni\More Exercises\Drawing Figures With Loops\05.SquareFrame\05.SquareFrame\bin\Debug\netcoreapp3.1\05.SquareFrame.runtimeconfig.json
+D:\SoftUni\More Exercises\Drawing Figures With Loops\05.SquareFrame\05.SquareFrame\bin\Debug\netcoreapp3.1\05.SquareFrame.runtimeconfig.dev.json
+D:\SoftUni\More Exercises\Drawing Figures With Loops\05.SquareFrame\05.SquareFrame\bin\Debug\netcoreapp3.1\05.SquareFrame.dll
+D:\SoftUni\More Exercises\Drawing Figures With Loops\05.SquareFrame\05.SquareFrame\bin\Debug\netcoreapp3.1\05.SquareFrame.pdb
+D:\SoftUni\More Exercises\Drawing Figures With Loops\05.SquareFrame\05.SquareFrame\obj\Debug\netcoreapp3.1\05.SquareFrame.AssemblyInfoInputs.cache
+D:\SoftUni\More Exercises\Drawing Figures With Loops\05.SquareFrame\05.SquareFrame\obj\Debug\netcoreapp3.1\05.SquareFrame.AssemblyInfo.cs
+D:\SoftUni\More Exercises\Drawing Figures With Loops\05.SquareFrame\05.SquareFrame\obj\Debug\netcoreapp3.1\05.SquareFrame.dll
+D:\SoftUni\More Exercises\Drawing Figures With Loops\05.SquareFrame\05.SquareFrame\obj\Debug\netcoreapp3.1\05.SquareFrame.pdb
