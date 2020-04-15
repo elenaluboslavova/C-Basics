@@ -1,0 +1,11 @@
+D:\SoftUni\More Exercises\Nested Loops\01.UniquePINCodes\01.UniquePINCodes\bin\Debug\netcoreapp3.1\01.UniquePINCodes.exe
+D:\SoftUni\More Exercises\Nested Loops\01.UniquePINCodes\01.UniquePINCodes\bin\Debug\netcoreapp3.1\01.UniquePINCodes.deps.json
+D:\SoftUni\More Exercises\Nested Loops\01.UniquePINCodes\01.UniquePINCodes\bin\Debug\netcoreapp3.1\01.UniquePINCodes.runtimeconfig.json
+D:\SoftUni\More Exercises\Nested Loops\01.UniquePINCodes\01.UniquePINCodes\bin\Debug\netcoreapp3.1\01.UniquePINCodes.runtimeconfig.dev.json
+D:\SoftUni\More Exercises\Nested Loops\01.UniquePINCodes\01.UniquePINCodes\bin\Debug\netcoreapp3.1\01.UniquePINCodes.dll
+D:\SoftUni\More Exercises\Nested Loops\01.UniquePINCodes\01.UniquePINCodes\bin\Debug\netcoreapp3.1\01.UniquePINCodes.pdb
+D:\SoftUni\More Exercises\Nested Loops\01.UniquePINCodes\01.UniquePINCodes\obj\Debug\netcoreapp3.1\01.UniquePINCodes.csprojAssemblyReference.cache
+D:\SoftUni\More Exercises\Nested Loops\01.UniquePINCodes\01.UniquePINCodes\obj\Debug\netcoreapp3.1\01.UniquePINCodes.AssemblyInfoInputs.cache
+D:\SoftUni\More Exercises\Nested Loops\01.UniquePINCodes\01.UniquePINCodes\obj\Debug\netcoreapp3.1\01.UniquePINCodes.AssemblyInfo.cs
+D:\SoftUni\More Exercises\Nested Loops\01.UniquePINCodes\01.UniquePINCodes\obj\Debug\netcoreapp3.1\01.UniquePINCodes.dll
+D:\SoftUni\More Exercises\Nested Loops\01.UniquePINCodes\01.UniquePINCodes\obj\Debug\netcoreapp3.1\01.UniquePINCodes.pdb
