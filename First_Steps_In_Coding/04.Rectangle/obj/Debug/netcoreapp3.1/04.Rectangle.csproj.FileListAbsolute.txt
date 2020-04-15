@@ -1,0 +1,10 @@
+D:\SoftUni\FirstStepsInCoding\04.Rectangle\bin\Debug\netcoreapp3.1\04.Rectangle.exe
+D:\SoftUni\FirstStepsInCoding\04.Rectangle\bin\Debug\netcoreapp3.1\04.Rectangle.deps.json
+D:\SoftUni\FirstStepsInCoding\04.Rectangle\bin\Debug\netcoreapp3.1\04.Rectangle.runtimeconfig.json
+D:\SoftUni\FirstStepsInCoding\04.Rectangle\bin\Debug\netcoreapp3.1\04.Rectangle.runtimeconfig.dev.json
+D:\SoftUni\FirstStepsInCoding\04.Rectangle\bin\Debug\netcoreapp3.1\04.Rectangle.dll
+D:\SoftUni\FirstStepsInCoding\04.Rectangle\bin\Debug\netcoreapp3.1\04.Rectangle.pdb
+D:\SoftUni\FirstStepsInCoding\04.Rectangle\obj\Debug\netcoreapp3.1\04.Rectangle.AssemblyInfoInputs.cache
+D:\SoftUni\FirstStepsInCoding\04.Rectangle\obj\Debug\netcoreapp3.1\04.Rectangle.AssemblyInfo.cs
+D:\SoftUni\FirstStepsInCoding\04.Rectangle\obj\Debug\netcoreapp3.1\04.Rectangle.dll
+D:\SoftUni\FirstStepsInCoding\04.Rectangle\obj\Debug\netcoreapp3.1\04.Rectangle.pdb
