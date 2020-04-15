@@ -1,0 +1,10 @@
+D:\SoftUni\SimpleOperationsAndCalculations-Exercise\03.2DRectangleArea\obj\Debug\netcoreapp3.1\03.2DRectangleArea.AssemblyInfoInputs.cache
+D:\SoftUni\SimpleOperationsAndCalculations-Exercise\03.2DRectangleArea\obj\Debug\netcoreapp3.1\03.2DRectangleArea.AssemblyInfo.cs
+D:\SoftUni\SimpleOperationsAndCalculations-Exercise\03.2DRectangleArea\bin\Debug\netcoreapp3.1\03.2DRectangleArea.exe
+D:\SoftUni\SimpleOperationsAndCalculations-Exercise\03.2DRectangleArea\bin\Debug\netcoreapp3.1\03.2DRectangleArea.deps.json
+D:\SoftUni\SimpleOperationsAndCalculations-Exercise\03.2DRectangleArea\bin\Debug\netcoreapp3.1\03.2DRectangleArea.runtimeconfig.json
+D:\SoftUni\SimpleOperationsAndCalculations-Exercise\03.2DRectangleArea\bin\Debug\netcoreapp3.1\03.2DRectangleArea.runtimeconfig.dev.json
+D:\SoftUni\SimpleOperationsAndCalculations-Exercise\03.2DRectangleArea\bin\Debug\netcoreapp3.1\03.2DRectangleArea.dll
+D:\SoftUni\SimpleOperationsAndCalculations-Exercise\03.2DRectangleArea\bin\Debug\netcoreapp3.1\03.2DRectangleArea.pdb
+D:\SoftUni\SimpleOperationsAndCalculations-Exercise\03.2DRectangleArea\obj\Debug\netcoreapp3.1\03.2DRectangleArea.dll
+D:\SoftUni\SimpleOperationsAndCalculations-Exercise\03.2DRectangleArea\obj\Debug\netcoreapp3.1\03.2DRectangleArea.pdb
